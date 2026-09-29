@@ -14,4 +14,6 @@ assignees: []
 
 **What result would disprove your proposed explanation?**
 
+**Public credit:** Write `yes` to show your GitHub username on the contribution board, or `no` to stay off it.
+
 Do not include physical build instructions, confidential data, credentials, or personal information.
