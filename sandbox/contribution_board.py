@@ -73,8 +73,11 @@ def main():
         "| Contributor | Submission | Review status |\n|---|---|---|\n"
         f"{table}\n"
     )
-    request(f"/repos/{REPO}/issues/{board['number']}", {"body": content}, method="PATCH")
-    print(f"Updated board issue #{board['number']} with {len(rows)} opt-in submissions")
+    if (board.get("body") or "") != content:
+        request(f"/repos/{REPO}/issues/{board['number']}", {"body": content}, method="PATCH")
+        print(f"Updated board issue #{board['number']} with {len(rows)} opt-in submissions")
+    else:
+        print("Board already current")
 
 
 if __name__ == "__main__":
