@@ -1,7 +1,7 @@
-"""Update a public GitHub issue with opt-in challenge contributions.
+"""Update a public GitHub issue with reviewed, opt-in challenge contributions.
 
-This is participation accounting, not a measure of propulsion or scientific truth.
-Only maintainers can award a validated finding by applying the named label.
+Participation accounting only, not a measure of propulsion or scientific truth.
+Only maintainers can add the reviewed-entry or validated-counterexample labels.
 """
 import json
 import os
@@ -46,6 +46,14 @@ def opt_in(body):
     return bool(answer) and answer[0].strip().lower() == "yes"
 
 
+def eligible(issue):
+    """No unreviewed issue is promoted to the public board."""
+    if "pull_request" in issue or not issue["title"].startswith("[Challenge]"):
+        return False
+    labels = {x["name"] for x in issue.get("labels", [])}
+    return "reviewed-entry" in labels and opt_in(issue.get("body") or "")
+
+
 def main():
     all_issues = list(issues())
     board = next((i for i in all_issues if BOARD_MARKER in (i.get("body") or "")), None)
@@ -53,13 +61,10 @@ def main():
         board = request(f"/repos/{REPO}/issues", {"title": "Synthetic challenge contribution board", "body": BOARD_MARKER})
     rows = []
     for issue in all_issues:
-        if "pull_request" in issue or not issue["title"].startswith("[Challenge]"):
-            continue
-        body = issue.get("body") or ""
-        if not opt_in(body):
+        if not eligible(issue):
             continue
         labels = {x["name"] for x in issue.get("labels", [])}
-        status = "Validated critique" if "validated-counterexample" in labels else "Awaiting reproduction"
+        status = "Validated critique" if "validated-counterexample" in labels else "Reviewed entry; reproduction pending"
         login = issue["user"]["login"]
         number = issue["number"]
         rows.append((status == "Validated critique", number, login, status))
@@ -67,18 +72,20 @@ def main():
     table = "\n".join(
         f"| [@{login}](https://github.com/{login}) | [#{number}](https://github.com/{REPO}/issues/{number}) | {status} |"
         for _, number, login, status in rows
-    ) or "| — | — | No opt-in submissions yet |"
+    ) or "| — | — | No reviewed opt-in submissions yet |"
     content = (
         f"{BOARD_MARKER}\n\n# Synthetic challenge contribution board\n\n"
-        "This board credits opt-in participants. It measures contributions to finding weaknesses in a fictional data exercise, **not propulsion or flight**. "
+        "This board credits reviewed, opt-in participants in a fictional data exercise, **not propulsion or flight**. "
+        "Maintainers add `reviewed-entry` after checking for personal data, confidential material, unsafe instructions and spam. "
         "A maintainer adds `validated-counterexample` only after independently reproducing a critique. "
-        "A reported physical effect needs a separate calibrated experiment and independent replication.\n\n"
+        "Issue authors can remove public credit by changing their opt-in answer to no; GitHub's underlying issue history may remain public. "
+        "A physical claim needs a separate calibrated experiment and independent replication.\n\n"
         "| Contributor | Submission | Review status |\n|---|---|---|\n"
         f"{table}\n"
     )
     if (board.get("body") or "") != content:
         request(f"/repos/{REPO}/issues/{board['number']}", {"body": content}, method="PATCH")
-        print(f"Updated board issue #{board['number']} with {len(rows)} opt-in submissions")
+        print(f"Updated board issue #{board['number']} with {len(rows)} reviewed opt-in submissions")
     else:
         print("Board already current")
 
