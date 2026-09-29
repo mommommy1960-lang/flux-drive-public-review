@@ -8,7 +8,7 @@ assignees: []
 
 **What fails or remains inconclusive?**
 
-**Reproduction (synthetic CSV and command only; no executable attachments or external scripts):**
+**Reproduction (small CSV rows pasted as plain text and a command using the repository's own script only; no files, links, executable attachments, external scripts or patches):**
 
 **What ordinary explanation or missing channel might account for it?**
 
