@@ -16,6 +16,6 @@ assignees: []
 
 **Public credit:** Write `yes` to show your GitHub username on the contribution board after moderation, or `no` to stay off it. You can change this later, but public issue history may persist.
 
-By posting, you confirm you have rights to your synthetic submission and allow its display, discussion and adaptation for challenge review under [CONTRIBUTING.md](https://github.com/mommommy1960-lang/flux-drive-public-review/blob/main/CONTRIBUTING.md). No prize or physical propulsion claim is involved.
+By posting, you confirm you have rights to your synthetic submission and allow its display, discussion and adaptation for challenge review under CONTRIBUTING.md. No prize or physical propulsion claim is involved.
 
 Do not include physical build instructions, confidential data, credentials, personal information, others' work without permission, or private contact details.
