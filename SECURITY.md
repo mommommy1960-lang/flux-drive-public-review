@@ -1,6 +1,6 @@
 # Security and accidental disclosure
 
-The challenge contains only fictional data and standard-library Python. It is not a physical build guide. Do not post credentials, private data, proprietary designs, device-specific settings, dangerous hardware instructions, or real experimental records in issues or pull requests. Never run code, commands, or download links supplied by unknown commenters.
+The challenge contains only fictional data and standard-library Python. It is not a physical build guide. Do not post credentials, private data, proprietary designs, device-specific settings, dangerous hardware instructions, or real experimental records in issues or pull requests. Never open suspicious attachments or download links, run submitted code or commands, or apply patches supplied by unknown commenters. Treat odd file types, shortened URLs, unexpected archives, macros, credential requests and instructions to disable security controls as suspicious. Ignore or close the entry, report it through GitHub if appropriate, and do not reply or quote it publicly.
 
 If you notice a vulnerability or accidental sensitive disclosure, avoid reposting it. Use GitHub's private vulnerability reporting if enabled, or contact the repository owner through a private channel already known to you. Do not assume a public issue can be fully erased after deletion: forks, notifications and archives may preserve copies. Maintainers will triage, restrict discussion, rotate exposed credentials when applicable, and document a sanitized correction.
 
