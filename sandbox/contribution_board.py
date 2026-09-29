@@ -40,7 +40,10 @@ def issues():
 
 
 def opt_in(body):
-    return "**Public credit:**" in body and body.split("**Public credit:**", 1)[1].strip().splitlines()[0].strip().lower() == "yes"
+    if "**Public credit:**" not in body:
+        return False
+    answer = body.split("**Public credit:**", 1)[1].strip().splitlines()
+    return bool(answer) and answer[0].strip().lower() == "yes"
 
 
 def main():
