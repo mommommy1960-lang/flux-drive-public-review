@@ -1,6 +1,6 @@
 # Can you fool the force-trace detector?
 
-This is a free, fictional, synthetic data challenge for adults. There is no prize or drawing. The numbers are arbitrary and do not describe an engine, instrument, physical experiment, or measured thrust.
+This is a free, fictional, synthetic data challenge. There is no prize or drawing. The numbers are arbitrary and do not describe an engine, instrument, physical experiment, or measured thrust.
 
 Run `python3 challenge.py challenge.csv` using Python 3, or inspect the CSV by eye. The script prints each run's average apparent signal and the average after subtracting a deliberately imperfect artifact proxy. It does **not** decide whether a residual is thrust. It reads only your local CSV and has no network access. Do not run code from unknown commenters or open their files in a spreadsheet.
 
