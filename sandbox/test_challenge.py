@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 
 from challenge import summarize
-from contribution_board import eligible
+from contribution_board import eligible, labels_after_edit
 
 
 class ChallengeTest(unittest.TestCase):
@@ -36,6 +36,15 @@ class ChallengeTest(unittest.TestCase):
         self.assertTrue(eligible(issue))
         issue["body"] = "**Public credit:** no"
         self.assertFalse(eligible(issue))
+
+    def test_edit_revokes_review_and_validation(self):
+        issue = {"labels": [
+            {"name": "reviewed-entry"},
+            {"name": "validated-counterexample"},
+            {"name": "topic-synthetic"},
+        ]}
+        self.assertEqual(labels_after_edit(issue), ["topic-synthetic"])
+        self.assertIsNone(labels_after_edit({"labels": []}))
 
 
 if __name__ == "__main__":
