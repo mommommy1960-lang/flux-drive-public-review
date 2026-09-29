@@ -1,5 +1,7 @@
 # Aurora / Flux Drive — independent review
 
+![Find the phantom force synthetic challenge](sandbox/challenge_banner.svg)
+
 **Civic Continuum | Public non-confidential research summary**
 
 We invite physicists, metrologists, controls engineers, and laboratory safety reviewers to challenge our proposed evidence standard. We welcome a correction, a null result, or a clear stop criterion.
@@ -12,7 +14,7 @@ The proposed physical readiness work remains blocked on independently calibrated
 
 ## Public synthetic challenge
 
-The [fictional force-trace challenge](sandbox/README.md) lets participants test simple artifact subtraction and submit counterexamples. Its arbitrary data and generic columns are educational only; they reveal no article geometry, operating settings, or physical measurements. Accepted critiques are independently reproduced before changing the private research sandbox.
+The [fictional force-trace challenge](sandbox/README.md) lets participants test simple artifact subtraction and submit counterexamples. Its arbitrary data and generic columns are educational only; they reveal no article geometry, operating settings, or physical measurements. Accepted critiques are independently reproduced before changing the private research sandbox. Opt-in contributors appear on the [live contribution board](issues/2); a challenge entry is not a propulsion result.
 
 ## Review questions
 
