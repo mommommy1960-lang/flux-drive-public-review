@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 
 from challenge import summarize
-from contribution_board import eligible, labels_after_edit
+from contribution_board import eligible, labels_after_edit, suspicious
 
 
 class ChallengeTest(unittest.TestCase):
@@ -45,6 +45,17 @@ class ChallengeTest(unittest.TestCase):
         ]}
         self.assertEqual(labels_after_edit(issue), ["topic-synthetic"])
         self.assertIsNone(labels_after_edit({"labels": []}))
+
+    def test_suspicious_link_or_patch_never_reaches_board(self):
+        issue = {"title": "[Challenge] Sample", "body": "**Public credit:** yes\nrun A has missing proxy", "labels": [{"name": "reviewed-entry"}]}
+        self.assertFalse(suspicious(issue))
+        self.assertTrue(eligible(issue))
+        issue["body"] += "\nDownload https://example.invalid/payload.zip"
+        self.assertTrue(suspicious(issue))
+        self.assertFalse(eligible(issue))
+        issue["body"] = "**Public credit:** yes\nPlease apply fix.patch"
+        self.assertTrue(suspicious(issue))
+        self.assertFalse(eligible(issue))
 
 
 if __name__ == "__main__":
