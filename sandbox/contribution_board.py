@@ -6,12 +6,23 @@ Edits to reviewed issues revoke review until a maintainer screens them again.
 """
 import json
 import os
+import re
 import urllib.request
 
 REPO = "mommommy1960-lang/flux-drive-public-review"
 API = "https://api.github.com"
 BOARD_MARKER = "FLUX_SYNTHETIC_CONTRIBUTION_BOARD"
 REVIEW_LABELS = {"reviewed-entry", "validated-counterexample"}
+SUSPICIOUS = re.compile(
+    r"https?://|www\.|mailto:|data:|\]\(|\b(?:curl|wget)\b|\b(?:git apply|pip install)\b|"
+    r"\.(?:exe|msi|apk|dmg|bat|cmd|ps1|sh|zip|rar|7z|patch|diff)\b|diff --git",
+    re.IGNORECASE,
+)
+
+
+def suspicious(issue):
+    """Plain-text policy gate; this is not an antivirus scanner."""
+    return bool(SUSPICIOUS.search((issue.get("title") or "") + "\n" + (issue.get("body") or "")))
 
 
 def request(path, data=None, method=None):
@@ -53,7 +64,7 @@ def eligible(issue):
     if "pull_request" in issue or not issue["title"].startswith("[Challenge]"):
         return False
     labels = {x["name"] for x in issue.get("labels", [])}
-    return "reviewed-entry" in labels and opt_in(issue.get("body") or "")
+    return "reviewed-entry" in labels and not suspicious(issue) and opt_in(issue.get("body") or "")
 
 
 def labels_after_edit(issue):
@@ -63,16 +74,22 @@ def labels_after_edit(issue):
     return sorted(labels - REVIEW_LABELS)
 
 
-def revoke_on_edit():
+def screen_event():
     event_path = os.environ.get("GITHUB_EVENT_PATH")
     if os.environ.get("GITHUB_EVENT_NAME") != "issues" or not event_path:
         return
     with open(event_path, encoding="utf-8") as handle:
         event = json.load(handle)
-    if event.get("action") != "edited":
+    if event.get("action") not in {"opened", "edited"}:
         return
     issue = event.get("issue") or {}
-    if "pull_request" in issue:
+    if "pull_request" in issue or not issue.get("title", "").startswith("[Challenge]"):
+        return
+    if suspicious(issue):
+        request(f"/repos/{REPO}/issues/{issue['number']}", {"state": "closed", "state_reason": "not_planned", "labels": sorted({x['name'] for x in issue.get('labels', [])} - REVIEW_LABELS)}, method="PATCH")
+        print(f"Closed policy-violating issue #{issue['number']} without opening attachments or posting a reply")
+        return
+    if event.get("action") != "edited":
         return
     remaining = labels_after_edit(issue)
     if remaining is not None:
@@ -81,7 +98,7 @@ def revoke_on_edit():
 
 
 def main():
-    revoke_on_edit()
+    screen_event()
     all_issues = list(issues())
     board = next((i for i in all_issues if BOARD_MARKER in (i.get("body") or "")), None)
     if board is None:
