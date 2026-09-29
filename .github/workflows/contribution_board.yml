@@ -6,12 +6,17 @@ on:
 permissions:
   contents: read
   issues: write
+concurrency:
+  group: synthetic-contribution-board
+  cancel-in-progress: false
 jobs:
   board:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Rebuild opt-in board
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Rebuild reviewed opt-in board
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python sandbox/contribution_board.py
+        run: python3 sandbox/contribution_board.py
