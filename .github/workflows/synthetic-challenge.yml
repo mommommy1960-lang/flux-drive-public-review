@@ -10,10 +10,9 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
-          python-version: "3.11"
+          persist-credentials: false
       - name: Run synthetic checks
         working-directory: sandbox
-        run: python -m unittest discover -p 'test_*.py'
+        run: python3 -m unittest discover -p 'test_*.py'
