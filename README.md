@@ -14,7 +14,7 @@ The proposed physical readiness work remains blocked on independently calibrated
 
 ## Public synthetic challenge
 
-The [fictional force-trace challenge](sandbox/README.md) lets adults test simple artifact subtraction and submit counterexamples. Its arbitrary data and generic columns are educational only; they reveal no article geometry, operating settings, or physical measurements.
+The [fictional force-trace challenge](sandbox/README.md) lets reviewers test simple artifact subtraction and submit counterexamples. Its arbitrary data and generic columns are educational only; they reveal no article geometry, operating settings, or physical measurements.
 
 This is **free participation with no prize, cash award, raffle, funding offer, employment offer, or promise to use an idea**. It is an educational exercise, not a competition to make a physical engine fly. Public issue submissions are screened by a maintainer before appearing on the [opt-in contribution board](https://github.com/mommommy1960-lang/flux-drive-public-review/issues/2). Only independently reproduced synthetic critiques can receive the validated label. Public entries are **not** automatically ingested, executed, or merged into the private research sandbox.
 
