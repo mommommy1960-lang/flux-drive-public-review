@@ -1,6 +1,6 @@
 # Synthetic challenge participation
 
-This is an educational, fictional data challenge for adults. It is free, voluntary, and has no prize, cash value, drawing, employment offer, or promise of research credit beyond optional public acknowledgment. The contribution board is a review-status list, not a scientific ranking or guarantee of publication.
+This is an educational, fictional data challenge. It is free, voluntary, and has no prize, cash value, drawing, employment offer, or promise of research credit beyond optional public acknowledgment. The contribution board is a review-status list, not a scientific ranking or guarantee of publication.
 
 ## How to take part
 1. Run the small standard-library Python example in `sandbox/` or inspect the CSV manually.
