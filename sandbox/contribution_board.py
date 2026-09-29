@@ -2,6 +2,7 @@
 
 Participation accounting only, not a measure of propulsion or scientific truth.
 Only maintainers can add the reviewed-entry or validated-counterexample labels.
+Edits to reviewed issues revoke review until a maintainer screens them again.
 """
 import json
 import os
@@ -10,6 +11,7 @@ import urllib.request
 REPO = "mommommy1960-lang/flux-drive-public-review"
 API = "https://api.github.com"
 BOARD_MARKER = "FLUX_SYNTHETIC_CONTRIBUTION_BOARD"
+REVIEW_LABELS = {"reviewed-entry", "validated-counterexample"}
 
 
 def request(path, data=None, method=None):
@@ -54,7 +56,32 @@ def eligible(issue):
     return "reviewed-entry" in labels and opt_in(issue.get("body") or "")
 
 
+def labels_after_edit(issue):
+    labels = {x["name"] for x in issue.get("labels", [])}
+    if not labels.intersection(REVIEW_LABELS):
+        return None
+    return sorted(labels - REVIEW_LABELS)
+
+
+def revoke_on_edit():
+    event_path = os.environ.get("GITHUB_EVENT_PATH")
+    if os.environ.get("GITHUB_EVENT_NAME") != "issues" or not event_path:
+        return
+    with open(event_path, encoding="utf-8") as handle:
+        event = json.load(handle)
+    if event.get("action") != "edited":
+        return
+    issue = event.get("issue") or {}
+    if "pull_request" in issue:
+        return
+    remaining = labels_after_edit(issue)
+    if remaining is not None:
+        request(f"/repos/{REPO}/issues/{issue['number']}", {"labels": remaining}, method="PATCH")
+        print(f"Removed review labels from edited issue #{issue['number']}")
+
+
 def main():
+    revoke_on_edit()
     all_issues = list(issues())
     board = next((i for i in all_issues if BOARD_MARKER in (i.get("body") or "")), None)
     if board is None:
@@ -77,6 +104,7 @@ def main():
         f"{BOARD_MARKER}\n\n# Synthetic challenge contribution board\n\n"
         "This board credits reviewed, opt-in participants in a fictional data exercise, **not propulsion or flight**. "
         "Maintainers add `reviewed-entry` after checking for personal data, confidential material, unsafe instructions and spam. "
+        "Editing a reviewed issue removes review status until another moderator check. "
         "A maintainer adds `validated-counterexample` only after independently reproducing a critique. "
         "Issue authors can remove public credit by changing their opt-in answer to no; GitHub's underlying issue history may remain public. "
         "A physical claim needs a separate calibrated experiment and independent replication.\n\n"
