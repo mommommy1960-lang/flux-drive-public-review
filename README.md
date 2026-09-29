@@ -1,5 +1,7 @@
 # Aurora / Flux Drive — independent review
 
+![Find the phantom force synthetic challenge](sandbox/challenge_banner.svg)
+
 **Civic Continuum | Public non-confidential research summary**
 
 We invite physicists, metrologists, controls engineers, and laboratory safety reviewers to challenge our proposed evidence standard. We welcome a correction, a null result, or a clear stop criterion.
@@ -9,6 +11,10 @@ We invite physicists, metrologists, controls engineers, and laboratory safety re
 The current work is software simulation and measurement planning. A local submission demonstration passed 121 software tests with hardware input/output disabled. These tests do not establish a physical emergency stop, calibrated force measurement, anomalous force, or propulsion. No reactionless propulsion, faster-than-light travel, spacetime control, or flight-capable vehicle has been demonstrated. `physical_propulsion_proven=false`.
 
 The proposed physical readiness work remains blocked on independently calibrated measurement channels, environmental and sham controls, uncertainty values, a physically tested emergency disconnect, and independent operation. No hazardous hardware work is authorized by this page.
+
+## Public synthetic challenge
+
+The [fictional force-trace challenge](sandbox/README.md) lets participants test simple artifact subtraction and submit counterexamples. Its arbitrary data and generic columns are educational only; they reveal no article geometry, operating settings, or physical measurements. Accepted critiques are independently reproduced before changing the private research sandbox. Opt-in contributors appear on the [live contribution board](https://github.com/mommommy1960-lang/flux-drive-public-review/issues/2); a challenge entry is not a propulsion result.
 
 ## Review questions
 
@@ -22,4 +28,4 @@ Please provide a specific critique and identify the evidence needed to resolve i
 
 ## Disclosure boundary
 
-This public page deliberately contains no materials list, geometry, sensor layout, calibration procedure, operating sequence, channel schema, control code, parameter search, raw data, or patent mapping. Review of this summary grants no implementation or commercial rights.
+This public page deliberately contains no materials list, geometry, sensor layout, calibration procedure, operating sequence, device-specific channel schema, physical control code, parameter search, raw data, or patent mapping. Review of this summary grants no implementation or commercial rights.
