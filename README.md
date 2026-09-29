@@ -10,6 +10,10 @@ The current work is software simulation and measurement planning. A local submis
 
 The proposed physical readiness work remains blocked on independently calibrated measurement channels, environmental and sham controls, uncertainty values, a physically tested emergency disconnect, and independent operation. No hazardous hardware work is authorized by this page.
 
+## Public synthetic challenge
+
+The [fictional force-trace challenge](sandbox/README.md) lets participants test simple artifact subtraction and submit counterexamples. Its arbitrary data and generic columns are educational only; they reveal no article geometry, operating settings, or physical measurements. Accepted critiques are independently reproduced before changing the private research sandbox.
+
 ## Review questions
 
 1. Which assumptions or dimensional, momentum, and energy accounts fail physical scrutiny?
@@ -22,4 +26,4 @@ Please provide a specific critique and identify the evidence needed to resolve i
 
 ## Disclosure boundary
 
-This public page deliberately contains no materials list, geometry, sensor layout, calibration procedure, operating sequence, channel schema, control code, parameter search, raw data, or patent mapping. Review of this summary grants no implementation or commercial rights.
+This public page deliberately contains no materials list, geometry, sensor layout, calibration procedure, operating sequence, device-specific channel schema, physical control code, parameter search, raw data, or patent mapping. Review of this summary grants no implementation or commercial rights.
