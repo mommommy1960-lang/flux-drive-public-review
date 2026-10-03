@@ -91,3 +91,8 @@ The regular GitHub test workflow for the comparison implementation also passed a
 Five distinct research workers reviewed the equal-time conventional photon comparison, including causal timing, collision channels, thermal bookkeeping, numerical boundaries and independent analytic limits. This is internal software review, not external peer review or physical replication. The project found extreme-input cases that could silently erase a small impulse or give unreliable conservation diagnostics; the calculation now rejects those unsupported cases. Six additional regression and analytic tests bring the passing local suite to 169 tests. Hosted verification of this repair is pending. Detailed cases, rejected runs and implementation remain in private PR #29; earlier history is preserved.
 
 The existing research watch now includes bounded numerical follow-up alongside patent screening. Its next measurable gate remains traceable optical inputs and thermal/cooling accounting, including the momentum carried by emitted light, before selecting a physical measurement. No new patent screen, shell-energy calculation, hardware result, warp source or flight is claimed. Prior inventor/source credits remain intact; this project's contribution here is review, correction and testing of its numerical model.
+
+
+## 2026-10-03 — review repair hosted verification
+
+The regular hosted workflow also passed all 169 tests for the reviewed numerical repair. Saved code and public/private progress records were read back successfully. This establishes software execution under the stated assumptions; no physical replication, warp source or flight is established. The research PR remains open for review.
