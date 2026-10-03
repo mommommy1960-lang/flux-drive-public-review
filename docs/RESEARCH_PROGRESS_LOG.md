@@ -35,3 +35,16 @@ This public record reports completed research work and its evidence status. Deta
 - J. Fuchs and colleagues, [Constant Velocity Physical Warp Drive Solution](https://arxiv.org/html/2405.02709v1), 2024, especially the acceleration discussion.
 
 External papers and instruments remain credited to their authors. This entry records this project's review and decisions, and makes no claim to inventing those prior technologies.
+
+
+## 2026-10-03 — finite-energy photon bookkeeping check
+
+**Completed work:** an idealized numerical photon-packet calculation with independent closed-form checks. Five illustrative cases passed optical-energy, radiation-impulse, and mechanical-work consistency checks.
+
+**Finding:** repeated reflections can redistribute a light packet's momentum between separate bodies. For a receding target, mechanical work draws down the packet's optical energy; the useful impulse from a finite-energy packet does not grow without limit.
+
+**Limits:** the calculation prescribes the mirror motion. It does not simulate spacecraft acceleration, beam capture, propagation delay, thermal behavior, or a Flux shell. No physical force measurement or flight test occurred.
+
+**Contribution and record:** this project performed the numerical bookkeeping check using conventional physics. Detailed equations, numerical cases, and the audit script are retained in the private record. Previous public entries remain intact.
+
+**Next gate:** extend the comparison to moving trajectories and real optical losses without losing conservation or confusing pulse energy with circulating power.
