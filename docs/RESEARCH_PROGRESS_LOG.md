@@ -209,3 +209,8 @@ A numerical evidence-labeling safeguard now distinguishes a sampled violation fr
 ## 2026-10-03 — Physical source screening: Casimir vacuum
 
 Reviewed the ideal parallel-plate vacuum stress tensor and executed a conventional scale calculation, credited to Gorban, Julius and Cleaver and their Brown/Maclay source, https://arxiv.org/html/2312.00898v1 . A negative vacuum contribution is not enough to source the proposed transport geometry: pressures, material boundaries, positive plate mass, supporting stresses and conservation must all be included. This project has not matched the full apparatus tensor to Flux or measured an apparatus. Garattini/Tzikas https://arxiv.org/abs/2507.19134 is an additional near-throat theoretical lead, not reproduced or adopted. No physical warp mechanism established. Material response and complete source accounting are unresolved gates.
+
+
+## 2026-10-03 — Casimir candidate: narrow source mismatch found
+
+Executed a tensor comparison against one existing frozen wormhole model. The ideal parallel-plate vacuum contribution has incompatible invariant stress-energy trace, so it alone cannot source that specific geometry. This does not reject all quantum sources, alternative geometries, or a complete apparatus including matter and supports. Added a negative regression; 245 local tests pass, hosted pass not claimed. Source credit: Gorban, Julius, Cleaver (and Brown/Maclay), https://arxiv.org/html/2312.00898v1 . No physical measurement, warp field or flight established. Complete apparatus source remains unresolved.
