@@ -260,3 +260,8 @@ Credit Fan,Suh,Joannopoulos (JOSA A20,569,2003), https://doi.org/10.1364/JOSAA.2
 Five newly screened patent records: Fabrizio Pinto US6650527B1; Bishop,Javor,Campbell,Imboden US11550003B2; Lehman,Tomlin US9291499B2; Tatsuya Tomaru US7756385B2; Kachanov,Koulikov,Richman US7535573B2. Primary links respectively https://patents.google.com/patent/US6650527B1/en , https://patents.google.com/patent/US11550003B2/en , https://patents.google.com/patent/US9291499B2/en , https://patents.google.com/patent/US7756385B2/en , https://patents.google.com/patent/US7535573B2/en . Retained as material-response, calibration, mode-control or metrology leads; none establishes a realizable Flux spacetime source. Duplicate family excluded. Dated legal-status metadata is provisional; official family/claims/reinstatement review remains necessary, no freedom-to-operate conclusion.
 
 The physical gate is independently calibrated optical loading and loss-channel measurements with electrical-substitution heat controls and separately metered controller costs. Needed measurements remain unavailable; no hardware operation, propulsion, flight/FTL or guaranteed breakthrough claimed. Detailed equations, synthetic parameters, source gates and failures remain in the private record. Issue24 unchanged because this pass added no shell-tensor calculation.
+
+
+### 2026-10-03 — Hosted verification correction
+
+The new cavity implementation's hosted workflow failed before any test step (https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37147170257). It did not run the267-test suite; local pass remains local evidence. Existing account-level CI blocker is unresolved; no hosted pass or rerun implied. Calibrated physical/electrical parameters remain the empirical gate.
