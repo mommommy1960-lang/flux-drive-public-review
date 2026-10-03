@@ -265,3 +265,18 @@ The physical gate is independently calibrated optical loading and loss-channel m
 ### 2026-10-03 — Hosted verification correction
 
 The new cavity implementation's hosted workflow failed before any test step (https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37147170257). It did not run the267-test suite; local pass remains local evidence. Existing account-level CI blocker is unresolved; no hosted pass or rerun implied. Calibrated physical/electrical parameters remain the empirical gate.
+
+
+### 2026-10-03 — detuning and traceable optical-capture sensitivity
+
+A new conventional cavity sensitivity calculation adds constant frequency detuning, Gaussian spectral averaging for resolved incoherent components, and centered Gaussian-beam aperture clipping to the existing stationary loading ledger. It is simulation with synthetic inputs, not measured hardware. Ten focused local regressions pass; the repository full suite was not rerun in this bounded pass. The current hosted run failed before exposing test steps, so no hosted pass is claimed.
+
+The calculation makes a previously hidden control requirement explicit: retaining 99% of ideal steady resonant loading requires residual detuning below about 5.03% of the cavity energy linewidth in the declared model. A centered circular aperture with radius equal to one Gaussian 1/e^2 beam radius passes about 86.47% of the power; twice that radius passes about 99.966%, before alignment and diffraction corrections. A source spectrum as broad as the cavity response also reduces loading substantially. These are sensitivity examples, not selected build parameters.
+
+Source credit: Fan, Suh and Joannopoulos, JOSA A 20, 569–572 (2003), https://doi.org/10.1364/JOSAA.20.000569; NIST SP 250-75, https://doi.org/10.6028/NIST.SP.250-75. Project contribution is implementation, regression testing and a measurement gate.
+
+Newly screened records include US20170200815A1 (Caldeira et al., gated semiconductor Casimir MEMS), US7164131B2 (Robert Joseph Phelan Jr., electrically calibrated radiometry), US7241986B2 (Chuji Wang, fiber ringdown pressure sensing), US11441944B2 (Ahmed Bouzid, alignment/frequency scanning), US20260085973A1 (Yong Jin Lee, beam profiling) and GB2540868A (Quaw M'dimoir, thermal-photon steering). They are retained or rejected as measurement/prior-art references; none establishes a spacetime source or propulsion. Status/family metadata is provisional and gives no freedom-to-operate conclusion.
+
+A synchronized literature audit also found a branch-specific real-valued-domain problem in Garattini and Tzikas, arXiv:2507.19134v2, https://arxiv.org/html/2507.19134v2. The alternative algebraic branch needs a complete rederivation and was not adopted. The paper's additional pressure-only term still lacks a demonstrated microscopic source. This does not reject its other branches or quantum-source possibilities.
+
+The physical gate is a calibrated loading/hold/ringdown run measuring spectrum, spatial-mode overlap, polarization, aperture/diffraction, resonance/linewidth, complex reflection/transmission, scatter, calorimetry and electrical acquisition/control/support costs. No hardware, shell, flight or FTL result follows.
