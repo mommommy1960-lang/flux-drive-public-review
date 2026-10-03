@@ -132,3 +132,15 @@ Added a stationary conventional-physics cooling calculation that separates emitt
 
 
 Hosted verification: regular workflow https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37137989566 passed for implementation 2332b10623c4080d9ca0b7a2db7b7c65b89e0c6f. Job 111246348538 confirms 199 tests. Subsequent verification edits are documentation only.
+
+
+
+### 2026-10-03 — optical deposition, sensitivity and three patent leads
+Integrated a stationary single-pass optical energy budget with environmental cooling. Only absorbed power heats the model; missed, reflected and transmitted light remain explicit. Laser absorptance is separate from thermal emissivity. Eleven new tests bring the local suite to210 passing tests; five bounded workers contributed source/physics/numerical reviews. Executed a further finite synthetic sensitivity grid; it is not material calibration, a global safety bound or a measured result. No momentum/recoil/cavity-control result.
+
+New inventor credit and screening outcomes:
+- M’dimoir Quaw, GB2562139A: https://patents.google.com/patent/GB2562139A/en . Published2018-11-07. Warp/virtual-particle claims not adopted as a source. Displayed Pending conflicts with withdrawal/refusal and a later reinstatement request; current official status is unresolved.
+- John Baker,Leland F.Collins,Thomas C.Kuklo,James V.Micali, US5156459A: https://patents.google.com/patent/US5156459 . Granted1992-10-20. Retain coolant-flow/temperature calorimetry as a calibration reference; displayed fee-related expiration is not a legal clearance.
+- Donald L.Decker,Paul A.Temple, US4185497A: republished issued text https://patents.justia.com/patent/4185497 . Granted1980-01-29. Electrical-substitution calibration/stray-light controls are candidate measurement leads; primary-host and family/status verification incomplete, not a cleared dead patent.
+
+Primary reference credit: NIST IRIS https://www.nist.gov/laboratories/tools-instruments/infrared-reference-integrating-sphere-iris and NASA thermal control https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/ . Actual contribution is offline conventional-physics implementation and source screening. No hardware, flight, FTL or freedom-to-operate claim. Private detail preserved in open PR29 and issue25; issue24 unchanged. Next measured gate is traceable absorbed-heat/optical-power calibration and material/background inputs with uncertainty. Next software gate is time-resolved deposition; momentum and cavity loading remain unresolved.
