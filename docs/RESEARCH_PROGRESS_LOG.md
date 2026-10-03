@@ -300,3 +300,10 @@ New patent screens cover residual-gas radiometric forces, MEMS radiometric-offse
 A continued primary-paper audit of Garattini and Tzikas, arXiv:2507.19134v2, found additional branch restrictions and a dimensionally inconsistent printed equation; its pressure-only zero-density residual remains a mathematical term without an identified microscopic source. This is a narrow literature check, not a blanket rejection.
 
 The physical gate requires measured facet temperatures, spectral/angular emissivity, escaping power, view factors, environmental radiation, residual pressure/gas species, support strain, enclosure reactions and six-axis force/torque closure. No hardware, Flux shell, flight or FTL result follows.
+
+
+### 2026-10-03 — Hosted verification status for the radiation-ledger review
+
+The hosted test run for the new common-frame radiation bookkeeping ended before exposing any test steps or logs. It therefore does not establish either a code failure or a hosted pass. The current-head evidence is 16 focused local tests for the new ledger and force/torque routines; an older complete-suite pass predates these changes.
+
+This limitation is preserved explicitly. No hardware result, propulsion result, shell solution, flight result or FTL claim follows.
