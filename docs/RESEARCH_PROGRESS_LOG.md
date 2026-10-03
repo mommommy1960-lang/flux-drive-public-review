@@ -124,3 +124,8 @@ The experiments show why missed light, thermal properties and detector collectio
 ## 2026-10-03 — gate hosted verification
 
 The regular hosted workflow also passed all190 tests. Saved research code and public record were read back successfully. These are conventional software experiments, not physical replication or flight. The private research PR remains open.
+
+
+### 2026-10-03 — environmental heat exchange
+
+Added a stationary conventional-physics cooling calculation that separates emitted radiation, absorbed environmental radiation and deposited heater energy. Synthetic cases show equilibrium can have nonzero opposing radiation channels despite zero net cooling. All 199 tests pass locally, including exact-solution and integration-refinement anchors. Five bounded independent worker reviews found no defect. Physical calibration, material properties, background geometry, other heat paths and radiation momentum coupling remain unresolved. Next gate is separately accounted single-pass optical absorption, keeping laser absorptance distinct from cooling emissivity. No new patent claim, hardware, thrust, flight or FTL result. Reference constant: https://physics.nist.gov/cgi-bin/cuu/Value?sigma . Detailed implementation remains private in open PR #29; hosted validation pending.
