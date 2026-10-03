@@ -119,3 +119,8 @@ Four new records were reviewed with inventor credit: Schuma/Teppo (US4846550A), 
 The project implemented conventional Gaussian capture bounds, a restricted radiative cooldown timeline, and angular collection/momentum checks. A calculated capture fraction was tested in the existing finite-mass photon model for a first pass. Eleven new tests bring the passing local suite to190. A separate reviewer verified the original focused tests and found a tiny-angle numerical cancellation, now corrected with a regression. Hosted verification is pending. Detailed assumptions/results are private in PR29; earlier failures remain preserved.
 
 The experiments show why missed light, thermal properties and detector collection angle must be explicit rather than presumed. They do not establish patented-device performance. No fabricated optics, thermal-survival measurement, general moving cavity, new shell source or flight is claimed. Source credit also includes Francesco D'Angelo/Edmund Optics for standard Gaussian equations and NIST CODATA for constants. Next: measured or bounded optical/thermal inputs, finite background heat, and a complete moving-beam/control ledger. No issue24 tensor result changed.
+
+
+## 2026-10-03 — gate hosted verification
+
+The regular hosted workflow also passed all190 tests. Saved research code and public record were read back successfully. These are conventional software experiments, not physical replication or flight. The private research PR remains open.
