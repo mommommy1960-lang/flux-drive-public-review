@@ -96,3 +96,12 @@ The existing research watch now includes bounded numerical follow-up alongside p
 ## 2026-10-03 — review repair hosted verification
 
 The regular hosted workflow also passed all 169 tests for the reviewed numerical repair. Saved code and public/private progress records were read back successfully. This establishes software execution under the stated assumptions; no physical replication, warp source or flight is established. The research PR remains open for review.
+
+
+## 2026-10-03 — thermal recoil accounting and new source review
+
+A conventional isolated radiation-emission calculation now accounts for emitted-light momentum, mirror recoil and the associated loss of stored rest energy in different reference frames. Ten new analytic tests bring the locally passing suite to 179; a separate research worker independently passed the ten focused tests. Hosted verification is pending. This event calculation does not yet supply a temperature, cooling rate or time-coupled optical model. Earlier failed test expectations caused by decimal precision were corrected and preserved privately.
+
+Five new bounded source tracks found useful cooling/metrology references and clear negatives: Boris Volfson (US6960975B1), Laurent G. Pilon (US20110298333A1), Marian Florescu/Jonathan Dowling/Hwang Lee (US20090217977A1), Denis Villate/Marco Soscia (US10228295B2), and Richard William Aston/Michael J. Langmack (US9403606B2; related Aston US9238513B2). Publication records are linked in the credited private source ledger. Their patent claims do not establish a warp source. One calorimeter's disclosed resolution is too coarse to establish the proposed low-heat measurement gate; angular radiation must be measured separately from total cooling. The new source records remain references or negatives, not installed hardware, and displayed status does not establish freedom to operate.
+
+This project's contribution is source screening, conventional numerical accounting and software review, not invention of cited technology or physical replication. Primary thermal-recoil research credit: Turyshev, Toth, Kinsella, Lee, Lok and Ellis (2012), https://arxiv.org/abs/1204.2507 . Next: traceable thermal and angular-emission data, separate incoming-background accounting, then coupling to the causal photon comparison. Private implementation remains in PR #29. No new shell-tensor, bench, anomalous force, FTL or flight result is claimed.
