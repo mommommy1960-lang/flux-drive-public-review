@@ -171,3 +171,12 @@ Completed a synthetic zero-background cooling/momentum comparison. Radiation iso
 Seven additional checks cover analytic cooling, frame transformation, energy bookkeeping, duration and numerical rejection boundaries. All230 tests pass locally; no new hosted pass or independent review is claimed. Hosted verification remains blocked by the previously diagnosed GitHub account restriction.
 
 Project contribution: coupled its existing thermal and radiation-accounting models within a deliberately restricted domain. Earlier source credit remains intact; no new patent discovery or hardware measurement occurred. Thermal properties and angular response remain assumed rather than measured. The next gate is conserving incoming as well as outgoing energy and momentum before expanding to heating, background radiation or directed emission. No working Flux engine or FTL result is established.
+
+
+## 2026-10-03 — incoming radiation and balanced-cycle reference
+
+Implemented and tested a bounded conventional incoming-radiation accounting helper. Directed absorbed radiation supplies both internal energy and motion; isotropic rest-frame input increases internal energy without changing velocity. A matched isotropic input/output cycle restores the original state, providing a negative reference against false net gains.
+
+Seven new analytic/regression checks pass; all237 tests pass locally. This is this project's standard relativistic accounting implementation, not measured performance, a new patent invention, independent review, or a full environmental/thermal simulation. No hosted pass claimed; the known account restriction remains unresolved.
+
+Detailed parameters and implementation stay in the private record. The next interface gate is preserving precision and global source/export energy/momentum across incoming and outgoing event sequences. Measured emission/material data and control costs remain missing physical inputs. No anomalous propulsion, flight or FTL result established.
