@@ -12,6 +12,10 @@ The current work is software simulation and measurement planning. A local submis
 
 The proposed physical readiness work remains blocked on independently calibrated measurement channels, environmental and sham controls, uncertainty values, a physically tested emergency disconnect, and independent operation. No hazardous hardware work is authorized by this page.
 
+## Research progress log
+
+Read the [dated research progress log](docs/RESEARCH_PROGRESS_LOG.md) for completed work, credited sources, limitations, and next evidence gates. New entries are appended and earlier findings are preserved. Detailed technical records are maintained privately; this public log omits unpublished mathematics, blueprints, and enabling implementation details.
+
 ## Public synthetic challenge
 
 The [fictional force-trace challenge](sandbox/README.md) lets reviewers test simple artifact subtraction and submit counterexamples. Its arbitrary data and generic columns are educational only; they reveal no article geometry, operating settings, or physical measurements.
