@@ -244,3 +244,8 @@ The formal finite-boundary model passes a static normal-pressure balance identit
 ## 2026-10-03 — Independent numerical path and refinement
 
 The existing finite-difference curvature engine agrees with the formal interior's analytic tensor at tested points away from throat/junction. Refinement reduces error approximately quadratically. This is internal cross-implementation verification, not physical source validation or external replication. A symbolic attempt was blocked by a missing dependency; no symbolic result claimed. Regression preserved;251 local tests pass. Physical apparatus feasibility remains unsupported, while throat/junction coordinates require separate methods. Original baseline and negative results retained.
+
+
+## 2026-10-03 — Throat coordinates and crew-safety failure
+
+A regular coordinate chart enables internal finite-difference verification through the formal model's throat, with expected numerical convergence on both sides. A separate static radial tidal calculation rejects the illustrative small-throat configuration for crew use. Increasing radius reduces that one tidal component but sharply increases the fixed-ratio mass requirement; it is not a demonstrated engineering remedy or safety certification. Two regressions added;253 local tests pass. Same geometry/source-method context credited in preceding records. No measured apparatus, source realization or global stability established. Preserve branch as mathematical diagnostic, not crew hardware candidate.
