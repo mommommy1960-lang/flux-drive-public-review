@@ -61,3 +61,8 @@ External papers and instruments remain credited to their authors. This entry rec
 **Limits and corrections:** this project's contribution is numerical implementation, review and test planning, not invention of the cited technologies. An initially mistaken test expectation for approaching mirrors was corrected and preserved in the private history. No physical equipment, force measurement, cavity-locking demonstration, flight test or new Flux shell-energy result occurred. Legal-status labels are research leads; no freedom-to-operate conclusion is made.
 
 **Next gate:** compare single-pass and recycled cases at equal injected energy and equal elapsed time, including all bodies and escaping light, then bound optical/thermal losses before defining a physical measurement. Earlier public entries remain unchanged.
+
+
+## 2026-10-03 — hosted validation follow-up
+
+The regular test workflow also passed all 147 tests. A separate repeated-validation workflow initially failed because its environment omitted NumPy, which existing tests require. After dependency setup was corrected on the research branch, all 100 validation jobs passed. These repeated software runs are not independent physical replications. The initial failure remains recorded. The private calculation PR is open for review; the public summary contains no enabling implementation details.
