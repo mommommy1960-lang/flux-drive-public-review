@@ -204,3 +204,8 @@ Follow-up synthetic diagnostic: the existing finite observer sampler returned po
 ## 2026-10-03 — Verification evidence safeguard
 
 A numerical evidence-labeling safeguard now distinguishes a sampled violation from an inconclusive positive scan. Two synthetic regression tests preserve the previously demonstrated sampling limitation. All 244 local tests passed; hosted validation is not claimed. Motivation credited to An T. Le, https://arxiv.org/abs/2602.18023v6 . This is a project software safeguard, not an independent replication of the paper, a physical warp mechanism, or flight evidence. Stronger all-observer certification remains unresolved.
+
+
+## 2026-10-03 — Physical source screening: Casimir vacuum
+
+Reviewed the ideal parallel-plate vacuum stress tensor and executed a conventional scale calculation, credited to Gorban, Julius and Cleaver and their Brown/Maclay source, https://arxiv.org/html/2312.00898v1 . A negative vacuum contribution is not enough to source the proposed transport geometry: pressures, material boundaries, positive plate mass, supporting stresses and conservation must all be included. This project has not matched the full apparatus tensor to Flux or measured an apparatus. Garattini/Tzikas https://arxiv.org/abs/2507.19134 is an additional near-throat theoretical lead, not reproduced or adopted. No physical warp mechanism established. Material response and complete source accounting are unresolved gates.
