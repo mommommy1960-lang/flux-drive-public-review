@@ -180,3 +180,12 @@ Implemented and tested a bounded conventional incoming-radiation accounting help
 Seven new analytic/regression checks pass; all237 tests pass locally. This is this project's standard relativistic accounting implementation, not measured performance, a new patent invention, independent review, or a full environmental/thermal simulation. No hosted pass claimed; the known account restriction remains unresolved.
 
 Detailed parameters and implementation stay in the private record. The next interface gate is preserving precision and global source/export energy/momentum across incoming and outgoing event sequences. Measured emission/material data and control costs remain missing physical inputs. No anomalous propulsion, flight or FTL result established.
+
+
+## 2026-10-03 — cavity loss versus absorbed heat
+
+Screened [US6233052B1](https://patents.google.com/patent/US6233052B1/en), credited to Zare, Harb, Paldus and Spence, as a cavity-decay measurement reference. Its displayed expired status does not establish freedom to operate; related rights need official review.
+
+Added a conventional synthetic loss-budget gate with five tests. All242 tests pass locally. Key negative result: the same total light-decay history can have different absorbed heat; independent loss-channel measurements are necessary. No patent mechanism is adopted as propulsion. Detailed source review, assumptions and numerical limits remain private.
+
+Next inference gate is sensitivity to detector offset, noise and multiple decay modes. Hosted verification remains billing-blocked. No physical engine, flight or FTL result established.
