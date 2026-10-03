@@ -234,3 +234,8 @@ Extended the previous throat-only matching calculation into a formal static tens
 ## 2026-10-03 — Static outer junction calculation
 
 Using Lobo's published Darmois-Israel matching formulas, https://arxiv.org/abs/gr-qc/0409018 , evaluated a finite boundary for the previous formal interior. Direct flat exterior case fails the surface dominant energy condition; one positive-mass Schwarzschild exterior case passes it algebraically and supplies an asymptotically flat exterior. Both results preserved. 249 local tests passed. This is a static prescribed stress pattern, not a realizable material, stability result, topology-creation mechanism or independently verified physical source. Interior quantum/apparatus source remains unvalidated; normal-pressure balance and dynamical stability need independent checks. No novelty claim.
+
+
+## 2026-10-03 — Static balance and source feasibility verdict
+
+The formal finite-boundary model passes a static normal-pressure balance identity (Lobo https://arxiv.org/abs/gr-qc/0409018 Eq53). A dimensional scale audit exposes enormous required mass/source stresses and an ideal Casimir extrapolation outside validated material physics. Verdict: mathematical comparison model, not an engineering-ready source. No measured material response, apparatus, causal equation of state or stability result supplied. Same-model algebra is not independent verification. Regression added;250 local tests passed, hosted validation unconfirmed. Full source and independent geometric verification remain gates.
