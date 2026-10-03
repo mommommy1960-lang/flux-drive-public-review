@@ -48,3 +48,16 @@ External papers and instruments remain credited to their authors. This entry rec
 **Contribution and record:** this project performed the numerical bookkeeping check using conventional physics. Detailed equations, numerical cases, and the audit script are retained in the private record. Previous public entries remain intact.
 
 **Next gate:** extend the comparison to moving trajectories and real optical losses without losing conservation or confusing pulse energy with circulating power.
+
+
+## 2026-10-03 — causal photon travel and recoil audit
+
+**Completed work:** a separate idealized numerical extension now follows photon travel time and finite-mass mirror recoil. Nineteen new tests cover analytic limits, conservation, causal encounter timing and losses; all 147 current tests passed locally. An independent code review supported the stated ideal bookkeeping. Detailed implementation and numerical evidence remain in the private repository's PR #29.
+
+**Finding:** mirror separation changes subsequent light-travel times. Missed light must remain in the energy and momentum ledger. Reflections redistribute momentum between bodies, and mirror kinetic energy draws on optical energy or pre-existing mechanical energy. Comparison by bounce count alone is insufficient for a time-limited mission.
+
+**Five parallel source reviews:** ten previously unlogged patent publications added control, tracking, thermal and calibration references. Credits: Schwemmer (US5184241A); Frankel/Pelekhaty (US12323199B2); Poon/Carden/Englekirk (US6522440B1); Ngo/Dixon/Schrier (US7366419B2); Mirtich/Sovey (US4199650A); Liu/Casse/Daniel/Afshinmanesh (US20170297750A1); Pais (US10144532B2); Pinto (US20070007393A1); Newbury/Coddington/Swann (US8558993B2); Cumpson (US7246513B2). Primary records are available at https://patents.google.com/ by publication number. The source proposals did not establish a usable warp field or inertial cancellation.
+
+**Limits and corrections:** this project's contribution is numerical implementation, review and test planning, not invention of the cited technologies. An initially mistaken test expectation for approaching mirrors was corrected and preserved in the private history. No physical equipment, force measurement, cavity-locking demonstration, flight test or new Flux shell-energy result occurred. Legal-status labels are research leads; no freedom-to-operate conclusion is made.
+
+**Next gate:** compare single-pass and recycled cases at equal injected energy and equal elapsed time, including all bodies and escaping light, then bound optical/thermal losses before defining a physical measurement. Earlier public entries remain unchanged.
