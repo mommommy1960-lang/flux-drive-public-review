@@ -219,3 +219,8 @@ Executed a tensor comparison against one existing frozen wormhole model. The ide
 ## 2026-10-03 — Combined-source gate and research variants
 
 A new analytic residual test excludes one ideal aligned Casimir contribution plus any dominant-energy-condition-satisfying residual for the existing frozen wormhole model. This is narrow, not an exclusion of every material, quantum state, or geometry. Regression preserved; 246 local tests passed. New literature screening credited to Barcelo/Visser https://arxiv.org/abs/gr-qc/0003025 and Bronnikov https://arxiv.org/abs/2206.09227 . Their theoretical scalar-field constructions are not demonstrated apparatuses or independently reproduced by this project. Founder authorized geometry/mechanics research variants; original baseline and failures must remain intact. No flight or warp source established.
+
+
+## 2026-10-03 — Local geometry variant, conservation gate
+
+A throat-only algebraic variant can match the ideal Casimir energy/pressure proportions when the shape and gravitational time-rate profile are adjusted. A fixed-gap ideal contribution then fails the local conservation equation. A varying source amplitude is a formal local condition only; it is not a validated real apparatus or complete spacetime. 247 local tests pass. Full geometry, material/source accounting, stability and independent verification remain unresolved. Credit standard Morris-Thorne equations (Lemos/Lobo/Oliveira https://doi.org/10.1103/PhysRevD.68.064004) and Casimir tensor Gorban/Julius/Cleaver https://arxiv.org/html/2312.00898v1 , Brown/Maclay. No hardware measurement or warp/flight established.
