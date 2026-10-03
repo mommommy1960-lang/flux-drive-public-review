@@ -129,3 +129,6 @@ The regular hosted workflow also passed all190 tests. Saved research code and pu
 ### 2026-10-03 — environmental heat exchange
 
 Added a stationary conventional-physics cooling calculation that separates emitted radiation, absorbed environmental radiation and deposited heater energy. Synthetic cases show equilibrium can have nonzero opposing radiation channels despite zero net cooling. All 199 tests pass locally, including exact-solution and integration-refinement anchors. Five bounded independent worker reviews found no defect. Physical calibration, material properties, background geometry, other heat paths and radiation momentum coupling remain unresolved. Next gate is separately accounted single-pass optical absorption, keeping laser absorptance distinct from cooling emissivity. No new patent claim, hardware, thrust, flight or FTL result. Reference constant: https://physics.nist.gov/cgi-bin/cuu/Value?sigma . Detailed implementation remains private in open PR #29; hosted validation pending.
+
+
+Hosted verification: regular workflow https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37137989566 passed for implementation 2332b10623c4080d9ca0b7a2db7b7c65b89e0c6f. Job 111246348538 confirms 199 tests. Subsequent verification edits are documentation only.
