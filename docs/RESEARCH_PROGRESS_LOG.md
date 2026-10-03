@@ -162,3 +162,12 @@ Hosted verification follow-up,2026-10-03: current210-test implementation has fai
 **Credited prior art:** Ephraim Secemski's [US5316380A](https://patents.google.com/patent/US5316380A/en) supplies a calorimetric optical-versus-electrical calibration concept. Stephen P. Sandford and Charles W. Antill, Jr.'s [US6175579B1](https://patents.google.com/patent/US6175579B1/en) supplies a cavity-lock/control architecture that exposes control-power channels which must be counted. The project has not adopted either as propulsion. Displayed expiration/lapse metadata is not a legal conclusion or a freedom-to-operate finding.
 
 **Next gate:** calibrate the time-resolved heat model using traceable optical and electrical pulses with wavelength-dependent optical fractions and temperature-dependent thermal properties. Separately, couple emitted-energy intervals to the existing momentum ledger and account for every cavity-control energy channel. No anomalous force, warp field, flight or faster-than-light result is established.
+
+
+## 2026-10-03 — bounded thermal-radiation momentum comparison
+
+Completed a synthetic zero-background cooling/momentum comparison. Radiation isotropic in the body's rest frame carries momentum in a moving observer's frame, while cooling reduces the body's invariant mass without accelerating it. This is a conventional no-acceleration result, not thrust or flight evidence.
+
+Seven additional checks cover analytic cooling, frame transformation, energy bookkeeping, duration and numerical rejection boundaries. All230 tests pass locally; no new hosted pass or independent review is claimed. Hosted verification remains blocked by the previously diagnosed GitHub account restriction.
+
+Project contribution: coupled its existing thermal and radiation-accounting models within a deliberately restricted domain. Earlier source credit remains intact; no new patent discovery or hardware measurement occurred. Thermal properties and angular response remain assumed rather than measured. The next gate is conserving incoming as well as outgoing energy and momentum before expanding to heating, background radiation or directed emission. No working Flux engine or FTL result is established.
