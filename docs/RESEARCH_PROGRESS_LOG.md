@@ -224,3 +224,8 @@ A new analytic residual test excludes one ideal aligned Casimir contribution plu
 ## 2026-10-03 — Local geometry variant, conservation gate
 
 A throat-only algebraic variant can match the ideal Casimir energy/pressure proportions when the shape and gravitational time-rate profile are adjusted. A fixed-gap ideal contribution then fails the local conservation equation. A varying source amplitude is a formal local condition only; it is not a validated real apparatus or complete spacetime. 247 local tests pass. Full geometry, material/source accounting, stability and independent verification remain unresolved. Credit standard Morris-Thorne equations (Lemos/Lobo/Oliveira https://doi.org/10.1103/PhysRevD.68.064004) and Casimir tensor Gorban/Julius/Cleaver https://arxiv.org/html/2312.00898v1 , Brown/Maclay. No hardware measurement or warp/flight established.
+
+
+## 2026-10-03 — Formal source continuation, boundary failure preserved
+
+Extended the previous throat-only matching calculation into a formal static tensor model. It satisfies the tested energy/pressure components and local conservation away from the throat, but fails the ordinary asymptotically flat outer-boundary condition and is not a localized source. This prescribed tensor is not a verified Casimir apparatus. A corrected scratch algebra error is retained in the private record. 248 local tests pass; independent tensor validation, boundary matching, physical source and stability unresolved. Source credit Lemos/Lobo/Oliveira https://doi.org/10.1103/PhysRevD.68.064004 and Gorban/Julius/Cleaver https://arxiv.org/html/2312.00898v1 , Brown/Maclay. No novelty or hardware claim.
