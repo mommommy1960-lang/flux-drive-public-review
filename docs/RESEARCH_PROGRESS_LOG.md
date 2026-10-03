@@ -110,3 +110,12 @@ This project's contribution is source screening, conventional numerical accounti
 ## 2026-10-03 — thermal-event hosted verification
 
 The regular hosted test suite passed all 179 tests for the new isolated thermal-emission calculation. Saved code, both progress records and the credited source ledger were read back successfully. This is software verification, not a cooling-rate measurement, physical replication or drive validation. The private PR remains open.
+
+
+## 2026-10-03 — patent-inspired capture, cooling and power checks
+
+Four new records were reviewed with inventor credit: Schuma/Teppo (US4846550A), Swanson/NASA (US6538796B1), Doiron/Paspa/Dunn (US5251004A), and Cole/Wittwer/Perner/Winkler/Mayer/Heckl/Follman (US12352987B2). The last coating family is active, so it is not expired art. A repeated propulsion candidate was excluded as already screened. Status/family labels remain unverified metadata, not freedom-to-operate conclusions.
+
+The project implemented conventional Gaussian capture bounds, a restricted radiative cooldown timeline, and angular collection/momentum checks. A calculated capture fraction was tested in the existing finite-mass photon model for a first pass. Eleven new tests bring the passing local suite to190. A separate reviewer verified the original focused tests and found a tiny-angle numerical cancellation, now corrected with a regression. Hosted verification is pending. Detailed assumptions/results are private in PR29; earlier failures remain preserved.
+
+The experiments show why missed light, thermal properties and detector collection angle must be explicit rather than presumed. They do not establish patented-device performance. No fabricated optics, thermal-survival measurement, general moving cavity, new shell source or flight is claimed. Source credit also includes Francesco D'Angelo/Edmund Optics for standard Gaussian equations and NIST CODATA for constants. Next: measured or bounded optical/thermal inputs, finite background heat, and a complete moving-beam/control ledger. No issue24 tensor result changed.
