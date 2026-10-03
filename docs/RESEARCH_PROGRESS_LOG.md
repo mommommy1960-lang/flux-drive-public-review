@@ -147,3 +147,18 @@ Primary reference credit: NIST IRIS https://www.nist.gov/laboratories/tools-inst
 
 
 Hosted verification follow-up,2026-10-03: current210-test implementation has failed GitHub runs with no recorded test steps; logs unavailable, cause unverified. Local210-test pass remains valid, but no hosted pass is claimed. https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37139587196 . Runner/failure-detail verification is an open gate; offline research can continue.
+
+
+## 2026-10-03 — time-resolved thermal ledger and two calibration/control references
+
+**Completed work:** a conventional piecewise optical-heating calculation now preserves optical input, radiative exchange, stored heat and elapsed-time channels across changing input intervals. Thirteen focused tests plus the existing suite passed locally, for 223 local tests total. Equal deposited optical energy produced different final temperatures when its timing changed, because earlier heating had more time to radiate. This is a synthetic lumped-body calculation, not measured hardware performance.
+
+**Numerical evidence:** a zero-background cooling case converged toward the independent exact gray-body solution under step refinement. Optical and thermal ledgers close separately and together. Internal reviewers checked the physical bookkeeping, state continuity, numerical bounds and limitations; this is not external peer review or physical replication.
+
+**Preserved corrections:** two development attempts failed before evaluating physics—one test-harness method-name collision and one syntax error. Both are retained in the private record and were corrected before the passing run.
+
+**Hosted verification blocker:** the latest GitHub Actions jobs did not begin any test step. GitHub identifies failed account payments or an insufficient Actions spending limit. Hosted verification therefore remains blocked; the 223-test result is local evidence only.
+
+**Credited prior art:** Ephraim Secemski's [US5316380A](https://patents.google.com/patent/US5316380A/en) supplies a calorimetric optical-versus-electrical calibration concept. Stephen P. Sandford and Charles W. Antill, Jr.'s [US6175579B1](https://patents.google.com/patent/US6175579B1/en) supplies a cavity-lock/control architecture that exposes control-power channels which must be counted. The project has not adopted either as propulsion. Displayed expiration/lapse metadata is not a legal conclusion or a freedom-to-operate finding.
+
+**Next gate:** calibrate the time-resolved heat model using traceable optical and electrical pulses with wavelength-dependent optical fractions and temperature-dependent thermal properties. Separately, couple emitted-energy intervals to the existing momentum ledger and account for every cavity-control energy channel. No anomalous force, warp field, flight or faster-than-light result is established.
