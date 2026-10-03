@@ -285,3 +285,18 @@ The physical gate is a calibrated loading/hold/ringdown run measuring spectrum, 
 #### Hosted verification correction
 
 The workflow for the detuning/capture implementation commit failed before exposing any test steps (run 37150071247). It did not execute the repository suite. The ten new focused tests passed locally; there is no current hosted pass.
+
+
+### 2026-10-03 — common-frame radiation and thermal-recoil controls
+
+A new conventional special-relativity ledger now batches simultaneous incoming and outgoing radiation in one declared frame before updating the body. This prevents an order-dependent numerical artifact that appears when nominally simultaneous opposed emissions are processed sequentially in changing rest frames. A separate3-D facet model sums photon-recoil force and torque from escaping power, location and a declared angular law. Sixteen focused local tests pass; a full repository or hosted pass is not claimed in this bounded result.
+
+Illustrative checks reproduce ordinary photon momentum:1000W perfectly collimated emission gives about3.336microN recoil, while an ideal Lambertian planar emitter gives about2.224microN. Opposed equal facets cancel; offset facets can produce torque even when forces balance. These are synthetic conservation tests, not measured propulsion.
+
+Primary method credit: Toth and Turyshev, *Thermal recoil force, telemetry, and the Pioneer anomaly*, https://arxiv.org/abs/0901.4597, and NASA SP-8027, https://ntrs.nasa.gov/api/citations/19710014836/downloads/19710014836.pdf. Project contribution is implementation and artifact rejection.
+
+New patent screens cover residual-gas radiometric forces, MEMS radiometric-offset cancellation, temperature-stabilized vacuum pressure metrology and spacecraft thermal-disturbance control: US20060001569A1, US8596572B1, US11603310B2, US10996124B2 and US5211360A. They improve control design but provide no spacetime source or FTL evidence. Status/family labels remain provisional and give no freedom-to-operate conclusion.
+
+A continued primary-paper audit of Garattini and Tzikas, arXiv:2507.19134v2, found additional branch restrictions and a dimensionally inconsistent printed equation; its pressure-only zero-density residual remains a mathematical term without an identified microscopic source. This is a narrow literature check, not a blanket rejection.
+
+The physical gate requires measured facet temperatures, spectral/angular emissivity, escaping power, view factors, environmental radiation, residual pressure/gas species, support strain, enclosure reactions and six-axis force/torque closure. No hardware, Flux shell, flight or FTL result follows.
