@@ -79,3 +79,8 @@ The regular test workflow also passed all 147 tests. A separate repeated-validat
 **Credit and contribution:** this project implemented and checked the time-matched numerical comparison under conventional energy and momentum conservation. External optical-propulsion, NIST metrology and patent references retain the author/inventor credits recorded above. No new patent screen or independent review of this extension is claimed.
 
 **Next gate:** use traceable optical loss/capture inputs and add temperature/cooling dynamics with emitted-light momentum before defining a physical measurement operating point. Earlier entries and corrections remain intact. No new Flux-shell calculation, anomalous force, warp source or flight result is established.
+
+
+## 2026-10-03 — comparison hosted verification
+
+The regular GitHub test workflow for the comparison implementation also passed all 163 tests. Both the public summary and private detailed log were read back successfully, with earlier entries preserved. This verifies software execution under the stated assumptions; it is not independent physical replication, measured propulsion or a thermal-survival result. The private PR remains open for review.
