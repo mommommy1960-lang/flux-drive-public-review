@@ -214,3 +214,8 @@ Reviewed the ideal parallel-plate vacuum stress tensor and executed a convention
 ## 2026-10-03 — Casimir candidate: narrow source mismatch found
 
 Executed a tensor comparison against one existing frozen wormhole model. The ideal parallel-plate vacuum contribution has incompatible invariant stress-energy trace, so it alone cannot source that specific geometry. This does not reject all quantum sources, alternative geometries, or a complete apparatus including matter and supports. Added a negative regression; 245 local tests pass, hosted pass not claimed. Source credit: Gorban, Julius, Cleaver (and Brown/Maclay), https://arxiv.org/html/2312.00898v1 . No physical measurement, warp field or flight established. Complete apparatus source remains unresolved.
+
+
+## 2026-10-03 — Combined-source gate and research variants
+
+A new analytic residual test excludes one ideal aligned Casimir contribution plus any dominant-energy-condition-satisfying residual for the existing frozen wormhole model. This is narrow, not an exclusion of every material, quantum state, or geometry. Regression preserved; 246 local tests passed. New literature screening credited to Barcelo/Visser https://arxiv.org/abs/gr-qc/0003025 and Bronnikov https://arxiv.org/abs/2206.09227 . Their theoretical scalar-field constructions are not demonstrated apparatuses or independently reproduced by this project. Founder authorized geometry/mechanics research variants; original baseline and failures must remain intact. No flight or warp source established.
