@@ -229,3 +229,8 @@ A throat-only algebraic variant can match the ideal Casimir energy/pressure prop
 ## 2026-10-03 — Formal source continuation, boundary failure preserved
 
 Extended the previous throat-only matching calculation into a formal static tensor model. It satisfies the tested energy/pressure components and local conservation away from the throat, but fails the ordinary asymptotically flat outer-boundary condition and is not a localized source. This prescribed tensor is not a verified Casimir apparatus. A corrected scratch algebra error is retained in the private record. 248 local tests pass; independent tensor validation, boundary matching, physical source and stability unresolved. Source credit Lemos/Lobo/Oliveira https://doi.org/10.1103/PhysRevD.68.064004 and Gorban/Julius/Cleaver https://arxiv.org/html/2312.00898v1 , Brown/Maclay. No novelty or hardware claim.
+
+
+## 2026-10-03 — Static outer junction calculation
+
+Using Lobo's published Darmois-Israel matching formulas, https://arxiv.org/abs/gr-qc/0409018 , evaluated a finite boundary for the previous formal interior. Direct flat exterior case fails the surface dominant energy condition; one positive-mass Schwarzschild exterior case passes it algebraically and supplies an asymptotically flat exterior. Both results preserved. 249 local tests passed. This is a static prescribed stress pattern, not a realizable material, stability result, topology-creation mechanism or independently verified physical source. Interior quantum/apparatus source remains unvalidated; normal-pressure balance and dynamical stability need independent checks. No novelty claim.
