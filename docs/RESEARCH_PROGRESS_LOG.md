@@ -199,3 +199,8 @@ Contribution: candidate verification method, not a physical warp source. Existin
 
 
 Follow-up synthetic diagnostic: the existing finite observer sampler returned positive sampled margins for a deliberately constructed tensor with a known violating observer. This is a verification limitation, not a result for Flux or measured hardware. An all-observer certificate requires a stronger independent test.
+
+
+## 2026-10-03 — Verification evidence safeguard
+
+A numerical evidence-labeling safeguard now distinguishes a sampled violation from an inconclusive positive scan. Two synthetic regression tests preserve the previously demonstrated sampling limitation. All 244 local tests passed; hosted validation is not claimed. Motivation credited to An T. Le, https://arxiv.org/abs/2602.18023v6 . This is a project software safeguard, not an independent replication of the paper, a physical warp mechanism, or flight evidence. Stronger all-observer certification remains unresolved.
