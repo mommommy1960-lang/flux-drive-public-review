@@ -280,3 +280,8 @@ Newly screened records include US20170200815A1 (Caldeira et al., gated semicondu
 A synchronized literature audit also found a branch-specific real-valued-domain problem in Garattini and Tzikas, arXiv:2507.19134v2, https://arxiv.org/html/2507.19134v2. The alternative algebraic branch needs a complete rederivation and was not adopted. The paper's additional pressure-only term still lacks a demonstrated microscopic source. This does not reject its other branches or quantum-source possibilities.
 
 The physical gate is a calibrated loading/hold/ringdown run measuring spectrum, spatial-mode overlap, polarization, aperture/diffraction, resonance/linewidth, complex reflection/transmission, scatter, calorimetry and electrical acquisition/control/support costs. No hardware, shell, flight or FTL result follows.
+
+
+#### Hosted verification correction
+
+The workflow for the detuning/capture implementation commit failed before exposing any test steps (run 37150071247). It did not execute the repository suite. The ten new focused tests passed locally; there is no current hosted pass.
