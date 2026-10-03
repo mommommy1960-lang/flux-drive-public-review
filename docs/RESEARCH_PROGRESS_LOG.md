@@ -189,3 +189,10 @@ Screened [US6233052B1](https://patents.google.com/patent/US6233052B1/en), credit
 Added a conventional synthetic loss-budget gate with five tests. All242 tests pass locally. Key negative result: the same total light-decay history can have different absorbed heat; independent loss-channel measurements are necessary. No patent mechanism is adopted as propulsion. Detailed source review, assumptions and numerical limits remain private.
 
 Next inference gate is sensitivity to detector offset, noise and multiple decay modes. Hosted verification remains billing-blocked. No physical engine, flight or FTL result established.
+
+
+## 2026-10-03 — New source screen: observer-independent warp verification
+
+Primary source: An T. Le, *Observer-robust energy condition verification for warp drive spacetimes*, arXiv:2602.18023v6, revised 2026-09-24, https://arxiv.org/html/2602.18023v6 . Source review, not an independently reproduced result. The paper proposes S-lemma 4x4 matrix tests and interval bounds for energy conditions without a rapidity cutoff. Its four reference geometries show NEC violations at the reported parameters; this is not a universal impossibility theorem and not a result for Flux. The hollow/smoothed Fuchs shell is outside its matched four-drive benchmark.
+
+Contribution: candidate verification method, not a physical warp source. Existing Flux observer sampling must not be advertised as an all-observer certificate. Before adoption, reproduce the matrix criterion against analytic Type-I pass/fail cases, construct explicit violating null/timelike witnesses, and compare with the existing sampled evaluator under the same tetrad and sign conventions. A finite sample finding no violation remains inconclusive. No engine component or energy-condition clearance adopted in this screen. The previously logged Cole negative-frame-dragging patent and Celmaster/Rubin Lentz critique were not duplicated. No legal freedom-to-operate conclusion. Issue #24 unchanged: no new Flux tensor calculation completed.
