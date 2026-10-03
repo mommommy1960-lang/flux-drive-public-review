@@ -239,3 +239,8 @@ Using Lobo's published Darmois-Israel matching formulas, https://arxiv.org/abs/g
 ## 2026-10-03 — Static balance and source feasibility verdict
 
 The formal finite-boundary model passes a static normal-pressure balance identity (Lobo https://arxiv.org/abs/gr-qc/0409018 Eq53). A dimensional scale audit exposes enormous required mass/source stresses and an ideal Casimir extrapolation outside validated material physics. Verdict: mathematical comparison model, not an engineering-ready source. No measured material response, apparatus, causal equation of state or stability result supplied. Same-model algebra is not independent verification. Regression added;250 local tests passed, hosted validation unconfirmed. Full source and independent geometric verification remain gates.
+
+
+## 2026-10-03 — Independent numerical path and refinement
+
+The existing finite-difference curvature engine agrees with the formal interior's analytic tensor at tested points away from throat/junction. Refinement reduces error approximately quadratically. This is internal cross-implementation verification, not physical source validation or external replication. A symbolic attempt was blocked by a missing dependency; no symbolic result claimed. Regression preserved;251 local tests pass. Physical apparatus feasibility remains unsupported, while throat/junction coordinates require separate methods. Original baseline and negative results retained.
