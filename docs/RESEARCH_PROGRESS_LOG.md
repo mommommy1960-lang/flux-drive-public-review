@@ -307,3 +307,18 @@ The physical gate requires measured facet temperatures, spectral/angular emissiv
 The hosted test run for the new common-frame radiation bookkeeping ended before exposing any test steps or logs. It therefore does not establish either a code failure or a hosted pass. The current-head evidence is 16 focused local tests for the new ledger and force/torque routines; an older complete-suite pass predates these changes.
 
 This limitation is preserved explicitly. No hardware result, propulsion result, shell solution, flight result or FTL claim follows.
+
+
+### 2026-10-03 — macroscopic bookkeeping correction and cavity load bounds
+
+An independent audit found that the earlier radiation ledger used ordinary floating-point arithmetic in a regime where small optical energies were combined with macroscopic rest energy. For a one-kilogram body, the old tolerance could accept nearly 90 kJ of outgoing energy from an empty declared heat reservoir. That invalidated any bench-scale interpretation of that implementation.
+
+The research branch now uses a higher-precision common-frame update and adds regressions for macroscopic masses, one-joule impulses, extreme dynamic range, channel-order independence and high velocity. Forty-five focused local tests pass across this repair and the related detuning, survivability and external-energy gates. The complete repository suite and a current hosted pass are not claimed here.
+
+A new supplied-parameter survivability model separates stored optical energy from mirror force, pressure, support displacement, absorption and cooling. A conventional 510 kW circulating-power illustration produces about 3.40 mN on a perfectly reflecting end mirror; 1 ppm absorption deposits 0.51 W. Whether an apparatus survives depends on measured beam size, coating/substrate loss, cooling, thermal distortion and control stability. Atikian et al. ([Nature Communications, 2022](https://www.nature.com/articles/s41467-022-30335-2)) and Advanced LIGO thermal/optics records ([thermal modelling](https://authors.library.caltech.edu/records/k009q-59325), [thermal monitoring](https://dcc.ligo.org/LIGO-P1400234/public), [core optics](https://dcc.ligo.org/public/0140/P1700029/005/4869-Billingsley-v5.pdf)) provide relevant conventional benchmarks, not a Flux-shell demonstration.
+
+A separate external-energy ledger now keeps cavity-plane carrier energy distinct from wall-plug loss, transport/mode mismatch and controller acquisition/hold energy. Its closure is accounting only; no electrical or optical trace was measured.
+
+New patent/source screens found useful calibration and artifact-control references: Momentus microwave-electrothermal families (US10910198B2, US11527387B2, US11585331B2 and US20230068871A1), U.S. Navy radiation-pressure power measurement (US11175180B2), cold-atom gravity gradiometry (US11269111B2), and repulsive Lifshitz-force arrangements (US20070066494A1). They do not provide a demonstrated spacetime source. A virtual-fluctuation thrust filing (US20110073715A1) was rejected as a source lead after a dimensional radiation-momentum check.
+
+Status and family labels are provisional metadata, not freedom-to-operate conclusions. The next physical gate is synchronized measurement of optical power and losses, beam/spectrum/mode properties, absorption and temperature, wavefront/control behavior, support displacement, and ordinary (2P/c) force closure. No hardware, anomalous propulsion, shell, flight or FTL result follows from this update.
