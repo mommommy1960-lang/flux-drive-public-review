@@ -66,3 +66,16 @@ External papers and instruments remain credited to their authors. This entry rec
 ## 2026-10-03 — hosted validation follow-up
 
 The regular test workflow also passed all 147 tests. A separate repeated-validation workflow initially failed because its environment omitted NumPy, which existing tests require. After dependency setup was corrected on the research branch, all 100 validation jobs passed. These repeated software runs are not independent physical replications. The initial failure remains recorded. The private calculation PR is open for review; the public summary contains no enabling implementation details.
+
+
+## 2026-10-03 — time-matched photon comparison and loss bookkeeping
+
+**Completed work:** the numerical comparison now uses the same injected light energy and the same elapsed observation time for single-pass and recycled cases. Both platforms evolve freely. Missed and transmitted light retain their energy and signed momentum; absorbed light transfers momentum and increases stored mirror heat. Sixteen new analytic and conservation tests bring the locally passing suite to 163 tests. Detailed implementation and numerical cases are retained in private PR #29; hosted verification of this extension is pending.
+
+**Finding:** repeated reflections can increase the impulse delivered to one separate platform, while losses reduce that advantage. Distance can prevent any return—or even the first arrival—within the observation interval. The complete two-platform-plus-light ledger closes; no unexplained net-system momentum is produced. A larger impulse on one mirror does not imply a working Flux source or additional energy.
+
+**Limits:** loss fractions are illustrative bounds, not measured coating or pointing performance. Stored heat is included in energy accounting, but temperature, cooling, thermal deformation, diffraction, spectral response and cavity locking remain unresolved. The absorption/reflection interaction is a declared simplified ordering. No physical bench or thermal-survival test occurred. An approaching-mirror test initially exceeded the valid observation interval and hit the event guard; that rejected run and corrected interval remain recorded privately.
+
+**Credit and contribution:** this project implemented and checked the time-matched numerical comparison under conventional energy and momentum conservation. External optical-propulsion, NIST metrology and patent references retain the author/inventor credits recorded above. No new patent screen or independent review of this extension is claimed.
+
+**Next gate:** use traceable optical loss/capture inputs and add temperature/cooling dynamics with emitted-light momentum before defining a physical measurement operating point. Earlier entries and corrections remain intact. No new Flux-shell calculation, anomalous force, warp source or flight result is established.
