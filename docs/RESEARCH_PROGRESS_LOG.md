@@ -508,3 +508,18 @@ A bounded patent screen added four nonduplicate measurement references: [US76836
 ## 2026-10-04 — Source feasibility and evidence boundaries
 
 Mya P. Brown / Civic Continuum research, with assistant support, documented a bounded conventional photon-momentum cross-check and experiment admission criteria. These are analytical/software results, not hardware measurements or independent experimental replication. A preliminary source screen has not established a realizable new propulsion source. A numerical device-to-observable prediction remains required before a proposed new-effect experiment can be admitted. Null results are retained; this screening does not rule out all possible proposals. Relevant published foundations include Fuchs et al. (2024), https://arxiv.org/abs/2405.02709 , and Bobrick & Martire (2021), https://arxiv.org/abs/2102.06824 . Detailed unpublished research remains private.
+
+
+## 2026-10-04 — Electrical/calorimetric closure referee
+
+**Status:** conventional measurement software and source review only. No hardware experiment, excess-energy result, spacetime effect, propulsion, flight, or FTL result is claimed.
+
+The research branch now has a separate gate for comparing a preregistered multilevel electrical pulse campaign with held-out same-absorber calorimetry. It requires immutable run/result bindings, reference–device–reference timing, calibration-validity coverage, closed cooling/storage channels, and a complete joint covariance model. Exact arithmetic and adversarial tests prevent swapped files, altered values, changed timing/provenance, understated uncertainty, and zero-response data from being mislabeled as evidence.
+
+The calculation separates two questions: “Do the supplied electrical and calorimetric numbers close?” and “Was the stimulus/response strong and well-controlled enough to qualify the experiment?” Its fixed k=2 threshold is explicitly a deterministic engineering guard, not a simultaneous confidence claim. Final local verification passed **112 focused tests** and **255 full repository tests**; two independent internal spot checks found no remaining blocker within the arithmetic-only scope. PR #29 remains open and private main was not changed.
+
+Primary method references include [JCGM GUM-6:2020](https://www.bipm.org/documents/20126/2071204/JCGM_GUM_6_2020.pdf/d4e77d99-3870-0908-ff37-c1b6a230a337?download=true&t=1740559165145&version=1.11), [NIST TN 1394](https://doi.org/10.6028/NIST.tn.1394), [NIST calibration-design guidance](https://www.itl.nist.gov/div898/handbook/mpc/section3/mpc33.htm), [NIST TN 2106](https://doi.org/10.6028/NIST.TN.2106), and [JCGM 106:2012](https://www.bipm.org/en/doi/10.59161/jcgm106-2012). These support measurement design and uncertainty decisions; none reports a Flux device.
+
+The bounded patent screen added [CN113295921A/B](https://patents.google.com/patent/CN113295921A/en), [US6971792B2](https://patents.google.com/patent/US6971792/en), [US7306365B2](https://patents.google.com/patent/US7306365B2/en), and [US7589516B2 / US20080186013A1](https://patents.google.com/patent/US20080186013A1/en) as references for thermal bracketing, same-absorber electrical substitution, leakage/time-constant correction, and paired V/I sampling. Their displayed legal status is provisional and does not establish freedom to operate. None supplies anomalous energy or a warp source.
+
+**Next measurable gate:** an independent, frozen pulse dataset containing synchronized boundary V/I, held-out same-absorber calorimetry through cooling/equilibrium, and a complete source-linked covariance. The software referee exists; the physical records do not. Issue #24 remains unchanged because no new spacetime metric/tensor calculation was produced.
