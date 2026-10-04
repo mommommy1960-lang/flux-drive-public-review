@@ -526,3 +526,8 @@ The bounded patent screen added [CN113295921A/B](https://patents.google.com/pate
 
 
 **Hosted CI note:** [Flux Drive tests run #630](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37194898960) completed with conclusion `failure`, but GitHub returned no job steps and the job-log endpoint returned HTTP 404 `BlobNotFound`. This supplies no executed command, assertion, or traceback, so it is recorded as an unresolved hosted-run infrastructure failure—not a hosted pass and not a diagnosed code/physics failure. The local and independent-review results above remain the available executable evidence.
+
+
+## 2026-10-04 - Independent laboratory feasibility inquiries
+Prepared a cited, conventional electrical/calorimetric measurement-qualification packet and sent authorized inquiries to NIST laser-energy metrology and NPL temperature consultancy. Requested capability review/referral, minimum pilot, uncertainty, data deliverables and cost/collaboration options. No lab acceptance, paid commitment, physical test or endorsement is claimed. Contact/capability sources: https://www.nist.gov/programs-projects/laser-power-and-energy-meter-calibrations ; https://www.npl.co.uk/products-services/temperature/temperature-humidity-consultancy .
+Project contribution is proposed protocol and outreach, not a new physical source. Methodological credit: JCGM 100:2008 https://www.bipm.org/en/doi/10.59161/jcgm100-2008e and NIST heating-inequivalence review https://www.nist.gov/publications/thermal-response-and-inequivalence-pulsed-ultraviolet-laser-calorimeters . Detailed evidence and external-safe packet retained privately. Laboratory-specific feasibility and uncertainty remain to be established. Issue #24 unchanged: no new metric/tensor calculation.
