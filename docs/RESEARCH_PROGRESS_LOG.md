@@ -406,3 +406,14 @@ Independent internal reviews rejected several thermal-accounting false bounds. T
 128 focused copied-module tests pass locally; this is not a full-repository or hosted pass. PR #29 remains open and private main was not modified. Published calibration leads are credited to Lehman, Spidell, Hadler and Williams ([US10837828B2](https://patents.google.com/patent/US10837828B2/en)) and Jacob Fraden ([US6447160B1](https://patents.google.com/patent/US6447160B1/en)). A separate concentric-sphere Casimir source screen credits [L. P. Teo (2011)](https://doi.org/10.1103/PhysRevD.84.025014). These are calibration/interaction references; no implemented hardware or physically supported shell source was demonstrated. Patent status metadata does not establish freedom to operate.
 
 The measured gate remains independently calibrated absorption/thermal emission, optical channels and electrical/support costs over a common observation window. Source details, failures and assumptions remain in the private technical record. No new shell/tensor result was produced.
+
+
+### 2026-10-04 — finite empty-cavity loading and ringdown boundary
+
+The research branch now accounts for the energy needed to build a cavity field from an initially empty state before ringdown. The conventional coupled-mode calculation directly includes prompt reflection and cavity leakage at the driven port, partitions absorption/transmission/scatter during loading, and follows the remaining stored light through ringdown. Empty-start and steady-preloaded calculations are explicitly separated, unresolved-spectrum bounds are retained, and a separate full-window balance checks closure.
+
+Independent internal audits found and repaired tiny-time, very-long-time and near-equal thermal-rate numerical failures before acceptance. The copied local suite now has 144 passing tests. This is software/sensitivity validation, not a full hosted pass, external replication or hardware result.
+
+A loading-efficiency benchmark is credited to [Bader et al. (2013)](https://doi.org/10.1088/1367-2630/15/12/123008): a time-reversed rising-exponential pulse can improve passive cavity coupling, but it supplies no new energy or spacetime source. A fresh ringdown-metrology reference is [US20050012931A1](https://patents.google.com/patent/US20050012931A1/en), inventors Sze Tan, Bernard Fidric and Robert Lodenkamper. It contributes filter/window/background checks for lifetime fitting, but total ringdown loss does not by itself identify a tiny absorption branch. Displayed patent status and family metadata are provisional and establish no freedom to operate.
+
+No new metric/tensor result, physical shell source, anomalous propulsion, flight or FTL result follows. The next physical gate remains measured optical loading, loss-channel allocation, calorimetry and control electricity over one synchronized observation window.
