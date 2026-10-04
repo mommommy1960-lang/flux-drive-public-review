@@ -485,3 +485,6 @@ were recorded with their limitations and legal-status caveats.  The next real
 evidence gate is an independent certificate plus synchronized dummy-load and
 apparatus data for the exact measurement configuration, followed by repeated
 multi-level pulses and a calorimetric cross-check.
+
+
+Hosted CI run [#604](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37188339165) reported failure without exposing steps, and the job log returned `BlobNotFound`. The public record therefore treats hosted validation as unresolved and relies only on the stated local/audit results.
