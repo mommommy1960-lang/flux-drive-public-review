@@ -430,3 +430,14 @@ Experimental support and limits are credited to [Wang, Perez-Morelo and Aksyuk (
 A new incident-power calibration reference is [US7077564B2](https://patents.google.com/patent/US7077564B2/en), inventors James Schloss, Sidney E. Levingston and Sean Bergman. Its temperature-and-rate thermal meter may help integrate incident beam energy, but it is not in-situ cavity-wall absorption metrology and does not demonstrate ppm sensitivity. Displayed patent status/family metadata are provisional and establish no freedom to operate.
 
 No new metric/tensor result, physical shell source, anomalous propulsion, flight or FTL result follows. The measured gate is a synchronized incident waveform, calibrated cavity-loss split, thermal amplitude/phase response, calorimetry and control-electricity ledger.
+
+
+### 2026-10-03 — synchronized electrical-cost accounting
+
+A new conventional measurement gate now aligns electrical input accounting with the same loading and ringdown window used by the optical model. It separates imported, exported and net electrical energy; prevents parent-meter/component double counting; keeps baseline subtraction diagnostic-only; and requires synchronized clocks, calibrated sampling limits and identified uncertainty before a result can be called measurement-complete.
+
+The corrected implementation passed 172 local tests, including independent adversarial checks for correlated uncertainty, extreme numeric scale, zero-power readings, meter-boundary overlap and impossible laser/electrical accounting. This is a tested analysis method, not a hardware measurement.
+
+Fresh primary references were credited: NIST waveform-metrology guidance for synchronized voltage/current sampling, and Curtis V. Bradford’s US5485393A watt/watt-hour sampling patent. The patent’s illustrated historical bandwidth is not adequate evidence for fast cavity transients, and its displayed legal status is not a freedom-to-operate opinion.
+
+The actionable experimental gate is a calibrated pulsed resistive-load validation followed by synchronized voltage/current traces over the exact optical event window. No propulsion, spacetime source, flight or FTL result follows from this accounting work.
