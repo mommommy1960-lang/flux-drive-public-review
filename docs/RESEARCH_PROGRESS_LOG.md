@@ -488,3 +488,18 @@ multi-level pulses and a calorimetric cross-check.
 
 
 Hosted CI run [#604](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37188339165) reported failure without exposing steps, and the job log returned `BlobNotFound`. The public record therefore treats hosted validation as unresolved and relies only on the stated local/audit results.
+
+
+## 2026-10-04 — Repeated-pulse campaign admission gate
+
+**Status:** research software and source review only. No hardware experiment, excess-energy result, propulsion, spacetime effect, flight, or FTL result is claimed.
+
+A new conservative gate was added on the active research branch to decide whether a planned multilevel pulse campaign is structurally suitable for later analysis. It requires a frozen sham/level schedule, complete acquisition records, unique raw and processed data, exact calibration-transfer binding, bounded timing gaps, balanced randomized blocks, and a full covariance model that preserves shared calibration and drift uncertainty. It deliberately does not fit a response curve.
+
+Independent adversarial reviews found multiple possible false passes in early drafts, including understated covariance, floating-point underflow, stale acquisition records, overlapping stimulus levels, reversed timestamps, and reused data. Those paths were repaired and preserved as regression tests. Final local verification passed **96 focused tests** and **239 full repository tests**. External protocol and certificate commitments remain explicitly marked as not machine-authenticated.
+
+The source review used the [JCGM Guide to the Expression of Uncertainty](https://www.bipm.org/en/doi/10.59161/jcgm100-2008e), [NIST randomized-block guidance](https://www.itl.nist.gov/div898/handbook/pri/section3/pri332.htm), [NIST drift guidance](https://itl.nist.gov/div898/handbook/mpc/section3/mpc3312.htm), [Woods et al. on generalized electrical substitution](https://doi.org/10.1088/1681-7575/ac72dc), and [Chen et al. on pulsed-calorimeter inequivalence](https://www.nist.gov/publications/thermal-response-and-inequivalence-pulsed-ultraviolet-laser-calorimeters).
+
+A bounded patent screen added four nonduplicate measurement references: [US7683602B2](https://patents.google.com/patent/US7683602B2/en) for multilevel RF calibration, [US10274572B2](https://patents.google.com/patent/US10274572B2/en) for co-located power-meter comparison, [US20250138065A1](https://patents.google.com/patent/US20250138065A1/en) for substitution flow calorimetry, and [US10401402B2](https://patents.google.com/patent/US10401402B2/en) for synchronized measurement. These records contribute test architecture only. They do not establish anomalous energy, a warp mechanism, flight, legal status in every jurisdiction, or freedom to operate.
+
+**Next measurable gate:** acquire a preregistered pulse matrix with a traceable co-located electrical reference and held-out same-load substitution calorimetry, then test electrical-versus-calorimetric closure with the full joint uncertainty. This result cannot be produced from patents or simulation alone.
