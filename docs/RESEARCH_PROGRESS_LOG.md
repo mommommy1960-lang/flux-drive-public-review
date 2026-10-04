@@ -417,3 +417,16 @@ Independent internal audits found and repaired tiny-time, very-long-time and nea
 A loading-efficiency benchmark is credited to [Bader et al. (2013)](https://doi.org/10.1088/1367-2630/15/12/123008): a time-reversed rising-exponential pulse can improve passive cavity coupling, but it supplies no new energy or spacetime source. A fresh ringdown-metrology reference is [US20050012931A1](https://patents.google.com/patent/US20050012931A1/en), inventors Sze Tan, Bernard Fidric and Robert Lodenkamper. It contributes filter/window/background checks for lifetime fitting, but total ringdown loss does not by itself identify a tiny absorption branch. Displayed patent status and family metadata are provisional and establish no freedom to operate.
 
 No new metric/tensor result, physical shell source, anomalous propulsion, flight or FTL result follows. The next physical gate remains measured optical loading, loss-channel allocation, calorimetry and control electricity over one synchronized observation window.
+
+
+### Same-run continuation — empty-start absorption, cooling and thermal-photon bounds
+
+The finite-loading result now feeds a separate thermal consumer without treating switch-off storage as new energy or reusing the older steady-preloaded calculation. Only the independently identified absorption-loss branch heats the modeled body. The consumer rechecks the complete optical cycle and unresolved-spectrum coverage before calculating constant-property thermal response through loading and ringdown.
+
+Independent internal reviewers rejected early versions that lost tiny cooling beside a large thermal inventory, allowed a tail bound to be suppressed, or overstated numerical-error guarantees. Those cases are now regressions. Numerical quadrature quantities are labeled estimates; strict finite-window radiation and momentum-magnitude ceilings instead use total available thermal energy and are independent of quadrature. The copied local suite is 153 passing tests. This remains software/sensitivity validation, not hardware operation or external replication.
+
+Experimental support and limits are credited to [Wang, Perez-Morelo and Aksyuk (2021)](https://doi.org/10.1364/OE.416576), who separate absorption from coupling/radiation losses and measure a single-pole thermal response in nanophotonic resonators. The first-order model is usable only after amplitude/phase data validate one stable thermal pole over the intended power range.
+
+A new incident-power calibration reference is [US7077564B2](https://patents.google.com/patent/US7077564B2/en), inventors James Schloss, Sidney E. Levingston and Sean Bergman. Its temperature-and-rate thermal meter may help integrate incident beam energy, but it is not in-situ cavity-wall absorption metrology and does not demonstrate ppm sensitivity. Displayed patent status/family metadata are provisional and establish no freedom to operate.
+
+No new metric/tensor result, physical shell source, anomalous propulsion, flight or FTL result follows. The measured gate is a synchronized incident waveform, calibrated cavity-loss split, thermal amplitude/phase response, calorimetry and control-electricity ledger.
