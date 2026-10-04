@@ -392,3 +392,8 @@ No physical shell, anomalous propulsion, flight or FTL result follows. The next 
 The bounded model now carries every resolved cavity spectral line through a steady hold and ringdown into absorption, leakage, transmission, scatter and remaining stored light. A synthetic all-resonant example correctly deposits 6 J during a 2 W, 3 s hold; a carrier-only shortcut would miss about 2.49 J. The ringdown ledger and a linearized cooling sensitivity are covered by independent review and regression tests.
 
 The implementation also separates gross outgoing thermal photons from incoming background radiation and net excess cooling. It returns only a maximum recoil magnitude until measured surface directions and emissivity supply an angular model. The current bounded local total is 115 passing tests. These are conventional bookkeeping and sensitivity results, not hardware measurements or a propulsion effect.
+
+
+### 2026-10-04 — unresolved optical heating bound
+
+A numerical audit found that the thermal adapter dropped the optical model's bound on unresolved spectral light. It now includes that possible extra heating in its conservative temperature-limit decision while leaving resolved energy unchanged. A regression demonstrates that the omitted-light bound can change the validity decision. All 116 focused local tests pass; no physical measurements or new spacetime-source result were produced. Method credit: Fan, Suh and Joannopoulos, https://doi.org/10.1364/JOSAA.20.000569. This patch has no new hosted or independent-agent validation yet.
