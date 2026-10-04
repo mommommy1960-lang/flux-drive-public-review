@@ -572,3 +572,43 @@ Two conventional, reproducible calculations were completed and independently rev
 
 The next physical gate is a blinded heat-source-localization and full-tail calorimetric closure test using two independent thermal channels. This run performed calculations and source review only; it did not operate hardware or produce measured data.
 
+
+
+## 2026-10-04 — recovered-input reproduction and bounded source review
+
+A previously missing reproducibility input was recovered from the primary
+WarpFactory author notebook at commit
+[`03b10cb0`](https://github.com/NerdsWithAttitudes/WarpFactory/tree/03b10cb02e73998af28db87201a43f2fa0e30319).
+The notebook fixes the 10–20 m shell radii, mass
+`4.488636405000363e27 kg`, 100,000-point radial grid, smoothing requests,
+grid scaling, center, and `vWarp=0.02`. MathWorks' documented even-span rule
+makes the effective moving-average spans 7159 and 3999.
+
+An independent NumPy radial-profile audit reproducing the recorded operation
+order found that smoothing followed by mass recomputation, without
+renormalization, changes the integrated mass by `+1.8814289181490456%`.
+The maximum compactness is `0.2960908103678974` at
+`21.666997763210095 m`; the maximum smoothed pressure is
+`1.042370049825113e39 Pa`. This is an input/profile reproduction only, not a
+native-MATLAB bitwise result or a final metric/tensor calculation.
+
+A formal finite sampled junction grid over `a/L=8–12` and
+`kappa*a=.30–.42` requires EOS slope `eta>0.7998883517426197` at the worst
+sample. `eta=.8` clears with a very small minimum dimensionless stability
+margin, `V''=8.951368046032984e-6`. A review-discovered sparse-grid failure
+was preserved as a regression; the tool now rejects the analytic zero-mass
+curve and labels its conclusion as sampled rather than continuous. This is
+not a demonstrated material EOS.
+
+A bounded primary-record screen of TPMS/isogrid shells, de Sitter and Casimir
+models, SMES/FRC/spheromak sources, and lock-in thermal/gravity calibration
+patents found no demonstrated source for the required stress-energy. The
+useful engineering result is a stricter conventional measurement gate:
+blinded 3-D heater injections, lock-in IR amplitude/phase plus an independent
+thermal channel, withheld-depth validation, data-dependent tail bounds,
+moving reference-mass injection, orientation reversal, and common-mode
+rejection.
+
+The complete materialized repository passed **571 tests plus 304 subtests**.
+The work remains an unmerged research branch. No hardware experiment, thrust,
+flight, FTL, or freedom-to-operate conclusion is claimed.
