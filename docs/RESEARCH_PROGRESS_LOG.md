@@ -612,3 +612,55 @@ rejection.
 The complete materialized repository passed **571 tests plus 304 subtests**.
 The work remains an unmerged research branch. No hardware experiment, thrust,
 flight, FTL, or freedom-to-operate conclusion is claimed.
+
+
+## 2026-10-04 — full recovered metric grid, before curvature
+
+The independent recovered-input path now reaches the complete WarpFactory
+sampled metric: smoothed density and pressure, unnormalized enclosed mass,
+temporal coefficient and radial coefficient, smoothed shift, source-matched
+cubic radial interpolation, Cartesian projection, and direct moving cross
+term.
+
+At the off-axis shell checkpoint `(10.1,10.1,0.2) m`, the independent
+result is `g00=-0.6021935282467016`,
+`B=1.1355237125161208`, smoothed shift
+`0.636401955427516`, true ADM lapse
+`0.7761094418107787`, and determinant
+`-0.6839780136018804`. A mixed-octant checkpoint was added to exercise the
+signs of all spatial off-diagonal components.
+
+All **450,000** recovered author-grid nodes have Lorentzian signature in the
+independent sweep. Interpolated ranges are
+`g00=-0.8393805436 to -0.5802404951`,
+`B=1.0000000000 to 1.4206377963`, and determinant approximately
+`-1.0000000000 to -0.5806404951`. Tiny cubic interpolation overshoot is
+recorded rather than clamped, preserving source parity.
+
+This is a Python metric-component reconstruction, not native-MATLAB parity or
+a curvature/stress-energy result. The next narrow gate is a hashed fixture
+from the pinned MATLAB R2023b author environment at five fixed checkpoints.
+Only after metric parity should a separate matched fourth-order tensor
+comparison be attempted.
+
+A deduplicated source screen added:
+
+- Pfenning's electromagnetic quantum inequality as a quantitative
+  negative-energy admissibility gate;
+- a pumped squeezed-vacuum patent that does not claim negative total energy;
+- Z-pinch and high-field dielectric patents that remain ordinary positive
+  energy and many orders below the historical reference;
+- graded lattice/pressure-vessel records supporting a 3-D anisotropic
+  shell model; and
+- full-tensor gravity-gradiometer records supporting blinded known-mass,
+  multi-radius, multi-orientation calibration.
+
+For a 100 kg point-mass reference, the proposed tensor-calibration signature
+scales from eigenvalues `(+106.7888,-53.3944,-53.3944) E` at 0.5 m to
+`(+13.3486,-6.6743,-6.6743) E` at 1.0 m, an `r^-3` factor of eight.
+This is a conventional calibration target, not a gravity-modification claim.
+
+The materialized repository passes **580 tests plus 304 subtests**. The work
+remains on an open, unmerged research branch. No hardware experiment,
+spacetime source, propulsion, flight, FTL, or freedom-to-operate conclusion is
+claimed.
