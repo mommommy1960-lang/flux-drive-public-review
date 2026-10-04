@@ -446,3 +446,14 @@ After adversarial reviews exposed and repaired covariance, tolerance, synchroniz
 Fresh credited references include Giordano et al. (2024) on traceable AC ripple over DC-current calibration, US11342146B2 on known-load pulse-energy monitoring, and US10228295B2/EP2877824B1 on electrical-substitution calorimetry. Two near-miss/scale-mismatch patents were preserved as negative results. Patent status displays are not freedom-to-operate conclusions.
 
 The next evidence gate is the physical reference certificate and synchronized pulse dataset. No anomalous energy, propulsion, spacetime source, flight or FTL result follows.
+
+
+### 2026-10-04 — dummy-load uncertainty correction
+
+An adversarial numerical review found that a rounded intermediate covariance product could severely understate uncertainty in the pulsed electrical-reference check and could admit a covariance just above the exact mathematical bound. The implementation now performs the covariance and strict classification arithmetic on exact representations of the supplied binary64 values, carries numerical resolution into the guarded interval, and rejects malformed or oversized inputs cleanly.
+
+The integrator reran **53/53 targeted tests**; independent numerical and code reviews accepted the bounded correction, and the code review reported **196/196 tests passing in a copied full-suite run**. This validates only the software classification logic, not a certificate, hardware measurement or apparatus transfer.
+
+New credited measurement references are Christian Mester (2021) on synchronized, traceable sampled electrical power through 9 kHz and Cultrera et al. (2024) on waveform-matched nonsinusoidal energy-meter testing. New patent references are US10168365B2 for substitution calorimetry, US11904164B2 for synchronized pulsed voltage/current capture architecture, and US7148828B2 for timing-skew calibration. Their scopes and displayed legal statuses do not establish project accuracy, freedom to operate, propulsion or spacetime effects.
+
+The next gate is certified transfer from the dummy-load configuration to the actual apparatus measurement envelope, followed by a preregistered repeated pulse matrix and an independent calorimetric cross-check. No anomalous energy, physical spacetime source, thrust, flight or FTL result was produced.
