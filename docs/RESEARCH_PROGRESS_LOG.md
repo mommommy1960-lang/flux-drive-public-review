@@ -365,3 +365,10 @@ A source screen of [Funai and Martín-Martínez](https://doi.org/10.1103/PhysRev
 New patent references are [US5347392A](https://patents.google.com/patent/US5347392A/en) (Chen, Robinson and Hemmati), [US7333206B2](https://patents.google.com/patent/US7333206B2/en) (Clark), [US8659759B2](https://patents.google.com/patent/US8659759B2/en) (Koulikov and Kachanov) and [US4571085A](https://patents.google.com/patent/US4571085A/en) (Anderson). They improve spectral, scatter and loss calibration; none supplies a spacetime source. Displayed legal status and family metadata are provisional and give no freedom-to-operate conclusion.
 
 The next physical gate is a synchronized measured spectrum/mode map and loading/hold/ringdown record with independently calibrated optical-loss channels, calorimetry, field momentum, mechanical impulse and electrical/control energy. Issue #24 remains unchanged because no new metric or Einstein-tensor calculation was added. No shell, anomalous propulsion, flight or FTL result follows.
+
+
+### Sideband-transfer boundary correction
+
+An adversarial numerical review rejected part of the first sideband update. Tiny sideband energy could disappear by subtraction; extremely small decay rates could divide by zero; very large mode numbers could lose linewidth-scale detuning; exact half-FSR is a two-mode tie rather than a valid one-nearest-mode answer; and zero-frequency lines require coherent recombination.
+
+Those cases are now rejected or calculated stably and preserved by regression tests. The earlier exact half-FSR numerical suppression claim is superseded pending a bounded multimode model. The bounded local total is now 86 passing tests. A hosted workflow failed before exposing any test steps or retrievable log, so there is no hosted pass and no diagnosed code-test failure. The correction changes numerical trust boundaries, not the physical conclusion: no shell, anomalous propulsion, flight or FTL result follows.
