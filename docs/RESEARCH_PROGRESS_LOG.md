@@ -457,3 +457,31 @@ The integrator reran **53/53 targeted tests**; independent numerical and code re
 New credited measurement references are Christian Mester (2021) on synchronized, traceable sampled electrical power through 9 kHz and Cultrera et al. (2024) on waveform-matched nonsinusoidal energy-meter testing. New patent references are US10168365B2 for substitution calorimetry, US11904164B2 for synchronized pulsed voltage/current capture architecture, and US7148828B2 for timing-skew calibration. Their scopes and displayed legal statuses do not establish project accuracy, freedom to operate, propulsion or spacetime effects.
 
 The next gate is certified transfer from the dummy-load configuration to the actual apparatus measurement envelope, followed by a preregistered repeated pulse matrix and an independent calorimetric cross-check. No anomalous energy, physical spacetime source, thrust, flight or FTL result was produced.
+
+
+## 2026-10-04 — Calibration-transfer evidence gate
+
+A new analysis gate now tests whether a validated pulsed dummy-load
+measurement may be applied to an apparatus run.  It requires exact run and
+instrument configuration identity, complete baselines, synchronized
+measurement evidence, certificate validity, and uncertainty-expanded coverage
+of both runs inside one independently certified joint operating envelope.
+Separate voltage, current, timing, temperature, spectrum or crest-factor ranges
+cannot be combined into a pass unless the certificate explicitly validates
+their joint coverage.
+
+An independent audit first found and reproduced false-pass paths involving a
+missing apparatus baseline, altered downstream metadata, and an out-of-envelope
+dummy run.  Those paths were repaired.  The final targeted suite passed **67 of
+67 distinct tests**; the independent audit also passed **210 of 210 full local
+tests**.
+
+The result is a conservative software/evidence gate, not a physical experiment.
+No project waveform, certificate or hardware measurement was supplied, and the
+code does not authenticate documents.  It does not validate deposited energy,
+cavity behavior, propulsion, spacetime, flight or FTL.  Primary NIST and
+TracePQM waveform/power-metrology sources and four credited calibration patents
+were recorded with their limitations and legal-status caveats.  The next real
+evidence gate is an independent certificate plus synchronized dummy-load and
+apparatus data for the exact measurement configuration, followed by repeated
+multi-level pulses and a calorimetric cross-check.
