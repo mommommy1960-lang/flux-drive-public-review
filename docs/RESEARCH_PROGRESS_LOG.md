@@ -385,3 +385,10 @@ A fresh source screen retained the ideal conducting cylindrical Casimir shell on
 New patent references—[US20260118214A1](https://patents.google.com/patent/US20260118214A1/en), [US8434938B2](https://patents.google.com/patent/US8434938B2/en) and [US9267880B1](https://patents.google.com/patent/US9267880B1/en)—may improve mode-map, thermal-gradient and ringdown calibration. None supplies a spacetime source or anomalous propulsion. Displayed legal-status/family metadata is provisional and gives no freedom-to-operate conclusion.
 
 No physical shell, anomalous propulsion, flight or FTL result follows. The next physical gate remains a synchronized measured spectrum/mode map and loading/hold/ringdown record with calibrated optical, thermal, mechanical and electrical channels.
+
+
+### Same-run continuation — optical heat and emitted-photon accounting
+
+The bounded model now carries every resolved cavity spectral line through a steady hold and ringdown into absorption, leakage, transmission, scatter and remaining stored light. A synthetic all-resonant example correctly deposits 6 J during a 2 W, 3 s hold; a carrier-only shortcut would miss about 2.49 J. The ringdown ledger and a linearized cooling sensitivity are covered by independent review and regression tests.
+
+The implementation also separates gross outgoing thermal photons from incoming background radiation and net excess cooling. It returns only a maximum recoil magnitude until measured surface directions and emissivity supply an angular model. The current bounded local total is 115 passing tests. These are conventional bookkeeping and sensitivity results, not hardware measurements or a propulsion effect.
