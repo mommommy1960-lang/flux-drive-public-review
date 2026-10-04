@@ -435,3 +435,14 @@ No new metric/tensor result, physical shell source, anomalous propulsion, flight
 ### 2026-10-03 — synchronized electrical-cost accounting
 
 A conventional measurement gate now aligns electrical input accounting with the optical loading and ringdown window, separates import/export/net energy, prevents meter-boundary double counting, and requires synchronized calibrated evidence before a result is called complete. After adversarial covariance stress testing, **175 local tests passed** and two independent internal audits accepted the bounded implementation. NIST waveform-metrology guidance and US5485393A were credited; neither supplies a warp mechanism, and the patent status display is not a freedom-to-operate conclusion. This is analysis software, not a hardware, propulsion, spacetime, flight or FTL result.
+
+
+### 2026-10-03 — pulsed electrical-reference gate
+
+The project added a conservative three-way equivalence check for a separate electrical dummy-load calibration run. It compares baseline-subtracted incremental pulse energy only when an external certificate identifies the same electrical boundary, event window, clock, baseline method, calibrated voltage/current chains, load impedance and spectrum qualification. Missing evidence returns “not evaluable”; uncertainty overlap returns “indeterminate.” Calibration energy is never counted as apparatus energy.
+
+After adversarial reviews exposed and repaired covariance, tolerance, synchronization, evidence-identifier and extreme-scale numerical failures, **192 local tests passed** and three independent bounded audits accepted the implementation. This is verified analysis software, not a completed calibration or hardware experiment.
+
+Fresh credited references include Giordano et al. (2024) on traceable AC ripple over DC-current calibration, US11342146B2 on known-load pulse-energy monitoring, and US10228295B2/EP2877824B1 on electrical-substitution calorimetry. Two near-miss/scale-mismatch patents were preserved as negative results. Patent status displays are not freedom-to-operate conclusions.
+
+The next evidence gate is the physical reference certificate and synchronized pulse dataset. No anomalous energy, propulsion, spacetime source, flight or FTL result follows.
