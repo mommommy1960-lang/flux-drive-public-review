@@ -397,3 +397,12 @@ The implementation also separates gross outgoing thermal photons from incoming b
 ### 2026-10-04 — unresolved optical heating bound
 
 A numerical audit found that the thermal adapter dropped the optical model's bound on unresolved spectral light. It now includes that possible extra heating in its conservative temperature-limit decision while leaving resolved energy unchanged. A regression demonstrates that the omitted-light bound can change the validity decision. All 116 focused local tests pass; no physical measurements or new spacetime-source result were produced. Method credit: Fan, Suh and Joannopoulos, https://doi.org/10.1364/JOSAA.20.000569. This patch has no new hosted or independent-agent validation yet.
+
+
+### 2026-10-04 — thermal-model bounds and calibration review
+
+Independent internal reviews rejected several thermal-accounting false bounds. The research branch now preserves unresolved spectral heating in photon bounds, declares preload energy outside the observation window, rejects unsupported numerical domains and checks spectrum consistency. A conventional constant-property graybody comparison supplies a bounded model-error envelope; an independent-form nonlinear numerical regression checks it. Additional regressions preserve small cooling beside large thermal inventories, loss-partition mistakes and invalid tail certificates.
+
+128 focused copied-module tests pass locally; this is not a full-repository or hosted pass. PR #29 remains open and private main was not modified. Published calibration leads are credited to Lehman, Spidell, Hadler and Williams ([US10837828B2](https://patents.google.com/patent/US10837828B2/en)) and Jacob Fraden ([US6447160B1](https://patents.google.com/patent/US6447160B1/en)). A separate concentric-sphere Casimir source screen credits [L. P. Teo (2011)](https://doi.org/10.1103/PhysRevD.84.025014). These are calibration/interaction references; no implemented hardware or physically supported shell source was demonstrated. Patent status metadata does not establish freedom to operate.
+
+The measured gate remains independently calibrated absorption/thermal emission, optical channels and electrical/support costs over a common observation window. Source details, failures and assumptions remain in the private technical record. No new shell/tensor result was produced.
