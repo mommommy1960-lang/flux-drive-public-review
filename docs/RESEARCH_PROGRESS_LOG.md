@@ -560,3 +560,15 @@ No hardware measurement or flight result occurred. The physical gate still requi
 A deduplicated patent screen added filament-wound and composite spherical pressure vessels, variable-thickness toroidal vessels, nested inflatable toroids and a formed spherical vessel. These records provide conventional manufacturing and packaging precedents only. Simple, explicitly illustrative scale checks put ordinary vessel masses or pressure-energy equivalents many orders below the historical Flux shell reference, and toroidal/opening/joint geometries violate the radial-only idealization.
 
 No record provides negative stress-energy or a spacetime source. Patent status displays are not freedom-to-operate findings. Any future geometry evaluation needs measured material properties and a full three-dimensional density/stress map that includes seams, openings, joints and supports.
+
+## 2026-10-04 — bounded junction and source-screen update
+
+Two conventional, reproducible calculations were completed and independently reviewed.
+
+- A sharp, unsmoothed static hollow-shell completion has a smooth outer Schwarzschild junction but requires an inner tangential surface layer. This is conditional on that static completion and does not describe the authors' final smoothed moving model.
+- A separate formal zero-thickness junction is radially stable only for a supplied shell equation-of-state slope above a calculated threshold. The slope is unmeasured, and the result does not establish a realizable material, finite-thickness stability, propulsion, flight or FTL.
+- Focused regression tests passed after explicit handling was added for the zero-surface-mass singular case and the marginal stability threshold.
+- A bounded primary-patent screen found conventional shell-buckling and thermal-localization measurement ideas, but no screened patent supplied a verified stress-energy source at the required scale. Inventors and legal-status caveats are preserved in the evidence record and issue #25; patent status is not a freedom-to-operate conclusion.
+
+The next physical gate is a blinded heat-source-localization and full-tail calorimetric closure test using two independent thermal channels. This run performed calculations and source review only; it did not operate hardware or produce measured data.
+
