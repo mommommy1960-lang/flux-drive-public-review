@@ -553,3 +553,10 @@ A proposed thermal source-location/path comparison passed its initial nominal te
 A bounded patent review added measurement-design references for matched-condition heat-flux calibration, distributed multi-location heater injections, temperature-probe response-time characterization, reference-mass gravity calibration and sensor-orientation reversal. Two speculative propulsion/negative-energy records were quantitatively or conservation-law rejected. Patent status labels are not freedom-to-operate findings, and none of these records demonstrates a spacetime source.
 
 No hardware measurement or flight result occurred. The physical gate still requires externally traceable heat-source maps, held-out multi-position response data covering the test and reference footprints, thermal-path stability bounds, full-tail calorimetry and complete uncertainty provenance. Issue #24 was not changed because no new spacetime calculation was produced.
+
+
+### Shell-geometry screen — same date
+
+A deduplicated patent screen added filament-wound and composite spherical pressure vessels, variable-thickness toroidal vessels, nested inflatable toroids and a formed spherical vessel. These records provide conventional manufacturing and packaging precedents only. Simple, explicitly illustrative scale checks put ordinary vessel masses or pressure-energy equivalents many orders below the historical Flux shell reference, and toroidal/opening/joint geometries violate the radial-only idealization.
+
+No record provides negative stress-energy or a spacetime source. Patent status displays are not freedom-to-operate findings. Any future geometry evaluation needs measured material properties and a full three-dimensional density/stress map that includes seams, openings, joints and supports.
