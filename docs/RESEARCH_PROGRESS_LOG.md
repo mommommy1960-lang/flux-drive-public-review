@@ -673,3 +673,12 @@ The open research branch now contains an executable MATLAB R2023b Update 4 expor
 This does not report a native-MATLAB match yet: the required pinned MATLAB run has not been performed in the available environment. It also does not validate derivatives, curvature, stress-energy or a physical source. A separate source audit showed that any later fourth-order tensor comparison must bind complete metric grids or exact stencil neighborhoods; five point values alone are insufficient.
 
 A bounded primary-source screen added useful conventional controls for full-surface shell strain/void mapping, gravity-gradiometer inertial calibration and calorimetric cooling-tail correction. Squeezed-light noise reduction and quantum-energy inequalities were retained only as measurement/theory constraints, not as evidence of negative total energy or a warp source. No hardware experiment, propulsion, flight, FTL or freedom-to-operate conclusion is claimed; issue #24 remains unchanged.
+
+
+## 2026-10-04 — native-fixture audit correction
+
+An adversarial audit caught a guaranteed MATLAB exporter scope error and several validator false-pass paths before any native parity claim was made. The exporter and validator were corrected: the audited exporter identity, exact MATLAB build, source/input schema, trusted external file digest, integer indices, exact recovered mass, tensor symmetry and claim boundary are now enforced. Unknown claim fields, nonfinite data, arbitrary zero hashes, fractional indices and a tampered candidate with a recomputed adjacent sidecar are rejected.
+
+The corrected local suite passed **600 tests plus 304 subtests**, including 20 focused fixture-contract tests. The evidence status remains **not evaluable** until the exporter is actually run in the pinned native MATLAB environment and its digest is saved independently. Even a passing fixture will establish only five pointwise metric matrices; full-grid arrays must be attached and independently rehashed before any curvature/stress-energy comparison.
+
+A bounded source screen added useful torsion-balance dual-force calibration and full-field shell DIC/vibrometry controls, while a nanophotonic squeezed-state record was quantitatively rejected as negative-total-energy evidence. No hardware experiment, spacetime source, propulsion, flight, FTL or freedom-to-operate conclusion is claimed; issue #24 remains unchanged.
