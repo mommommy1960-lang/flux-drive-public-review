@@ -434,10 +434,4 @@ No new metric/tensor result, physical shell source, anomalous propulsion, flight
 
 ### 2026-10-03 — synchronized electrical-cost accounting
 
-A new conventional measurement gate now aligns electrical input accounting with the same loading and ringdown window used by the optical model. It separates imported, exported and net electrical energy; prevents parent-meter/component double counting; keeps baseline subtraction diagnostic-only; and requires synchronized clocks, calibrated sampling limits and identified uncertainty before a result can be called measurement-complete.
-
-The corrected implementation passed 172 local tests, including independent adversarial checks for correlated uncertainty, extreme numeric scale, zero-power readings, meter-boundary overlap and impossible laser/electrical accounting. This is a tested analysis method, not a hardware measurement.
-
-Fresh primary references were credited: NIST waveform-metrology guidance for synchronized voltage/current sampling, and Curtis V. Bradford’s US5485393A watt/watt-hour sampling patent. The patent’s illustrated historical bandwidth is not adequate evidence for fast cavity transients, and its displayed legal status is not a freedom-to-operate opinion.
-
-The actionable experimental gate is a calibrated pulsed resistive-load validation followed by synchronized voltage/current traces over the exact optical event window. No propulsion, spacetime source, flight or FTL result follows from this accounting work.
+A conventional measurement gate now aligns electrical input accounting with the optical loading and ringdown window, separates import/export/net energy, prevents meter-boundary double counting, and requires synchronized calibrated evidence before a result is called complete. After adversarial covariance stress testing, **175 local tests passed** and two independent internal audits accepted the bounded implementation. NIST waveform-metrology guidance and US5485393A were credited; neither supplies a warp mechanism, and the patent status display is not a freedom-to-operate conclusion. This is analysis software, not a hardware, propulsion, spacetime, flight or FTL result.
