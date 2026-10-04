@@ -544,3 +544,12 @@ Detailed implementation and evidence remain private in research commit 67dd1a6b3
 
 ### Hosted validation follow-up for thermal companion commit 67dd1a6
 Inspected Actions runs https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37211564378 and https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37211560362 . Both completed failure with empty steps and runner_id=0; job111463634431 logs returned404 BlobNotFound. This is unresolved hosted execution/infrastructure evidence, not a hosted test pass or a diagnosed assertion/code failure. Verified local result remains21/21 focused tests only.
+
+
+## 2026-10-04 — thermal source/path gate held after adversarial review
+
+A proposed thermal source-location/path comparison passed its initial nominal tests but was not published as accepted code after independent reviewers reproduced false-pass paths. The held-out route could ignore declared uncertainty and accept an invalid source map; a small indefinite covariance could also evade the original numerical tolerance. The failure is preserved as research evidence.
+
+A bounded patent review added measurement-design references for matched-condition heat-flux calibration, distributed multi-location heater injections, temperature-probe response-time characterization, reference-mass gravity calibration and sensor-orientation reversal. Two speculative propulsion/negative-energy records were quantitatively or conservation-law rejected. Patent status labels are not freedom-to-operate findings, and none of these records demonstrates a spacetime source.
+
+No hardware measurement or flight result occurred. The physical gate still requires externally traceable heat-source maps, held-out multi-position response data covering the test and reference footprints, thermal-path stability bounds, full-tail calorimetry and complete uncertainty provenance. Issue #24 was not changed because no new spacetime calculation was produced.
