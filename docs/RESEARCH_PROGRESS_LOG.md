@@ -372,3 +372,16 @@ The next physical gate is a synchronized measured spectrum/mode map and loading/
 An adversarial numerical review rejected part of the first sideband update. Tiny sideband energy could disappear by subtraction; extremely small decay rates could divide by zero; very large mode numbers could lose linewidth-scale detuning; exact half-FSR is a two-mode tie rather than a valid one-nearest-mode answer; and zero-frequency lines require coherent recombination.
 
 Those cases are now rejected or calculated stably and preserved by regression tests. The earlier exact half-FSR numerical suppression claim is superseded pending a bounded multimode model. The bounded local total is now 86 passing tests. A hosted workflow failed before exposing any test steps or retrievable log, so there is no hosted pass and no diagnosed code-test failure. The correction changes numerical trust boundaries, not the physical conclusion: no shell, anomalous propulsion, flight or FTL result follows.
+
+
+## 2026-10-04 — Correlated measurement and periodic cavity-shape gates
+
+A new conventional measurement calculation now tests synchronized energy and axial impulse together with their full supplied covariance, rather than treating two separate uncertainty checks as independent. This matters because shared calibration or alignment errors can make individually acceptable residuals jointly inconsistent. Independent review found and corrected numerical and physical-domain defects before the result was accepted. The final bounded local suite has 107 passing tests. This is software and sensitivity validation, not a hardware force measurement.
+
+A second optical calculation replaces the exact half-free-spectral-range blind spot with a periodic Airy loading **shape** and a bound on the older nearest-resonance approximation. At a decay-rate-to-FSR ratio of 0.1, that approximation can differ by as much as 0.014674 of peak loading. Exact absorbed, reflected and transmitted powers still require measured resonance scale and cavity coupling/topology. Method credit: [JCGM 102:2011](https://doi.org/10.59161/JCGM102-2011) and [Ismail et al. (2016)](https://doi.org/10.1364/OE.24.016366).
+
+A fresh source screen retained the ideal conducting cylindrical Casimir shell only as a nanoscale stress benchmark. Its negative self-energy becomes negligible at ship scale, and real materials/supports plus finite geometry are not supplied by the ideal model. Primary sources: [DeRaad and Milton (1981)](https://doi.org/10.1016/0003-4916(81)90097-X) and [Milton, Nesterenko and Nesterenko (1997)](https://arxiv.org/abs/hep-th/9711168).
+
+New patent references—[US20260118214A1](https://patents.google.com/patent/US20260118214A1/en), [US8434938B2](https://patents.google.com/patent/US8434938B2/en) and [US9267880B1](https://patents.google.com/patent/US9267880B1/en)—may improve mode-map, thermal-gradient and ringdown calibration. None supplies a spacetime source or anomalous propulsion. Displayed legal-status/family metadata is provisional and gives no freedom-to-operate conclusion.
+
+No physical shell, anomalous propulsion, flight or FTL result follows. The next physical gate remains a synchronized measured spectrum/mode map and loading/hold/ringdown record with calibrated optical, thermal, mechanical and electrical channels.
