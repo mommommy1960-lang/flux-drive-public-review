@@ -664,3 +664,12 @@ The materialized repository passes **580 tests plus 304 subtests**. The work
 remains on an open, unmerged research branch. No hardware experiment,
 spacetime source, propulsion, flight, FTL, or freedom-to-operate conclusion is
 claimed.
+
+
+## 2026-10-04 — native metric reproduction handoff
+
+The open research branch now contains an executable MATLAB R2023b Update 4 export protocol and a strict independent validator for the previously recovered WarpFactory shell metric. The handoff binds the exact source revision, recovered inputs, all 16 full-grid metric hashes, five fixed metric checkpoints and a detached file digest. Thirteen new adversarial tests reject altered provenance, inputs, ordering, coordinates, tensor symmetry/signature and fixture tampering. The combined local suite passed **593 tests plus 304 subtests**.
+
+This does not report a native-MATLAB match yet: the required pinned MATLAB run has not been performed in the available environment. It also does not validate derivatives, curvature, stress-energy or a physical source. A separate source audit showed that any later fourth-order tensor comparison must bind complete metric grids or exact stencil neighborhoods; five point values alone are insufficient.
+
+A bounded primary-source screen added useful conventional controls for full-surface shell strain/void mapping, gravity-gradiometer inertial calibration and calorimetric cooling-tail correction. Squeezed-light noise reduction and quantum-energy inequalities were retained only as measurement/theory constraints, not as evidence of negative total energy or a warp source. No hardware experiment, propulsion, flight, FTL or freedom-to-operate conclusion is claimed; issue #24 remains unchanged.
