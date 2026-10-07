@@ -767,3 +767,14 @@ The evidence sequence remains deliberately two-stage: first generate the complet
 Execution is still blocked by the missing authorized token, the absence of an independently retained genuine fixture digest, and an unresolved GitHub Actions condition in which jobs fail before exposing steps or logs. No unexecutable workflow or synthetic native fixture was added. The native gate remains not evaluable rather than failed.
 
 Sources: MathWorks [Setup MATLAB](https://github.com/marketplace/actions/setup-matlab), [Run MATLAB Command](https://github.com/matlab-actions/run-command), and [Run MATLAB Tests](https://github.com/matlab-actions/run-tests). No tensor calculation, hardware experiment, anomalous energy, propulsion, flight or FTL result is claimed.
+
+
+## 2026-10-07 — hosted-validation diagnosis and conventional measurement additions
+
+The current research-branch GitHub Actions runs now expose an account billing/spending-limit condition before runner assignment. No workflow step, repository command or test executed, so these failures are infrastructure evidence rather than failed code or physics. Hosted validation remains pending until that account condition is resolved and the exact research head is rerun.
+
+A deduplicated primary-record screen added three conventional capabilities: acoustic-emission qualification of composite pressure shells, an NIST gravity-enforced photon-momentum radiometer for traceable nanonewton optical-force injection, and a pulsed 40 T coil/laser-plasma architecture. The optical reference corresponds to ordinary reflected-light force `2P/c`; the 40 T source contains positive magnetic energy density and stress.
+
+Two additional primary papers refine the negative-energy test boundary. Quantum-energy teleportation can construct compensated local negative field-energy density while total energy remains nonnegative, and atomic-decay suppression can probe sub-vacuum fluctuations without becoming an energy source. No genuinely new negative-energy patent survived family/mechanism deduplication.
+
+These are measurement and rejection gates only. No native tensor value, hardware experiment, anomalous energy, physical spacetime source, propulsion, flight or FTL result is claimed.
