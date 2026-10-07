@@ -928,3 +928,27 @@ The strict-deduped patent screen added five credited references:
 The exact-phrase “negative energy” search also produced a withdrawn lampshade patent, which was excluded as irrelevant. No new Casimir/negative-stress-energy family survived relevance and deduplication. None of the five retained records provides measured negative total energy, the required spacetime stress-energy, anomalous propulsion, flight or FTL. Displayed status is not a legal conclusion and does not establish freedom to operate.
 
 Issue #24 remains unchanged because no new metric/tensor calculation was produced. PR #29 remains open and unmerged; private main is untouched. The next measurable gate is a trusted same-run common-boundary record with exact central-value primitives, complete joint covariance/shared-latent lineage and independently measured thermal response.
+
+### 2026-10-07 — exact closure referee and laboratory packet definition
+
+The private research branch now contains an independently audited exact-arithmetic referee for comparing synchronized electrical-boundary energy with same-boundary thermal/calorimetric energy. It fixes the physical sign convention, reconciles exact reported central values and gross-energy diagnostics to frozen source records, requires the complete joint covariance/shared-calibration lineage, adds certified hard bounds linearly rather than statistically, and evaluates a preregistered budget without a floating-point square-root decision boundary.
+
+Three draft generations were rejected before acceptance for false-admission paths involving replaceable covariance, empty or misassigned hard-bound registries, post-run budget substitution, unbound central values, selectable signs and incomplete physical blockers. Final local evidence is 18/18 focused and 74/74 combined tests plus byte compilation. Independent review also passed 5,000 exact-rational oracle comparisons, a valid externally pinned signature path and a tampered-signature rejection.
+
+This is an admission calculator, not a measurement. The production verifier keyring is intentionally empty and no authenticated measured packet exists, so the current result is sensitivity-only and physical closure remains not evaluable. It does not establish force, negative energy, a spacetime source, propulsion, flight or FTL.
+
+The next laboratory deliverable is now explicit: one immutable same-run package containing canonical manifests and file hashes; producer authentication; complete boundary/cut-set topology; raw synchronized voltage/current and timing/bandwidth/integrity records; reference-DUT-reference electrical-substitution calorimetry; later-input-free thermal-tail and stored-energy bounds; and a complete covariance/shared-latent record. Missing ports, calibrations, cross covariance, thermal storage/tail bounds or authentication return `not_evaluable`, never zero. A fixed cooling wait cannot replace a measured slowest relevant thermal mode or traceable remaining-energy upper bound.
+
+Primary methods are credited to RFC 8785, NIST waveform-power and electrical-substitution calorimetry work, NIST SP 250-77 and SP 250-62, and JCGM covariance/traceability guidance:
+
+- https://www.rfc-editor.org/rfc/rfc8785.html
+- https://www.nist.gov/publications/complete-waveform-characterization-nist
+- https://www.nist.gov/publications/traceable-waveform-calibration-covariance-based-uncertainty-analysis
+- https://doi.org/10.6028/NIST.TN.2238
+- https://www.nist.gov/document/sp250-77pdf
+- https://doi.org/10.6028/jres.126.011
+- https://www.bipm.org/en/committees/jc/jcgm/publications
+
+A strict-deduped patent screen also added six credited families: Tang, Li and Xu's deployable corrugated lunar shell (CN120100074A/B); Cui, Hong, Feng, Wang, Wang, Ye and Du's differential micro-thrust stand (CN119354395A/B); Lentz, Peters, Stephens and Laske's spinning-object test apparatus (US20240019601A1/US12442949B2); Pratt, Schlamminger, Agrawal and Wilson's nanoribbon torsion resonator (WO2023070131A1/US20250236508A1); Martins's pulsed-coil propulsion claim (US20250132082A1/WO2023130166A1); and Abundo and Galli's LANR/Casimir-energy claim (WO2026028231A2). The shell and sensors are conventional structural/metrology references; the speculative records lack traceable measurements closing their extraordinary claims. Displayed status is not a legal conclusion or freedom-to-operate opinion.
+
+No reviewed patent establishes measured negative total energy, the required shell stress-energy, anomalous propulsion, flight or FTL. Issue #24 is unchanged because no new metric/tensor value was produced. PR #29 remains open and unmerged; private main was not modified.
