@@ -869,3 +869,8 @@ A strict-deduped patent screen added three families:
 - US9541235B2 and international family, Robert D. Travis, belted toroidal pressure vessel. It is ordinary structural prior art requiring nonlinear structural, proof, fatigue, NDE and leak validation; it is not a metric shell. https://patents.google.com/patent/US9541235B2/en
 
 Patent status labels are not legal conclusions and do not establish freedom to operate. No reviewed record supplies measured negative total energy, the required anisotropic shell stress-energy, anomalous propulsion, flight or FTL. Issue #24 was not changed because no new metric/tensor value was produced. PR #29 remains open and unmerged; hosted exact-head validation remains unresolved.
+
+
+### 2026-10-07 correction to the entry above
+
+Final numerical review added physical-domain and extreme-range guards to the Gaussian sensitivity helper and one additional regression. The final focused result is **28/28**, not 27/27. Independent fuzz also completed 2,000 permuted spectral-cell/covariance ledgers, 5,000 covariance propagations against NumPy and 5,000 all-port order permutations without a false admission in the tested domain. These remain local numerical checks, not hosted CI or physical validation.
