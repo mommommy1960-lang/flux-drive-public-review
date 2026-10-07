@@ -778,3 +778,20 @@ A deduplicated primary-record screen added three conventional capabilities: acou
 Two additional primary papers refine the negative-energy test boundary. Quantum-energy teleportation can construct compensated local negative field-energy density while total energy remains nonnegative, and atomic-decay suppression can probe sub-vacuum fluctuations without becoming an energy source. No genuinely new negative-energy patent survived family/mechanism deduplication.
 
 These are measurement and rejection gates only. No native tensor value, hardware experiment, anomalous energy, physical spacetime source, propulsion, flight or FTL result is claimed.
+
+
+## 2026-10-07 — coupled heat, photon momentum and cavity-control screen
+
+A six-track literature and patent review added conventional shell-health, pulsed-field, plasma-compression, optical-cavity, heat-flux, microforce and quantum-energy-teleportation references. Full inventor credit, family/status caveats, calculations and falsification gates are retained in the private research record and issue #25.
+
+The strongest cross-domain result is a measurement warning. An 8 MW/m² radiative heat flux over 1 cm² is 800 W and carries ordinary photon recoil of about 2.67 µN when absorbed or 5.34 µN when reflected—the same scale as a cited differential microthrust bench. A residual force at that scale is not anomalous unless incident, reflected, transmitted and emitted photons are measured together with stored heat, conduction, convection, radiation, the complete cooling tail, cable forces and common-mode controls.
+
+The cavity source review reached the same conclusion. A published 670 kW enhancement-cavity demonstration corresponds to 2.68 mJ per pulse at 250 MHz and ideal one-beam recoil of about 2.23 mN absorbed or 4.47 mN reflected. The experiment reported thermal-deformation and optical-damage limits, while the patent requires driven input and active control. Cavity buildup stores and reuses supplied energy; it does not create energy.
+
+The screened 30 T repeating magnet, staged Z-pinch and liquid-metal plasma-compression records all imply large but ordinary positive field, thermal or compression energy densities. The two 2023 quantum-energy-teleportation experiments demonstrate correlation-assisted local extraction with sender/control energy injection and nonnegative global energy; they do not measure negative gravitational stress-energy.
+
+The patent-family review also preserved status traps: ceased international applications can coexist with active national grants, and an official US grant can appear after an aggregator page remains marked pending. No single status label establishes freedom to operate.
+
+No new metric/tensor calculation was produced, so issue #24 was unchanged. PR #29 remains open and unmerged; private main was not modified. Hosted CI still executed zero repository steps under the previously diagnosed account billing/spending blocker. The native MATLAB evidence gate still requires authorized R2023b Update 4 execution and an independently retained genuine fixture digest.
+
+No hardware experiment, anomalous energy, physical spacetime source, propulsion, flight or FTL result is claimed.
