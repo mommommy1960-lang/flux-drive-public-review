@@ -732,3 +732,8 @@ A source audit also showed that a center tensor value can be reproduced from a `
 
 A deduplicated primary-patent screen added curved-shell ultrasonic inspection, Casimir/chiral-vacuum claims, superconducting and flux-compression magnets, atom-interferometer compensation, and heat-flux calibration references. Quantitative conservation checks and falsification gates were retained; no record supplied negative total energy, the required anisotropic shell stress-energy, a physical spacetime source, propulsion, flight or FTL. Patent status labels remain jurisdiction-specific leads and are not freedom-to-operate conclusions.
 
+
+
+### Hosted validation follow-up
+
+GitHub Actions run [#705](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37575525142) completed `failure`, but its only job exposed no steps, logs or artifacts and direct log retrieval returned HTTP 404 `BlobNotFound`. This is unresolved hosted-execution evidence, not a hosted test pass and not a diagnosed assertion, code or physics failure. The verified evidence remains the local test suites recorded above.
