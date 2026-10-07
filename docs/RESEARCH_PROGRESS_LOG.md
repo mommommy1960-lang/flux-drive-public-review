@@ -718,3 +718,17 @@ Local verification passed **38 focused tests** and **618 repository tests plus 3
 A second audit reproduced three evidence-handling false passes in the first stencil-admission implementation: nonfinite expected metric values could evade ordinary comparisons, a preloaded module name could spoof the binder, and altered component-level statistics were not fully revalidated. All three were corrected and retained as regressions.
 
 The final local result is **40 focused tests** and **620 repository tests plus 304 subtests** passing. The source-stencil geometry result remains: only the center z-plane has the complete fourth-order halo, with 61 metric nodes and 976 component inputs per accepted checkpoint. The correction strengthens evidence rejection; it does not authenticate hostile in-process code, provide native MATLAB arrays, calculate stress-energy, identify a physical spacetime source, or demonstrate propulsion, flight, or FTL.
+
+
+## 2026-10-07 — independent fourth-order tensor reference
+
+The open research branch now contains an independent Python-only fourth-order tensor reference for the recovered WarpFactory metric. It evaluates exactly the 61 metric nodes required by the pinned source stencil and compares a literal source-form Ricci calculation with an independent Christoffel-based contraction. Manufactured tests cover Minkowski space, all three pure spatial derivative directions, all three mixed spatial derivative pairs, and a nonzero analytic curvature oracle.
+
+An adversarial review found and closed a result-binding false pass before publication: a replaced stencil-plan digest could previously be accepted after recomputing the unkeyed result digest. The validator now rebuilds the plan from the target, and regression tests freeze the recovered inputs and numerical outputs. Local verification passed 51 focused tests plus 6 subtests; the complete scratch materialization passed 343 tests plus 118 subtests; and the earlier materialized repository suite plus the new test file passed 591 tests plus 310 subtests.
+
+At the cavity checkpoint, the calculated curvature remains below a conservative heuristic numerical threshold, so the enormous stress-energy number produced by conversion is explicitly rejected as unresolved numerical amplification. Two shell checkpoints produce resolved Python-grid values but are not converged: the sampled grid has only one complete z stencil and no spacing/refinement series. No authenticated native MATLAB metric bundle or tensor output exists yet.
+
+A source audit also showed that a center tensor value can be reproduced from a `1x5x5x5` native crop after two mandatory full-versus-crop locality controls. That is an executable reduction in evidence size, not validation of the tensor or physics.
+
+A deduplicated primary-patent screen added curved-shell ultrasonic inspection, Casimir/chiral-vacuum claims, superconducting and flux-compression magnets, atom-interferometer compensation, and heat-flux calibration references. Quantitative conservation checks and falsification gates were retained; no record supplied negative total energy, the required anisotropic shell stress-energy, a physical spacetime source, propulsion, flight or FTL. Patent status labels remain jurisdiction-specific leads and are not freedom-to-operate conclusions.
+
