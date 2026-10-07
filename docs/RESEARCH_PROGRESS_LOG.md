@@ -751,3 +751,8 @@ Verification passed 40 focused tests plus 6 subtests, 360 complete shared-worksp
 
 A second deduplicated primary-patent screen added conventional curved-shell additive manufacturing/shearography, squeezed-light and Casimir-wedge claims, >25 T magnets and SMES, gravity-moment force calibration, and broadband heat-flux sensing. Quantitative conservation checks and blinded tests were retained. None supplied negative total energy, the required anisotropic shell stress-energy, or a physically realizable spacetime geometry. Patent status summaries remain jurisdiction-specific leads, not freedom-to-operate conclusions.
 
+
+
+### Hosted validation follow-up
+
+For cropped-tensor gate commit `c2bc38e`, GitHub Actions run [#709](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37581878381) completed `failure`, but its only job exposed no steps or log URL and direct log retrieval returned HTTP 404 `BlobNotFound`. This remains unresolved hosted-execution evidence, not a hosted pass and not a diagnosed code or physics failure. Local verification remains the evidence reported above.
