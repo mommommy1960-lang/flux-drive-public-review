@@ -711,3 +711,10 @@ A source-code audit of the pinned WarpFactory tensor path found that only the ce
 The new research-branch contract pins the relevant source revision and dependency identities, maps each accepted point to the exact MATLAB column-major raw-array offsets, and records 61 distinct metric nodes (976 scalar component inputs) per checkpoint. It binds only to a passing full-grid comparison covering all 7.2 million metric values and detects later alteration of the comparison or stencil record.
 
 Local verification passed **38 focused tests** and **618 repository tests plus 304 subtests**. This is an evidence-quality and source-code-admissibility result, not a tensor calculation. No native MATLAB metric bundle, derivative-convergence result, stress-energy source, propulsion, flight, or FTL result was produced. Patent screening added conventional shell-fabrication, nondestructive inspection, force/heat calibration, Casimir-ledger, and extreme-field references; none supplied a demonstrated spacetime source, and patent status was not treated as freedom to operate.
+
+
+### 2026-10-06 correction — adversarial admission review
+
+A second audit reproduced three evidence-handling false passes in the first stencil-admission implementation: nonfinite expected metric values could evade ordinary comparisons, a preloaded module name could spoof the binder, and altered component-level statistics were not fully revalidated. All three were corrected and retained as regressions.
+
+The final local result is **40 focused tests** and **620 repository tests plus 304 subtests** passing. The source-stencil geometry result remains: only the center z-plane has the complete fourth-order halo, with 61 metric nodes and 976 component inputs per accepted checkpoint. The correction strengthens evidence rejection; it does not authenticate hostile in-process code, provide native MATLAB arrays, calculate stress-energy, identify a physical spacetime source, or demonstrate propulsion, flight, or FTL.
