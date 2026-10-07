@@ -879,3 +879,24 @@ Final numerical review added physical-domain and extreme-range guards to the Gau
 ### 2026-10-07 final correction
 
 A final scale-safe ordering fix added one regression. The final focused result is **29/29**. The physics result and measurement requirements are unchanged.
+
+### 2026-10-07 — thermal-photon closure, boundary power and patent-screen update
+
+Two conventional measurement-admission checks were added on the private research branch and independently challenged with numerical edge cases. One converts a fully bounded common-boundary energy discrepancy into conservative photon impulse and angular-impulse limits; the other evaluates synchronized raw voltage/current records only when timing, bandwidth, calibration, data-integrity, covariance and disjoint-boundary evidence are supplied. Both arithmetic implementations passed their final focused and adversarial local reviews. These are software gates for future data, not hardware results.
+
+Illustrative sensitivity only: 25.92 mJ of unclosed energy corresponds to 86.4598 pN s of photon impulse; a 0.21 m location bound corresponds to 18.1566 pN m s of angular impulse. A 0.1 pN s dark-photon budget is 29.9792 microJ. The project has not measured the heat location, uninstrumented energy, thermal path, stored energy or full common-boundary covariance needed to apply those figures. Missing evidence returns `not_evaluable`, not zero.
+
+Local validation included 14 focused thermal tests, 55 combined thermal/vector/source-path tests, 5,000 exact positive-semidefinite covariance comparisons, 5,000 indefinite-matrix rejections, 27 focused voltage/current tests and independent adversarial checks for floating-point decisions, extreme finite ranges, signed import/export and boundary topology. This validates bounded software behavior only; supplied record digests and cut-set certificates are not independently authenticated.
+
+Hosted status was corrected: GitHub Actions [run 37665534408](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37665534408) exists for the prior exact branch head, but failed before a runner executed any repository step. It exposed no steps, zero billable milliseconds, no artifacts and no retrievable log. The cause is not proven; hosted validation remains unresolved rather than a diagnosed code or physics failure.
+
+The strict-deduped patent screen added four credited references:
+
+- EP4524040A1, Arturs Jasjukevics, Bernd Vosgerau and Robert Steinbeiss / ArianeGroup: conventional toroidal spacecraft-tank prior art requiring structural proof, burst, NDE, slosh/modal, thermal-cycle and fatigue validation. https://patents.google.com/patent/EP4524040A1/en
+- CN120352942A, Ye Ruijun, Gao Kun, Ye Ruixian and Liu Bicheng: unsupported high-voltage/gravity claims requiring blinded dummy/off/polarity tests and complete electromagnetic, thermal, vibration and airflow controls. https://patents.google.com/patent/CN120352942A/en
+- EP4715431A1 / DE102024127355B4, Mareike Hetzel, Christian Schubert and Carsten Klempt / DLR: atom-interferometer common-noise suppression, useful as metrology prior art rather than an exotic source. https://patents.google.com/patent/EP4715431A1/en
+- CN114964577A/B, Xu Zhilin, Wu Junhui, Zhang Yixiang, Liang Yurong and Zhou Zebing / Huazhong University of Science and Technology: optical-fiber torsion-balance micro-thrust measurement, not proof of nanonewton capability. https://patents.google.com/patent/CN114964577B/en
+
+Displayed patent status is not a legal conclusion or freedom-to-operate opinion; official registers and live claims control. US20250096702A1 was excluded as a continuation of an already logged family. None of the records establishes measured negative energy, the required spacetime stress-energy, anomalous propulsion, flight or FTL.
+
+Issue #24 remains unchanged because no new metric/tensor calculation was produced. PR #29 remains open and unmerged. The next measurable gate is an independently frozen common-boundary dataset containing synchronized raw voltage/current records, traceable covariance and the missing heat-location, thermal-path, uninstrumented-volume and stored-energy bounds.
