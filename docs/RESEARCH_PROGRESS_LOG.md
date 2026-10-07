@@ -737,3 +737,17 @@ A deduplicated primary-patent screen added curved-shell ultrasonic inspection, C
 ### Hosted validation follow-up
 
 GitHub Actions run [#705](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37575525142) completed `failure`, but its only job exposed no steps, logs or artifacts and direct log retrieval returned HTTP 404 `BlobNotFound`. This is unresolved hosted-execution evidence, not a hosted test pass and not a diagnosed assertion, code or physics failure. The verified evidence remains the local test suites recorded above.
+
+
+## 2026-10-07 — native cropped-tensor evidence packet
+
+The open research branch now contains a pinned MATLAB launcher/exporter and independent Python validator for the next external WarpFactory tensor reproduction. Source audit shows that each admitted center output depends on exactly 61 nodes / 976 metric scalars inside a `1x5x5x5` crop. The packet therefore reduces the native evidence transfer from the full grid while preserving every source dependency.
+
+Two native locality controls are mandatory: bitwise full-versus-crop equality on an asymmetric off-center manufactured metric, and replacement of all 64 unused crop corners at each real target while proving all 61 dependency nodes and all 16 center outputs remain bitwise unchanged. Only the 48 center outputs across three targets are admissible; crop boundary outputs are diagnostic.
+
+An adversarial audit reproduced false passes involving incomplete corner mutation, noncenter NaN output, an unbound metric-fixture digest, and path-shadowing risk. All were corrected. The clean launcher resets MATLAB paths/functions, rejects any checkout change including untracked files, verifies exact source identities, and requires MathWorks `isgpuarray`. The validator now checks every input/output scalar, exact bytes, symmetry, Lorentzian signature, trust anchors and proof counts. Independent re-audit returned PASS.
+
+Verification passed 40 focused tests plus 6 subtests, 360 complete shared-workspace tests plus 118 subtests, and 620 materialized repository/current tensor-crop tests plus 310 subtests. MATLAB R2023b Update 4 and Parallel Computing Toolbox are unavailable here, so no native tensor value was produced. This is an evidence-handling result, not native parity, convergence, a physical source, propulsion, flight or FTL.
+
+A second deduplicated primary-patent screen added conventional curved-shell additive manufacturing/shearography, squeezed-light and Casimir-wedge claims, >25 T magnets and SMES, gravity-moment force calibration, and broadband heat-flux sensing. Quantitative conservation checks and blinded tests were retained. None supplied negative total energy, the required anisotropic shell stress-energy, or a physically realizable spacetime geometry. Patent status summaries remain jurisdiction-specific leads, not freedom-to-operate conclusions.
+
