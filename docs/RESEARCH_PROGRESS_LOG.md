@@ -900,3 +900,31 @@ The strict-deduped patent screen added four credited references:
 Displayed patent status is not a legal conclusion or freedom-to-operate opinion; official registers and live claims control. US20250096702A1 was excluded as a continuation of an already logged family. None of the records establishes measured negative energy, the required spacetime stress-energy, anomalous propulsion, flight or FTL.
 
 Issue #24 remains unchanged because no new metric/tensor calculation was produced. PR #29 remains open and unmerged. The next measurable gate is an independently frozen common-boundary dataset containing synchronized raw voltage/current records, traceable covariance and the missing heat-location, thermal-path, uninstrumented-volume and stored-energy bounds.
+
+### 2026-10-07 — cross-domain record bridge and five-family patent update
+
+A structural evidence bridge was added on the private research branch to prevent unrelated electrical and thermal records from being treated as one experiment. It admits records only when they bind to the same run, physical boundary, exact time window, units, frozen manifest, disjoint energy paths, complete covariance/shared-calibration lineage, certified cut-set and later-input exclusion.
+
+Three successive drafts were rejected for false-admission paths involving unbound source records, changed windows, mutable covariance/weights, incomplete shared-latent allocation, path-name aliases and self-asserted evidence. After correction, 15 focused and 56 combined tests passed. Independent review also passed 100,000 exact covariance-classification cases, 50,000 outward-rounding cases and ten held-out adversarial regressions.
+
+The bridge intentionally computes no joint central energy value, recoil bound, force or propulsion result from marginal summaries and applies no second coverage factor. Content hashes detect mutation but do not authenticate producers. The experiment remains `not_evaluable` until trusted, same-run, content-addressed raw V/I, calibration, topology, full covariance and thermal-response records exist.
+
+Primary methods are traceable to NIST waveform-power metrology, electrical-substitution calorimetry and calorimeter transfer-function work, plus JCGM covariance guidance:
+
+- https://nvlpubs.nist.gov/nistpubs/jres/095/jresv95n4p377_A1b.pdf
+- https://www.nist.gov/publications/generalized-electrical-substitution-methods-and-detectors-absolute-optical-power
+- https://www.nist.gov/publications/optical-power-scale-realization-laser-calorimeter-after-45-years-operation
+- https://www.nist.gov/publications/transfer-function-approach-characterizing-heat-transport-water-calorimeters-used
+- https://www.bipm.org/en/committees/jc/jcgm/publications
+
+The strict-deduped patent screen added five credited references:
+
+- WO2024072486A2 / US12601449B2 / US20250207727A1, Matthew Michael Dethlefsen, Michael Smith Brendel and William Thomas Johnson IV / Stoke Space Technologies: conventional pressure-formed curved/toroidal shell manufacturing, requiring structural, weld, NDE, proof/burst, fatigue and leak validation. https://patents.google.com/patent/WO2024072486A2/en
+- US20250055389A1, Bradley MacDowell Voorhees: unsupported anti-gravity/mass-reduction claims requiring blinded balance/load-cell, dummy, reversal, vacuum and complete electromagnetic/thermal/vibration/energy controls. Conflicting displayed pending/abandonment events require USPTO Patent Center confirmation. https://patents.google.com/patent/US20250055389A1/en
+- US20240107652A1 / US12418973B2 / WO2022256721A1, David Kirtley, Richard Milroy, Anthony Pancotti, Christopher James Pihl and George Votroubek / Helion Energy: a driven pulsed magnetic/plasma system with ordinary positive energy and conventional field/thermal/load validation requirements. https://patents.google.com/patent/US20240107652A1/en
+- CN116124344A/B, He Jianwu, Yang Chao, Ma Longfei, Kang Qi, Duan Li and Zhang Chu / Institute of Mechanics, Chinese Academy of Sciences: a conventional Roberval-balance micro-thrust stand requiring traceable calibration and full artifact controls. https://patents.google.com/patent/CN116124344B/en
+- CN119937041A, Luan Guangjian, Zhang Ke, Ma Siqian, Diao Pengpeng and Qiu Jinfeng / Huazhong Institute of Electro-Optics: dual-atom-interferometer gravity measurement, not gravity generation. https://patents.google.com/patent/CN119937041A/en
+
+The exact-phrase “negative energy” search also produced a withdrawn lampshade patent, which was excluded as irrelevant. No new Casimir/negative-stress-energy family survived relevance and deduplication. None of the five retained records provides measured negative total energy, the required spacetime stress-energy, anomalous propulsion, flight or FTL. Displayed status is not a legal conclusion and does not establish freedom to operate.
+
+Issue #24 remains unchanged because no new metric/tensor calculation was produced. PR #29 remains open and unmerged; private main is untouched. The next measurable gate is a trusted same-run common-boundary record with exact central-value primitives, complete joint covariance/shared-latent lineage and independently measured thermal response.
