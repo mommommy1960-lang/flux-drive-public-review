@@ -874,3 +874,8 @@ Patent status labels are not legal conclusions and do not establish freedom to o
 ### 2026-10-07 correction to the entry above
 
 Final numerical review added physical-domain and extreme-range guards to the Gaussian sensitivity helper and one additional regression. The final focused result is **28/28**, not 27/27. Independent fuzz also completed 2,000 permuted spectral-cell/covariance ledgers, 5,000 covariance propagations against NumPy and 5,000 all-port order permutations without a false admission in the tested domain. These remain local numerical checks, not hosted CI or physical validation.
+
+
+### 2026-10-07 final correction
+
+A final scale-safe ordering fix added one regression. The final focused result is **29/29**. The physics result and measurement requirements are unchanged.
