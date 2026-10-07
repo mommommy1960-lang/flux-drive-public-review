@@ -756,3 +756,14 @@ A second deduplicated primary-patent screen added conventional curved-shell addi
 ### Hosted validation follow-up
 
 For cropped-tensor gate commit `c2bc38e`, GitHub Actions run [#709](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37581878381) completed `failure`, but its only job exposed no steps or log URL and direct log retrieval returned HTTP 404 `BlobNotFound`. This remains unresolved hosted-execution evidence, not a hosted pass and not a diagnosed code or physics failure. Local verification remains the evidence reported above.
+
+
+## 2026-10-07 — hosted native-execution route and unresolved prerequisites
+
+A tooling review identified an official MathWorks GitHub Actions route for the pending native reproduction. The official Setup MATLAB action can request the exact R2023b Update 4 release and Parallel Computing Toolbox. For a private repository, MathWorks requires an authorized batch licensing token supplied through a repository secret; no such token was available in this run.
+
+The evidence sequence remains deliberately two-stage: first generate the complete native metric fixture, retain and review its manifest digest independently, and only then run the cropped tensor exporter against that trusted digest. This preserves the existing requirement that a job may not generate and immediately self-trust its own evidence.
+
+Execution is still blocked by the missing authorized token, the absence of an independently retained genuine fixture digest, and an unresolved GitHub Actions condition in which jobs fail before exposing steps or logs. No unexecutable workflow or synthetic native fixture was added. The native gate remains not evaluable rather than failed.
+
+Sources: MathWorks [Setup MATLAB](https://github.com/marketplace/actions/setup-matlab), [Run MATLAB Command](https://github.com/matlab-actions/run-command), and [Run MATLAB Tests](https://github.com/matlab-actions/run-tests). No tensor calculation, hardware experiment, anomalous energy, propulsion, flight or FTL result is claimed.
