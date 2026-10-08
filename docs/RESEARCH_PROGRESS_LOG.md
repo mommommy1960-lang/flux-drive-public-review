@@ -1155,3 +1155,18 @@ All covariance-complete, authenticated-measurement, budget, physical-force, prop
 
 
 **Hosted validation:** repeated exact-SHA workflow queries for private research commit [7174194](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/7174194300abdf43c963494ed24781a54619d859) returned no registered runs, and the combined-status endpoint returned no statuses. Hosted validation therefore remains unresolved; this is neither a hosted pass nor a diagnosed code/physics failure. Evidence is recorded in [issue #25 comment 6058538325](https://github.com/mommommy1960-lang/flux-drive-kernel/issues/25#issuecomment-6058538325).
+
+
+## 2026-10-08 — covariance-support false admission corrected
+
+**Software/evidence correction, not a measurement.** Independent adversarial review reproduced a material false admission in the exact axial closure gate: an all-zero covariance component, or a body-only component, could be labeled as covering all four closure domains and receive false covariance-lineage completeness. A fully signed synthetic measured fixture reached `impulse_budget_met` with zero joint variance.
+
+The correction derives each exact PSD component's real coordinate support from its strictly positive diagonal after exact symmetry/PSD validation, rejects empty support, requires the declared domains to match that derived support exactly, and computes completeness only from actual support. Reused topology digests now also trigger global common-evidence resolution rather than an independence assumption.
+
+The fully re-signed zero/all-domain and body-only/all-domain attacks now reject. Valid exact positive and negative off-diagonal covariance cases still pass. Validation passed 47/47 focused tests, 91/91 relevant adjacent tests, 216/216 selected chain tests and compilation, with independent integration, physics and adversarial acceptance. The unrelated pre-existing broad-discovery helper collision remains, so no full-suite pass is claimed.
+
+Primary references: JCGM 102:2011 (https://doi.org/10.59161/JCGM102-2011), JCGM 100:2008 (https://doi.org/10.59161/JCGM100-2008E), NIST TN 1297 (https://doi.org/10.6028/NIST.tn.1297) and JCGM 106:2012 (https://doi.org/10.59161/JCGM106-2012). They support covariance mathematics and decision discipline, not project measurement authenticity.
+
+**Patent-screen delta:** four newly deduplicated families were recorded in issue #25: Athanassios A. Nassikas's superconducting conical-nozzle propulsion claim (US8952773B2 family); Michael A. Minovitch's externally reacted ground-coil launcher (US5093313A); Jason Vaughn Clark's nanoscale self-calibration family (US7721587B2); and the gravimeter vibration-isolation family CN120560364B by 刘帅, 秦佩, 黄涛, 李明跃, 赵杰, 李过, 王统 and 马玉潮. Displayed status is provisional metadata; official registers control. Patent status is not proof of performance, validity, non-infringement or freedom to operate. No new spacetime-shell or negative-energy family survived deduplication.
+
+PR #29 remains open and unmerged; private main is unchanged. No measured covariance, force anomaly, propulsion, gravity control, flight or FTL result is claimed. The next measurable gate is an independently receipted global covariance/allocation record covering roots, shared topology, signed mode loadings, complete residual dependence, exact marginals, disjoint deterministic bounds and multi-axis controls.
