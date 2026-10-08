@@ -1311,3 +1311,20 @@ measurement was performed.
 **Prior-art finding:** newly screened conventional optical-tweezer, gravimeter, optical-force and optomechanical-accelerometer records reinforce complete light collection, diffraction accounting, absorption/re-emission, cooling, release timing, high-vacuum calibration and cavity-control accounting. A newly screened Casimir-wedge family remains only a falsification target. The review found no verified negative-energy shell, exported-momentum mechanism, independently replicated anomalous thrust, gravity generation, propulsion, flight, faster-than-light result or working engine. Patent status labels are not scientific validation or freedom-to-operate conclusions.
 
 **Next evidence gate:** independently receipt a no-refit campaign with at least seven non-null six-axis loads that remain rank six after deleting any one case, plus reversals, mixed loads, remount/temperature/rate strata and powered nulls. Bind every optical port to one non-overlapping cut set around the same free body, and obtain traceable applied-load, response, uncertainty, frame, timing and shared-nuisance records before physical interpretation.
+
+
+## 2026-10-08 — time-resolved thermal recoil and optical cut-allocation correction
+
+**Completed work:** a conventional-physics thermal-recoil sensitivity calculation, an adversarial evidence-path correction, source/patent review and local/independent verification. No physical experiment, force measurement, hardware operation, flight test or independent replication occurred.
+
+**Correction:** two optical paths could diverge yet terminate at the same declared physical cut, allowing one aperture/cut to be allocated twice. Terminal physical-cut identifiers must now be unique. The re-signed attack fails measured-evidence admission while valid distinct cuts remain accepted.
+
+**New calculation:** a finite-window multimode ledger now computes vector thermal-photon impulse and torque from localized heat, measured/declared positive cooling modes and exterior-facet angular moments. It separately preserves unresolved same-window emission and later stored energy as conservative energy-over-light-speed momentum ceilings.
+
+The calculation exposes a decisive timing effect: two opposed facets that emit equal total energy can fail to cancel during a finite measurement window when their cooling time constants differ. In the synthetic one-joule-per-side example with 1-second and 10-second modes, the first second contains 0.5369579769 joule of signed imbalance, corresponding to 1.791099×10⁻⁹ newton-second for collimated opposing emission. Offset facets can also cancel translation while retaining torque. These are model sensitivities, not measured forces.
+
+**Verification:** 13 new focused tests, 168 adjacent optical/thermal tests and 792 relevant repository tests passed; two previously documented unrelated discovery defects remain excluded. One thousand independent numerical-quadrature cases agreed with the analytic window calculation, with worst relative difference about 1.84×10⁻¹⁴. Hosted validation remains separate.
+
+**Source and prior-art review:** published thermal-recoil work by Toth, Turyshev and collaborators, NASA radiation-torque/form-factor references, and four newly deduplicated conventional Chinese force-sensor/gravimetry patent families informed the physical test gates. None provides verified negative energy, exported momentum, anomalous thrust, gravity generation/control, propulsion, flight, faster-than-light travel or a working engine. Patent status labels are not scientific validation or freedom-to-operate conclusions.
+
+**Evidence gate:** independently receipt one synchronized no-refit packet covering heat-source localization, multiple thermal modes, exterior escape/angular response, facet positions, residual stored energy, every optical/cavity/controller energy path, covariance and powered null/reversal controls. Direct optical momentum, internal reabsorption and nonradiative gas/coolant/support/cable paths must remain separately accounted.
