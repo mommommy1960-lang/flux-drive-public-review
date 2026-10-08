@@ -1086,3 +1086,18 @@ The safe next software gate is fail-closed physical-root and receipt lineage: pe
 A strict patent delta added three previously unlogged families: John H. Schnurer's ceased superconducting gravity-modification publication (WO1998023976), Martin Vol Moody's conventional torsion-flexure gravity gradiometer family (WO2010048508/EP2340450), and Goetz Mandel's conventional toroidal pressure-vessel family (GB2110566). None demonstrates negative energy, anomalous thrust, gravity control, flight, or FTL. Displayed legal status is provisional metadata and does not establish freedom to operate.
 
 Hosted validation remains unresolved because the exact-head workflows failed before receiving runners or executing repository steps, produced no artifacts, and exposed no usable job logs. PR #29 remains open and unmerged; private main and issue #24 were not changed.
+
+
+## 2026-10-08 — structural evidence-lineage gate
+
+**Completed work:** a six-reviewer code, metrology, patent and CI review produced a standalone fail-closed structural gate for pre-window physical-source plans and post-window evidence freezes. No hardware experiment or independent replication was performed.
+
+**Project contribution:** the new gate checks independently signed instrument/clock root attestations, complete acyclic alias ancestry, immutable axis/calibration/topology/bounds-plan bindings, a pinned pre-window transparency-tree inclusion proof, signer-role separation, and post-window freeze matching. It keeps shared roots or reused evidence `not_evaluable` and never admits measured evidence, verifies force, or closes an impulse budget. The first draft was rejected for future-data chronology and trust gaps; those failures remain in the private review record. Final evidence: 24 focused and 140 selected adjacent tests passed, compilation passed, and independent integration review accepted only this narrow structural scope.
+
+**Limitation and next evidence gate:** existing upstream records still do not expose and recompute every real sensor/port/cell/channel hardware and clock root. The post-window freeze timestamp is authority-signed but lacks an independent timestamp/transparency receipt. The gate therefore does not prove source identity, covariance completeness, anomalous force, propulsion, flight or FTL. Promotion requires upstream physical-root schemas, frozen-manifest leaf reconciliation, an independent post-window receipt, and authenticated joint covariance/allocation for every shared root.
+
+**Credited primary sources:** BIPM/JCGM VIM 3 (JCGM 200:2012) on documented calibration hierarchies and traceability limits; NIST's metrological-traceability policy (updated 2024-06-17); PTB's Digital Calibration Certificate XSD v3.3.0; and IETF RFC 3161 on signed hash/time tokens. These standards inform the evidence design; they do not validate project hardware.
+
+**Patent-screen delta:** two newly deduplicated conventional metrology families were recorded privately and in issue #25: Min Young Kim's EP4671720A1/WO2024177456A1 family on multi-axis force/torque calibration, and CN118101115A by 张宇 and colleagues on timestamp-server deviation measurement. Their displayed legal status is provisional metadata, not scientific proof or a freedom-to-operate conclusion. Neither establishes negative energy, gravity modification, reactionless thrust, flight or FTL.
+
+**Hosted validation:** the previously linked exact-head run still failed before exposing executable steps, artifacts or a usable log, so hosted validation remains unresolved and is not counted as a pass or diagnosed project failure. The research PR remains open and unmerged; private main was not modified. Issue #24 remains unchanged because no new metric/tensor value was produced.
