@@ -1249,3 +1249,50 @@ Primary measurement context: held-out in-situ six-axis calibration (https://doi.
 This remains synthetic falsification arithmetic. Wrapper hashes do not prove independent raw-sample ancestry, physical-root separation, pre-window receipt, no-refit chronology, frame/origin correctness, dynamic/range coverage or matched powered-null boundaries. No authenticated calibration, measurement, force/torque, budget closure, anomalous thrust, propulsion, gravity control, flight or FTL is claimed.
 
 The bounded patent delta added four conventional calibration/drift families and one gravity-modulation claim retained only as a null-test target. The practical records reinforce mount-specific full-matrix calibration, thermal compensation, load/unload reversal and frozen held-out scoring. None provides verified negative energy, gravity control or propulsion, and status metadata does not establish freedom to operate.
+
+
+## 2026-10-08 — global six-axis calibration-error feasibility check
+
+**Completed work:** added an exact-arithmetic referee that asks whether one
+bounded calibration-error matrix can fit every declared held-out mixed-load,
+reversal and null case at once. This is a stricter check than evaluating each
+case separately.
+
+**Result:** a constructed regression showed why the stronger check matters:
+each case and the reversal pair can pass separately while the mixed case and
+reversal cases require contradictory values from one supposedly fixed
+calibration matrix. The new referee detects that contradiction exactly. The
+canonical synthetic packet remains arithmetically feasible, but its applied
+loads span only two independent directions, leaving four directions
+unconstrained per calibration row.
+
+**Review and verification:** 10 new tests and 50 combined six-axis tests passed;
+766 relevant repository tests passed with two separately documented pre-existing
+discovery defects excluded. Independent audit compared 100 randomized problems
+with a separate solver, and independent physics review checked 5,000 exact
+one-dimensional cases plus 25 six-dimensional known-feasible packets, with no
+disagreements or witness violations.
+
+**Important limitation:** a passing result is only a conservative outer
+compatibility check. It does not prove that one physical set of shared load
+errors exists, authenticate uncertainty bounds, identify the calibration
+matrix, or verify force. The implementation includes a counterexample that
+passes the componentwise outer check although no shared applied-load error can
+produce all channel residuals. All measurement, force, energy-budget,
+propulsion, gravity-control, flight and faster-than-light conclusions remain
+false.
+
+**Source review:** the calculation follows conventional calibration and
+uncertainty principles in JCGM GUM-6:2020 and JCGM 100:2008, and was cross-checked
+against published six-component calibration work by Faber et al., Traversaro et
+al., Schleichert et al., NIST, and EURAMET. Patent screening added four
+six-axis calibration families and one claimed quantum-fluctuation-shell family
+with inventor credit, status caveats and physical falsification tests in the
+private rights ledger. None supplies verified negative energy, anomalous
+propulsion, FTL, or freedom to operate.
+
+**Remaining evidence gate:** independently receipted raw ancestry, a frozen
+no-refit chronology, full-rank and overdetermined six-axis mixed/reversal
+captures across remount, temperature and rate conditions, powered nulls, and a
+joint error model preserving shared nuisance variables. No laboratory
+measurement was performed.
