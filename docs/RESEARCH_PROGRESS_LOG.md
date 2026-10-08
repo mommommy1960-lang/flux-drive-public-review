@@ -1228,3 +1228,24 @@ Primary mathematical context: Oettli–Prager (https://doi.org/10.1007/BF0138609
 This remains conditional arithmetic. Traceable six-axis calibration data, simultaneous coefficient bounds including alignment/lever-arm/timing/drift/remount effects, held-out mixed-load/reversal/null captures, joint stochastic coverage and independently receipted chronology are still missing. No authenticated calibration or measurement, force/torque result, controller-energy result, anomalous thrust, propulsion, gravity control, flight or FTL is claimed.
 
 A bounded patent delta also identified three conventional measurement/calibration families and two extraordinary propulsion filings. The conventional records strengthen the case for frequency-separated gravity-gradient controls and held-out mixed-wrench calibration; the extraordinary records supplied no authenticated metric, negative-energy measurement, closed momentum balance or independent replication. Patent status metadata is not physics validation and does not establish freedom to operate.
+
+
+### 2026-10-08 — Matrix-layout correction and held-out residual falsification
+
+Independent review found that two six-axis interfaces used “calibration columns” in their field names without declaring how nested matrices were serialized. Identity-basis tests hid the ambiguity. Both schemas are now v2 and require an explicit row-major layout in which mathematical calibration cases occupy columns; the layout is bound into model digests and checked with nonsymmetric, nonidentity calibrations. An outer-list-of-columns token fails closed.
+
+A new standalone exact-rational referee compares four frozen held-out cases—mixed force/torque, positive/negative reversal, and null—against supplied deterministic uncertainty boxes. For nominal calibration (A), reference (q), applied-load hard error (d_q), observed raw result (y), coefficient box (|E|le B), and raw hard error (d_y), it computes
+[
+r=y-Aq,qquad h=B|q|+|A|d_q+B d_q+d_y.
+]
+Any raw channel with (|r_i|>h_i) falsifies the supplied assumption set. The reversal pair also checks whether both polarities admit one shared raw-channel coefficient contribution, catching an even-mode contradiction that separate per-case envelopes can miss.
+
+The first draft over-described a passing batch as common calibration consistency. Physics review rejected that wording because no single coefficient-error matrix is solved across the mixed and reversal cases. The accepted status is only `per_case_outer_envelope_consistency`; it explicitly marks a global common coefficient error across all non-null cases unevaluable. Finite held-out trials can falsify supplied bounds but cannot validate a global calibration.
+
+Verification passed 12 new tests, 28 corrected adjacent six-axis tests, and 757 relevant repository tests plus 249 subtests with two previously documented unrelated discovery defects excluded. Exact independent campaigns covered 10,000 generated residual cases, 3,000 reversal cases, 1,000 signed nonidentity cases, 1,000 dense coefficient perturbations, and 2,000 nonsymmetric calibration pairs without formula or serialization mismatches.
+
+Primary measurement context: held-out in-situ six-axis calibration (https://doi.org/10.3390/s19245521), multicomponent static/dynamic limitations (https://doi.org/10.1515/teme-2016-0048), NIST residual/prediction-band practice (https://doi.org/10.6028/NIST.TN.1942), force calibration with errors in both reference and response (https://doi.org/10.1088/0026-1394/53/3/965), and EURAMET null/reversal/remount guidance (https://www.euramet.org/Media/docs/Publications/calguides/EURAMET_cg-14__v_2.0_Static_Torque_Measuring_Devices.pdf).
+
+This remains synthetic falsification arithmetic. Wrapper hashes do not prove independent raw-sample ancestry, physical-root separation, pre-window receipt, no-refit chronology, frame/origin correctness, dynamic/range coverage or matched powered-null boundaries. No authenticated calibration, measurement, force/torque, budget closure, anomalous thrust, propulsion, gravity control, flight or FTL is claimed.
+
+The bounded patent delta added four conventional calibration/drift families and one gravity-modulation claim retained only as a null-test target. The practical records reinforce mount-specific full-matrix calibration, thermal compensation, load/unload reversal and frozen held-out scoring. None provides verified negative energy, gravity control or propulsion, and status metadata does not establish freedom to operate.
