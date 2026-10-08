@@ -1119,3 +1119,20 @@ Hosted validation remains unresolved because the exact-head workflows failed bef
 
 
 **Hosted validation:** exact-head Flux run [37754517747](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37754517747) and Portfolio run [37754518049](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37754518049) completed as failures before receiving runners or exposing executable steps. The portfolio's 100 jobs all had empty step lists, neither run produced artifacts, and sampled logs returned `404 BlobNotFound`. Hosted validation is therefore unresolved and is not counted as a pass or diagnosed project-test/physics failure.
+
+
+## 2026-10-08 — unresolved-correlation envelope and joint-covariance stop condition
+
+**Completed work:** six independent integration, physics, adversarial-audit, implementation, patent and source/CI tracks reviewed the step after the conditional shared-latent calculation. A direct authenticated joint-covariance admission bridge was rejected because the project does not possess measured latent variances, signed loadings, complete residual-dependence evidence, or an independently receipted post-window freeze.
+
+**Project contribution:** a standalone exact-arithmetic marginal-only envelope now gives a conservative positive-semidefinite upper ceiling when cross-correlations are unresolved. It prevents a diagonal-only calculation from being treated as complete: the canonical example has diagonal variance 2 while an allowed shared correlation reaches 4. Optional outward rational standard-deviation bounds are checked before they can tighten the ceiling. The module accepts no covariance matrix and remains disconnected from measured admission.
+
+**Verification:** an adversarial review first rejected the parser because an ordered mapping could impersonate the coordinate sequence; the final version requires a concrete four-item list or tuple. Final evidence was 14/14 focused tests, 198/198 selected adjacent tests, compilation, an independent 50,000-case exact positive-semidefinite oracle with zero bound violations, and a 20,000-case malformed-input campaign with zero uncaught exceptions. Integration, physics and audit accepted only the standalone arithmetic scope.
+
+**Limitations and next evidence gate:** the result cannot identify a joint covariance, authenticate roots, infer independence, admit measurements, close a budget, or verify force. Covariance completeness and every force/propulsion/flight/FTL flag remain false. The next physical gate is one signed, independently time-receipted joint covariance/allocation record frozen before unblinding for the same run, window, axis and manifest, with complete shared-root inventory, recomputable simultaneous observations or full covariance, signed loadings, residual-dependence evidence, exact marginal reconciliation, disjoint deterministic allocations and multi-axis control measurements.
+
+**Credited primary sources:** JCGM 100:2008 and JCGM 102:2011 on correlated-input and joint-covariance propagation; Kessel and Kacker's 2009 NIST review of correlation and positive-semidefinite correlation matrices; and JCGM VIM clause 2.47 on correlation in uncertainties of differences. These sources support conservative uncertainty accounting, not project hardware or anomalous propulsion.
+
+**Patent-screen delta:** two newly deduplicated conventional metrology families were recorded in issue #25. Everett Lester Bradford's US10422707B2 family concerns multi-axis strain-gauge force/torque sensing with common-mode cancellation; CN109596297B by 邱云涛, 刘向东 and 张宁 concerns a vertical vibration rig for gravity-gradiometer common-mode rejection testing. Displayed legal status is provisional metadata, not proof of performance, validity, non-infringement or freedom to operate. Neither family demonstrates negative energy, gravity control, anomalous thrust, flight or FTL.
+
+**Repository state:** the result was committed to the existing research branch in PR #29, which remains open and unmerged. Private main was not modified. Issue #24 received the new calculation record; no metric or stress-energy claim was added.
