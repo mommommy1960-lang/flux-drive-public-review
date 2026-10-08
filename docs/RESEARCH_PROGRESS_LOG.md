@@ -1208,3 +1208,23 @@ Final verification passed 14/14 focused, 158/158 selected, and 743/743 broad rel
 Primary context: [Bassan et al.](https://doi.org/10.1103/PhysRevLett.116.051104), [Nitsche et al.](https://doi.org/10.1088/1681-7575/aa5b66), [Baumgarten–Röske–Kumme](https://doi.org/10.21014/acta_imeko.v6i4.359), [Nitsche–Kumme–Tutsch](https://doi.org/10.5194/jsss-7-577-2018), and [Polk et al.](https://doi.org/10.2514/1.B35564). These support multi-axis calibration, cross-talk analysis and environmental controls; none validates this apparatus or anomalous thrust.
 
 Four new deduplicated patent families were screened: [US20050230525A1](https://patents.google.com/patent/US20050230525A1/en), [US10513353B2](https://patents.google.com/patent/US10513353B2/en), [CN116147831A/B](https://patents.google.com/patent/CN116147831A/en), and [US20220291063A1/US11835405B2](https://patents.google.com/patent/US20220291063A1/en). The first two make extraordinary propulsion or “curved space” claims without authenticated validation; the latter two are conventional sensing references. No new negative-energy family survived, and no status label establishes operability or freedom to operate.
+
+
+### 2026-10-08 — Componentwise calibration-uncertainty outer enclosure
+
+A new standalone exact-rational sensitivity calculation now propagates simultaneous elementwise uncertainty in a full six-axis calibration matrix together with deterministic raw-channel error. For nominal calibration (A), inverse (C=A^{-1}), estimate (hat q=Cy), coefficient box (|E|le B), and raw-error box (|epsilon|le b), it computes
+[
+M=|C|B,qquad
+d=(I-M)^{-1}left(M|hat q|+|C|bight).
+]
+The enclosure is returned only when (I-M) has an exact elementwise-nonnegative inverse and the exact fixed-point certificate is satisfied. No mixed-unit scalar condition number or arbitrary threshold is used. The result is a sufficient outer componentwise bound, not an exact interval hull and not measured apparatus performance.
+
+The calculation explicitly requires (B) to be a simultaneous deterministic hard envelope that includes both applied-load and observed-response calibration uncertainty. A scope token and evidence records are bound into the model, but the software cannot authenticate those claims. Independent per-entry confidence intervals cannot be substituted for simultaneous coverage.
+
+Verification passed 12 new focused tests and the preceding 14 six-axis tests. The relevant repository suite passed 743 tests plus 249 subtests with two previously documented unrelated discovery defects excluded. Exact held-out review covered coupled force/torque corners, random nonsingular six-axis systems and positive coordinate rescalings without containment violations. A review-found ingestion edge case was fixed so unexpected caller overrides now fail closed with structured output.
+
+Primary mathematical context: Oettli–Prager (https://doi.org/10.1007/BF01386090), Neumaier (https://doi.org/10.1016/0024-3795(84)90217-9), Rohn (https://doi.org/10.1016/0024-3795(89)90004-9), Skeel (https://doi.org/10.1145/322139.322148), and Rohn–Kreinovich (https://doi.org/10.1137/S0895479893251198). Physical alignment/cross-talk context: Nitsche, Röske and Tutsch (https://www.imeko.org/publications/tc3-2017/IMEKO-TC3-2017-017.pdf).
+
+This remains conditional arithmetic. Traceable six-axis calibration data, simultaneous coefficient bounds including alignment/lever-arm/timing/drift/remount effects, held-out mixed-load/reversal/null captures, joint stochastic coverage and independently receipted chronology are still missing. No authenticated calibration or measurement, force/torque result, controller-energy result, anomalous thrust, propulsion, gravity control, flight or FTL is claimed.
+
+A bounded patent delta also identified three conventional measurement/calibration families and two extraordinary propulsion filings. The conventional records strengthen the case for frequency-separated gravity-gradient controls and held-out mixed-wrench calibration; the extraordinary records supplied no authenticated metric, negative-energy measurement, closed momentum balance or independent replication. Patent status metadata is not physics validation and does not establish freedom to operate.
