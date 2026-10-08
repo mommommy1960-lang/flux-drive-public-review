@@ -1101,3 +1101,18 @@ Hosted validation remains unresolved because the exact-head workflows failed bef
 **Patent-screen delta:** two newly deduplicated conventional metrology families were recorded privately and in issue #25: Min Young Kim's EP4671720A1/WO2024177456A1 family on multi-axis force/torque calibration, and CN118101115A by 张宇 and colleagues on timestamp-server deviation measurement. Their displayed legal status is provisional metadata, not scientific proof or a freedom-to-operate conclusion. Neither establishes negative energy, gravity modification, reactionless thrust, flight or FTL.
 
 **Hosted validation:** the previously linked exact-head run still failed before exposing executable steps, artifacts or a usable log, so hosted validation remains unresolved and is not counted as a pass or diagnosed project failure. The research PR remains open and unmerged; private main was not modified. Issue #24 remains unchanged because no new metric/tensor value was produced.
+
+
+## 2026-10-08 — exact shared-latent covariance sensitivity
+
+**Completed work:** six independent code, physics, audit, patent, source and integration tracks reviewed a standalone exact-arithmetic sensitivity calculator for one declared shared latent source across the frozen four-component closure vector. No hardware experiment or independent replication was performed.
+
+**Project contribution:** the calculator constructs a covariance matrix from declared latent variance and signed component sensitivities, reconciles each component's exact marginal variance, and evaluates the fixed closure functional with exact rational arithmetic. A decisive regression distinguishes a diagonal-only variance of 2 from the correct joint value of 4 for the canonical shared-mode case; the final focused suite passed 21/21 tests and 161/161 selected adjacent tests. The independent audit and physics reviews found no arithmetic false pass inside this conditional scope.
+
+**Limitations and next evidence gate:** this is sensitivity analysis, not measured covariance admission. Physical ancestry, mode completeness, independence of residual and mutually declared modes, exclusion of unlisted correlations, and deterministic allocation completeness remain external assumptions. All measurement, covariance-complete, budget, force, propulsion, flight and FTL flags remain false. Promotion requires authenticated physical roots and measured joint covariance/allocation covering every shared source; the module remains disconnected from measured closure.
+
+**Credited primary sources:** JCGM 100:2008 §§5.2 and F.1.2.3 on covariance from shared standards, instruments, reference data and methods; JCGM 102:2011 on propagation with joint covariance matrices; Hale et al., *IEEE Transactions on Instrumentation and Measurement* (2009), DOI 10.1109/TIM.2009.2018012; and NIST Technical Note 1621 on correlated optical-calibration uncertainty. These sources support conventional uncertainty accounting, not anomalous propulsion.
+
+**Patent-screen delta:** two newly deduplicated conventional families were logged in issue #25. Frank Joachim Van Kann's US7596876B2 family concerns a gravity gradiometer with common-mode rejection and resonance tuning; John Shearing's US20040134136A1 concerns a spherical tensegrity pressure/vacuum enclosure. Displayed active, abandoned or anticipated-expiry metadata is only a legal-record snapshot and does not prove validity, non-infringement, freedom to operate, negative energy, gravity modification, reactionless thrust, flight or FTL.
+
+**Repository state:** the result was committed to the existing research branch in PR #29, which remains open and unmerged. Private main and issue #24 were not modified because no new metric/tensor result was produced.
