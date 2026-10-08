@@ -1178,3 +1178,18 @@ The final candidate passed 49/49 focused and 218/218 selected tests plus compila
 
 
 **Hosted validation:** repeated exact-SHA queries for private correction commit [5b6ee5d](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/5b6ee5d88fb458426139b0e9bd95de58b25ad7be) returned no registered workflow runs or commit statuses. Hosted validation remains unresolved; this is neither a hosted pass nor a diagnosed code/physics failure. Evidence is recorded in [issue #25 comment 6059852833](https://github.com/mommommy1960-lang/flux-drive-kernel/issues/25#issuecomment-6059852833).
+
+
+### 2026-10-08 global covariance allocation referee and conservative admission lock
+
+Independent review found that the previous singleton-support rule was still insufficient: four microscopic diagonal components could satisfy its shape checks without reconciling independently frozen marginals, and the same evidence could be counted in both covariance and deterministic-bound roles. These were evidence-completeness defects, not physical effects.
+
+Private research commit [9216251](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/9216251c9a2c95f0159320303af8d251f3e41e66) now adds a standalone exact-rational global covariance/allocation referee. It fixes the four-domain order and units, applies the two impulse-to-energy factors exactly once, requires explicit PSD stochastic/residual atoms, exact marginal reconciliation, complete root/topology allocation, and stochastic-versus-deterministic disjointness, with no residual auto-fill or caller-supplied weights/scales. It remains conditional arithmetic: covariance-complete, measured-admission, budget, force, propulsion, flight and FTL flags stay false.
+
+The exact-axial path and four downstream bridges are now deliberately locked against measured admission until an independently receipted global reconciliation record is designed and bound. The pure-(10^{-60}) singleton attack and evidence-reuse attacks remain arithmetically inspectable but cannot produce measured admission or budget closure.
+
+Validation passed 14/14 standalone, 44/44 downstream, 100/100 focused and 729/729 broad relevant tests plus 249 subtests; exact PSD stress found zero oracle mismatches in 50,000 rational matrices. Unfiltered discovery still preserves two unrelated pre-existing defects: one absent package import and a `unittest.TestCase.run` helper-name collision. No laboratory measurements or production trust material were supplied, and no anomalous force, propulsion, gravity control, flight or FTL result is claimed.
+
+Primary methodological references include [JCGM GUM-6:2020](https://doi.org/10.59161/JCGMGUM-6-2020), [JCGM 100:2008](https://doi.org/10.59161/JCGM100-2008E), [JCGM 102:2011](https://doi.org/10.59161/JCGM102-2011), [NIST TN 1297](https://physics.nist.gov/cuu/pdf/tn1297.pdf), [Bassan et al.](https://doi.org/10.1103/PhysRevLett.116.051104), [Vlajic and Chijioke](https://doi.org/10.1088/0026-1394/53/4/S136), and [Polk et al.](https://doi.org/10.2514/1.B35564).
+
+Patent-screen additions are John Quincy St. Clair's [US20060168937A1](https://patents.google.com/patent/US20060168937A1/en), John St. Clair's [US20030209636A1](https://patents.google.com/patent/US20030209636A1/en), O'Keefe/Lee/Turner/Adams/Goodwin's [US5962782A family](https://patents.google.com/patent/US5962782/en), and Tetsuro Sakano/Fanuc's [US7437954B2 family](https://patents.google.com/patent/US7437954B2/en). The first two contain extraordinary claims without authenticated validation; the latter two are conventional sensing references. Patent status labels do not prove operability or freedom to operate.
