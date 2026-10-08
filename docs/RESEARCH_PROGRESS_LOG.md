@@ -1139,3 +1139,16 @@ Hosted validation remains unresolved because the exact-head workflows failed bef
 
 
 **Hosted validation:** exact-head Flux run [37761053354](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37761053354) and Portfolio run [37761053258](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/37761053258) completed as failures before receiving runners or exposing executable steps. The directly exposed portfolio page contained 30 empty-step jobs; the requested 100-job page timed out and was not inferred. Neither workflow produced artifacts, and sampled logs returned `404 BlobNotFound`. Hosted validation remains unresolved and is not counted as a pass or diagnosed project-test/physics failure.
+
+
+## 2026-10-08 — marginal-only correlation feasibility sensitivity
+
+**Calculation/simulation, not a measurement.** A standalone exact-rational calculator now brackets both the minimum and maximum closure variance permitted by all positive-semidefinite covariance matrices with declared marginal variances. Rational lower/upper standard-deviation certificates avoid hidden floating-point square-root assumptions. The result distinguishes conditional arithmetic cases where every correlation fails an allowance, every correlation passes, only some correlations pass, or the certificates are too loose to decide.
+
+The implementation passed 15/15 focused tests, 213/213 selected adjacent tests and compilation. Three independent reviews ran exact held-out campaigns totaling 50,000 integration cases, 60,000 physics cases and 50,000 adversarial cases with zero endpoint-enclosure or decisive-classification violations. A broad discovery run still encounters an unrelated pre-existing `unittest` helper-name collision, so it is not reported as a full-suite pass.
+
+Primary sources include JCGM 100:2008 (https://doi.org/10.59161/JCGM100-2008E), JCGM 102:2011 (https://doi.org/10.59161/JCGM102-2011), JCGM VIM 2.47 (https://jcgm.bipm.org/vim/en/2.47.html), Grone, Pierce and Watkins on extremal correlation matrices (https://doi.org/10.1016/0024-3795(90)90006-X), and Cocci and Plagborg-Møller on calibrated-parameter uncertainty (https://doi.org/10.1093/restud/rdae099). They support the correlation mathematics, not project measurement admission or a propulsion claim.
+
+**Patent-screen delta:** two newly deduplicated conventional metrology families were recorded in issue #25. US9880066B2, by Hugh Larsen, Scott K. Rhudy, Ryan F. Giem, Adam B. Manninen, Joel Schnackenberg, John L. Cancilla and Ralph W. Larsen, concerns multi-axis transducer calibration with redundant reaction sensing. US7181967B2, by James Beresford Lee, concerns adaptive environmental correction in an airborne gravity-gradient instrument. Displayed legal status is provisional metadata; official registers control. Patent status does not prove performance, validity, non-infringement or freedom to operate. Neither family demonstrates negative energy, gravity control, anomalous thrust, propulsion, flight or FTL.
+
+All covariance-complete, authenticated-measurement, budget, physical-force, propulsion, flight and FTL conclusions remain false. The next measurable gate is an independently receipted same-window joint covariance/allocation packet covering all physical roots, loadings, residual dependence, marginals, deterministic bounds and multi-axis controls.
