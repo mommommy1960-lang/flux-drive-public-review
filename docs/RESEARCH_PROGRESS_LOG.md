@@ -1296,3 +1296,18 @@ no-refit chronology, full-rank and overdetermined six-axis mixed/reversal
 captures across remount, temperature and rate conditions, powered nulls, and a
 joint error model preserving shared nuisance variables. No laboratory
 measurement was performed.
+
+
+## 2026-10-08 — optical-boundary correction and six-axis campaign-design check
+
+**Completed work:** adversarial software audit, a fail-closed correction, an exact nominal campaign-design calculation, local and independent arithmetic verification, and a primary-record prior-art review. No physical experiment, force measurement, hardware operation, flight test, or independent replication occurred.
+
+**Correction:** the optical evidence path could accept ports attached to the wrong free body or overlapping nested boundary cuts. The verifier now requires every port to cross the declared target boundary, rejects root-only, cyclic and nested paths, and still permits valid paths that share the target boundary and then diverge. Re-signed adversarial packets that previously reached measured-evidence admission now fail closed. This is an evidence-integrity repair, not a force result.
+
+**New calculation:** an exact-rational planning check now asks whether proposed six-axis load cases span all force/torque directions and remain full-rank after any one loaded case is removed. A synthetic seven-or-more-direction design can satisfy that structural gate; a six-case coordinate basis is full rank but fragile, and reversal partners do not add a new span direction. The check deliberately avoids a mixed-unit scalar condition number. It does not authenticate applied loads, validate uncertainty, identify calibration coefficients, or admit measurements.
+
+**Verification:** 109 focused/adjacent tests and 779 relevant repository tests passed, with two previously documented unrelated discovery defects excluded. A separate exact-minor oracle agreed on 500 random rational rank cases. Hosted validation remains a separate gate.
+
+**Prior-art finding:** newly screened conventional optical-tweezer, gravimeter, optical-force and optomechanical-accelerometer records reinforce complete light collection, diffraction accounting, absorption/re-emission, cooling, release timing, high-vacuum calibration and cavity-control accounting. A newly screened Casimir-wedge family remains only a falsification target. The review found no verified negative-energy shell, exported-momentum mechanism, independently replicated anomalous thrust, gravity generation, propulsion, flight, faster-than-light result or working engine. Patent status labels are not scientific validation or freedom-to-operate conclusions.
+
+**Next evidence gate:** independently receipt a no-refit campaign with at least seven non-null six-axis loads that remain rank six after deleting any one case, plus reversals, mixed loads, remount/temperature/rate strata and powered nulls. Bind every optical port to one non-overlapping cut set around the same free body, and obtain traceable applied-load, response, uncertainty, frame, timing and shared-nuisance records before physical interpretation.
