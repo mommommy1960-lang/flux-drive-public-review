@@ -1345,3 +1345,21 @@ A deduplicated patent review added two conventional six-axis calibration familie
 
 The physical evidence gate remains an independently receipted synchronized packet binding cavity line inventory, optical outputs, residual storage, controller electrical roots, target heat localization, thermal modes, exterior spectral-angular escape, frame/center of mass, covariance and powered null/reversal controls without nested boundaries or reused artifacts.
 
+
+## 2026-10-09 — business portfolio and validation reconciliation
+
+Mya P. Brown requested this public progress update after providing the accumulated AI Interface Runtime business handoffs. The current focus is Civic Continuum's business work; physical propulsion research is paused. Earlier research entries remain preserved.
+
+**Portfolio correction:** the supplied catalog contains twelve technical product directions plus Maya Node Ingestion Guard, SAGE Sovereign Ledger Provenance Lock, and Aurora Automated Compliance Defense Grid. Aurora is direction 15. A later handoff incorrectly reused that slot for a repository test-patch utility; the utility is tracked separately. The catalog describes development directions, not fifteen independently demonstrated commercial inventions or production-certified systems.
+
+**Current commercial lane:** Maya Node's existing $25 Founding Review offers a bounded workflow review, written report, adversarial test and clarification. Enterprise prices and numeric market scores in the handoffs remain planning assumptions, not validated demand, revenue or performance.
+
+**Completed local software work:** separate suites passed 152 kernel tests (128 existing plus 24 new), 48 business prototype tests, and eight existing Maya Node dispatch/health test units. These counts establish only the tested software behavior. A non-destructive assertion audit preserves the original tests; a timestamp parser distinguishes simulated plans, socket requests and observed timestamp fields. No existing assertion was relaxed to force a pass.
+
+**Unresolved evidence:** hosted Flux and portfolio validation runs failed; the inspected Flux job had no executed steps or assigned runner, and its log was unavailable. No floating-point cause or hosted regression pass is established. The local hardware probe failed and observed no hardware timestamp. No measured picosecond accuracy, live cooling savings, authenticated production security, independent replication, working propulsion or flight is established.
+
+**Handoff review:** sample status labels do not establish network isolation, immutable logging, legal protection or hardware operation. Market comparisons and licensing drafts require evidence and professional review before use as contractual commitments. Private correspondence, commercial implementation details and unpublished device parameters remain outside this public record.
+
+Published context: Fuchs and collaborators' 2024 constant-velocity solution is explicitly subluminal (https://arxiv.org/abs/2405.02709). Santiago, Schuster and Visser analyze energy-condition limitations of positive-energy warp claims (https://arxiv.org/abs/2105.03079). These papers are credited literature, not this project's measured achievements. Linux timestamping documentation (https://docs.kernel.org/networking/timestamping.html) distinguishes timestamp requests from actual hardware observations.
+
+Next gates: reconcile the full founder record and shareable portfolio, demonstrate one bounded customer workflow, determine the hosted runner failure, and obtain device-specific measurements and independent review before increasing performance or readiness claims.
