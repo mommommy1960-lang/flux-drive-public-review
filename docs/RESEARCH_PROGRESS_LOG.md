@@ -1409,3 +1409,7 @@ Historical138-test checkpoint unchanged; no hardware measurement. Direction Mya 
 ## 2026-10-10 — Source compatibility checkpoint
 Full stress-energy evaluated at a selected wall point of the known formal FTL control over three stencil refinements. Restricted source screening rejected classical Maxwell, canonical minimally coupled scalar, and ideal Casimir vacuum as sole sources for this target. Negative null contractions exclude the first two; nonzero target trace excludes the ideal traceless Casimir tensor. No sourced Flux solution, global certification or hardware capability established. Other states/models remain unconstructed; this is not universal FTL impossibility.
 Historical138tests unchanged. Direction Mya P. Brown; execution Bruce/ChatGPT; published theory credited in technical report. No hardware measurements.
+
+## 2026-10-10 — Geometry variation checkpoint
+Executed seven shape/lapse/spatial geometry variations with full local Einstein evaluation at selected wall points and two stencil sizes. Some local negative-energy projections improved, but every candidate retained a negative tested null-energy contraction. No global source, stability, control or FTL engineering result established. This is a bounded known-metric-family experiment, not novel solution or integrated-energy optimization. Historical138tests unchanged; no hardware. Direction Mya P.Brown, calculation Bruce/ChatGPT, foundational credit Alcubierre.
+Detailed unpublished implementation stays confidential.
