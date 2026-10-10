@@ -1401,3 +1401,7 @@ No Flux FTL trajectory, physical source, dynamical stability or propulsion mecha
 
 ## 2026-10-10 — Formal FTL literature control
 An explicit adaptation of the known Alcubierre-family geometry was formulated with a timelike prescribed passenger trajectory and reference-clock time advance. Executed arithmetic reproduces its negative-energy requirement. This is a literature control, not a novel Flux solution or realizable propulsion system. Full stress-tensor validation and physical source/control/stability remain unresolved. Earlier138 repository tests remain unchanged. Direction Mya P. Brown; calculation Bruce/ChatGPT; foundational credit [Miguel Alcubierre](https://arxiv.org/abs/gr-qc/0009013). Private implementation details omitted; no hardware experiment performed.
+
+## 2026-10-10 — Positive static shell travel-time result
+Declared positive-energy static-shell controls were integrated and checked for radial optical time. They produced delay, not advance. A restricted analytic sign argument agrees for this nonnegative-density zero-radial-pressure static family. This does not exclude every possible transport geometry. Independent full curvature residuals, dynamic stability and physical sources remain unresolved; no FTL capability is established. Detailed implementation stays private.
+Historical138-test checkpoint unchanged; no hardware measurement. Direction Mya P. Brown, proposed components Agent Blue, execution and audit Bruce/ChatGPT.
