@@ -1405,3 +1405,7 @@ An explicit adaptation of the known Alcubierre-family geometry was formulated wi
 ## 2026-10-10 — Positive static shell travel-time result
 Declared positive-energy static-shell controls were integrated and checked for radial optical time. They produced delay, not advance. A restricted analytic sign argument agrees for this nonnegative-density zero-radial-pressure static family. This does not exclude every possible transport geometry. Independent full curvature residuals, dynamic stability and physical sources remain unresolved; no FTL capability is established. Detailed implementation stays private.
 Historical138-test checkpoint unchanged; no hardware measurement. Direction Mya P. Brown, proposed components Agent Blue, execution and audit Bruce/ChatGPT.
+
+## 2026-10-10 — Source compatibility checkpoint
+Full stress-energy evaluated at a selected wall point of the known formal FTL control over three stencil refinements. Restricted source screening rejected classical Maxwell, canonical minimally coupled scalar, and ideal Casimir vacuum as sole sources for this target. Negative null contractions exclude the first two; nonzero target trace excludes the ideal traceless Casimir tensor. No sourced Flux solution, global certification or hardware capability established. Other states/models remain unconstructed; this is not universal FTL impossibility.
+Historical138tests unchanged. Direction Mya P. Brown; execution Bruce/ChatGPT; published theory credited in technical report. No hardware measurements.
