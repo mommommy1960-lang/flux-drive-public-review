@@ -1390,3 +1390,11 @@ Same-input metric reconstruction passed across multiple spatial regions and reso
 Next work: separate profile smoothing, radial interpolation and curvature stencil errors; preserve empty passenger-region requirements; then assess converged stress-energy and source dynamics. No flight capability or energy-only remaining obstacle is claimed. No hardware experiment or measurement was performed.
 
 Credits: research direction by Mya P. Brown; implementation and audit assisted by AI. Relevant published foundations: [Alcubierre](https://arxiv.org/abs/gr-qc/0009013), [Fuchs et al.](https://arxiv.org/abs/2405.02709), [Bobrick and Martire](https://arxiv.org/abs/2102.06824), and [Santiago, Schuster and Visser](https://arxiv.org/abs/2105.03079). Detailed unpublished implementation, dimensions and raw data remain confidential.
+
+## 2026-10-10 — Follow-up density controls and static-shell audit
+
+Isolated density-profile tests showed the expected second-order derivative error reduction at selected inner/outer transition points, with endpoint stability controls. These temporary attachment checks are separate from the unchanged 138-test repository checkpoint.
+
+A tangentially supported static-shell candidate now has an explicit equilibrium prescription. A proposed audit script was rejected as field-equation evidence because it substituted algebraic comparisons and hardcoded zeros for independent curvature calculations. Preserved failures guide the next work: mass and lapse integration, then independent field-equation residuals and convergence checks.
+
+No Flux FTL trajectory, physical source, dynamical stability or propulsion mechanism is established; power is not the sole remaining obstacle. No hardware measurement or experiment occurred. Research direction: Mya P. Brown; proposed AI-assisted components: Agent Blue; execution and audit: Bruce/ChatGPT. Relevant foundations and literature credits remain in the preceding checkpoint. Unpublished implementation and raw data remain confidential.
