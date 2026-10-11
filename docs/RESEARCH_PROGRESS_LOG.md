@@ -1595,3 +1595,15 @@ The next measurable gate is a same-run, no-replay optical-to-heat allocation wit
 ### 2026-10-11 — hosted validation receipt
 
 Hosted CI for the exact two-node source commit completed `failure` before receiving a runner or exposing any repository step (`runner_id=0`, empty steps, no artifacts, no retrievable job log). This is unresolved hosted infrastructure behavior, not a hosted pass and not a diagnosed code, test or physics failure. The private research PR remains open and unmerged; protected private `main` is unchanged.
+
+## 2026-10-11 — optical-to-thermal allocation evidence gate
+
+Added and independently reviewed a fail-closed evidence adapter between a separately bounded optical-absorption record and the two-node thermal-photon sensitivity. It rejects nominal cavity absorption as a physical upper and requires exact run/boundary/window/clock/frame binding, an uncertainty-covered absorbed-energy upper, a spatial node partition with covariance provenance, an external one-use consumption record, and disjoint optical/thermal ledgers. It then validates the injected thermal inputs through the existing downstream model.
+
+Adversarial review corrected absolute-versus-relative epoch handling, incomplete digest binding, stale covariance after a partition change, duplicate spatial regions, source relabelling, record-size attacks, and a laser/controller double-count path. The latter arose when a laser-inclusive servo trace lost its ancestry before controller selection; exact Boolean ancestry is now preserved and laser-inclusive controller traces fail closed.
+
+Verification passed 14 focused adapter tests, 160 relevant tests, and 927 broader tests plus 330 subtests with two documented unrelated discovery defects excluded. Independent rounding and substitution campaigns found no remaining underbound or fail-open admission. The adapter does not authenticate records or enforce persistent replay itself; those responsibilities remain external and are explicitly reported false. Signed recoil remains a conventional sensitivity, not a force measurement or interval bound.
+
+Published conventional context includes Fan, Suh and Joannopoulos's coupled-mode energy balance (https://doi.org/10.1364/JOSAA.20.000569). A deduplicated primary-patent screen added thermal-radiation mapping, 4π goniophotometry and coolant-calibrated laser-power families. Renewed shell, negative-energy/Casimir, field-source and anomalous-gravity searches found no new relevant family. Patent publication, grant, abandonment or PCT cessation does not establish operability, validity or freedom to operate.
+
+The next measurable gate is an externally authenticated absorption upper, spatial/covariance allocation and append-only consumption artifact, followed by measured thermal parameters, terminal inventory, full spectral-angular radiometry and a separate complete matter/support/gas/coolant momentum ledger. No anomalous force, negative energy, gravity control, propulsion, flight or FTL is established.
