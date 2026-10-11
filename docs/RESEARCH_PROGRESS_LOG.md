@@ -1550,3 +1550,20 @@ A strict patent delta added six new families: [WO2026022605A1](https://patents.g
 Renewed shell, negative-energy/Casimir and gravity-generation searches found no new nonduplicate family. Public legal-status labels require confirmation in WIPO, EPO, USPTO, DPMA, CNIPA or IMPI records as applicable. Publication or grant does not establish operability or freedom to operate, and none proves negative total energy, gravity modification, reactionless thrust, a working engine, propulsion, flight or FTL.
 
 Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/c97fd15a8b89f74382f267f9a05ad5de5c2777db
+
+
+## 2026-10-11 — packet-wide optical replay resource policy
+
+The optical evidence verifier now enforces one parser-contract-bound 32 MiB retained-payload ceiling across calibrated-intermediate and calibration/configuration artifacts. It checks both declared byte counts and encoded payload length before decoding either artifact collection, counts submitted entries rather than unique digests, and caps collection traversal. Per-item-valid payloads therefore cannot evade the packet-wide policy by being divided among ports, roles or artifact classes. An adjacent empty-trust-store path was also corrected to fail closed on an untrusted extraction verifier instead of raising an uninitialized-variable exception.
+
+The 32 MiB value is a chosen deployment policy, not a measured packet-size maximum. It can reject an otherwise schema-valid larger packet, and it does not bound the already-materialized request, upstream deserialization, hex/Python-object overhead, other fields, total memory/CPU, or hostile traffic. This is software resource-admission hardening, not a memory-safety or denial-of-service proof.
+
+Validation passed 52 direct tests, 85 direct/downstream bridge tests, 95 optical-pattern tests, compilation, and 877 broader tests across 51 modules with two already documented unrelated discovery defects excluded.
+
+This change does not authenticate a physical measurement, device-native capture, calibration truth or evaluator hardware. Force, propulsion, flight, negative-energy, gravity-control and FTL claims remain false, and no issue #24 calculation changed.
+
+A strict primary-record/full-history patent deduplication pass found no new unlogged family. Apparent propulsion, shell-geometry and small-gravity candidates were already present in issue #25; renewed negative-energy/Casimir and gravity-control searches produced no record demonstrating realized negative energy, spacetime modification or verified anomalous thrust. Patent publication or grant does not prove operability or freedom to operate.
+
+Next evidence gate: one frozen all-port run with device-signed native frames and independently authenticated, SI-traceable nonidentity calibration for every port, followed by joint covariance, diffraction/tail, stored-field, body-impulse, thermal/emitted-photon, electrical/controller and blinded null/reversal closure.
+
+Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/b1dc791b431f424d2b35c52ea35bf8cd09718665
