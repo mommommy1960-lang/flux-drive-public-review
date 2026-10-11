@@ -1687,3 +1687,7 @@ A strictly deduplicated patent screen added conventional force/heat/gravity-sens
 ### Same-day verification correction
 
 Final independent review found that the runtime-verified, nonce-specific atomic registry receipt was not yet retained in the durable packet digest. The integrated correction now binds that complete signed receipt into the packet and returns its digest for audit. Tests reconstruct the packet digest and reject receipt substitution. Final verification passed 52 focused/adjacent tests plus 36 subtests and 958 broader tests plus 355 subtests. This remains evidence-integrity work for a conditional calculation, not physical measurement or force validation.
+\n
+### Hosted validation receipt
+
+Hosted Actions did not execute repository steps for the final source/test head or first log-bearing head. Runs [38179899426](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38179899426), [38179896892](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38179896892), and [38179924328](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38179924328) all completed `failure` with empty step lists, no artifacts, and unavailable logs (`404 BlobNotFound`). This is unresolved hosted workflow/infrastructure behavior, not a hosted pass or a diagnosed code, test, or physics failure. Local executed validation is recorded above.
