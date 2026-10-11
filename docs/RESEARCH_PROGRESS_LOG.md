@@ -1499,3 +1499,20 @@ Three nonduplicate conventional instrumentation families were added from primary
 Remaining limits include native-frame authenticity, executed calibration/configuration, whole-cell spherical support provenance and shared-edge assignment, response/direction correlation, missing diffraction orders and tails, total-energy and stored-field closure, absorption/cooling, synchronized electrical/controller accounting and blinded six-axis null/reversal controls. Nothing here verifies anomalous force, negative energy, gravity control, propulsion, flight or FTL.
 
 Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/8b4eef85d0b2d632fcc771860e00f06b2c1f4e37
+
+
+## 2026-10-11 — finer declared optical-response partition sensitivity
+
+A bounded exact-arithmetic continuation evaluated how declared spectral-angular subcells affect the range of conventional photon momentum compatible with uncertain detector response. A new synthetic uncertainty case narrows an unresolved full-direction interval to a finite outer interval when the response and axial support refer to the same declared subcells. This is a sensitivity result from declared inputs, not an authenticated calibration, native capture, measured force or demonstrated response/direction correlation.
+
+Independent review preserved the limits: the calculation assumes simultaneous pointwise response bounds; it does not establish physical partition completeness, boundaries or disjointness, within-subcell correlation, shared calibration covariance, diffraction/tail closure, total optical energy, stored-field endpoints, thermal/electrical closure, transverse momentum or torque. Parent labels are bookkeeping and cannot prevent coordinated omission or relabeling without external traceability.
+
+Adversarial testing also found that oversized exact-response inputs were parsed before dimension rejection. Early dimension limits and rational-text caps now reject the reproduced 500,000-column case in milliseconds instead of roughly two seconds in the audit environment.
+
+Verification included 21 focused tests, 96 adjacent exact-arithmetic tests, 861 broader tests with two pre-existing unrelated collection defects excluded, compilation, 5,000 independent exact oracle cases and 1,000 randomized LP comparisons with zero endpoint mismatches.
+
+A separate audit confirmed that the present parser-contract digest does not bind executable behavior. Future measured admission requires a deployment-pinned evaluator bundle and signed post-freeze execution receipt, in addition to device-native frames and executed calibration/configuration.
+
+Five new patent families were screened across optical metrology, force sensing, gravimeter calibration and a pulsed-field propulsion claim. The propulsion record is retained only as a falsification target requiring isolated closed-system momentum accounting. Renewed shell and negative-energy/Casimir searches produced no new nonduplicate family. Patent publication or grant does not prove operability or freedom to operate, and no screened record demonstrates anomalous force, negative energy, gravity control, propulsion, flight or FTL.
+
+Research implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/183f4e198905e0aefbc47f2eec7261864d39d41f
