@@ -1430,3 +1430,15 @@ A strictly deduplicated primary-record patent pass added four conventional famil
 Source credit: Julius Farkas (1902), https://doi.org/10.1515/crll.1902.124.1; Theodore S. Motzkin (1936), https://search.worldcat.org/title/8592869; Fan, Suh and Joannopoulos (2003), https://doi.org/10.1364/JOSAA.20.000569.
 
 No laboratory measurement, anomalous force, negative energy, gravity control, propulsion, flight, FTL result, working engine or independent physical replication is established.
+
+## 2026-10-11 — finite-window thermal-bound correction
+
+Independent review reproduced two numerical false-conservative paths in the finite-window thermal-photon recoil sensitivity calculation. Float-first coordinate subtraction could erase a 1 m lever arm above the exact-integer range of binary64, and a one-step floating-point inflation did not guarantee an outward upper bound for very short thermal windows.
+
+The corrected implementation preserves exact decimal/integer source allocations and translated coordinates before float output, rejects ambiguous large float records, binds optional facet frame tags to the declared frame, and evaluates window/tail ceilings with exact rational time ratios plus directed Decimal interval arithmetic. A 1 m lever at large translated coordinates is retained, a one-joule allocation discrepancy above `2^53 J` rejects, and the reproduced tiny-window underbound is enclosed.
+
+Twenty-one focused tests pass, including rejection when outward binary64 conversion would overflow to infinity. A seeded 6,984-case high-precision comparison found zero window-ceiling underbounds, 12 large-coordinate cases lost no 1 m lever arms, and 820 relevant repository tests passed with the two previously documented unrelated loader defects excluded.
+
+Source credit: the General Decimal Arithmetic specification, https://speleotrove.com/decimal/decarith.html; Python Decimal documentation, https://docs.python.org/3/library/decimal.html; Toth and Turyshev's conventional thermal-recoil analysis, https://doi.org/10.1103/PhysRevD.79.043011; and Turyshev et al., https://arxiv.org/abs/1204.2507.
+
+This remains conditional arithmetic, not a measurement. Frames, origins, heat localization, thermal modes, optical escape and raw acquisitions remain unauthenticated. Independent review also preserved an unresolved optical-identity blocker: labels or equivalent numeric re-encodings can disguise reuse unless a signed raw-acquisition receipt binds instrument, clock, target root and port before the window. No anomalous force, negative energy, gravity control, propulsion, flight or FTL result is claimed.
