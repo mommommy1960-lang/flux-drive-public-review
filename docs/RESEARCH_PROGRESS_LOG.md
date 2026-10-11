@@ -1691,3 +1691,14 @@ Final independent review found that the runtime-verified, nonce-specific atomic 
 ### Hosted validation receipt
 
 Hosted Actions did not execute repository steps for the final source/test head or first log-bearing head. Runs [38179899426](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38179899426), [38179896892](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38179896892), and [38179924328](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38179924328) all completed `failure` with empty step lists, no artifacts, and unavailable logs (`404 BlobNotFound`). This is unresolved hosted workflow/infrastructure behavior, not a hosted pass or a diagnosed code, test, or physics failure. Local executed validation is recorded above.
+
+
+## 2026-10-11 — supplied-rate thermal enclosure review
+
+A new conventional two-node scalar rate-box calculation was accepted on the private research branch. It rigorously encloses separately optimized terminal stored energy and emitted-photon energy over supplied constant rate bounds without claiming that individual transition-matrix entries are monotone. An earlier gridded full-matrix draft was rejected and not integrated.
+
+The calculation was exercised against synthetic edge cases, randomized interior rate/allocation cases, and independent high-precision extrema checks; the focused and broader relevant suites passed. This is supplied-parameter arithmetic only. The rate bounds, duration, model form, energy caps, and loss interpretation are not authenticated measurements, and no uncertain full transition matrix is claimed.
+
+A deduplicated primary-record patent review added conventional electrostatic, phased-conductor, switched-coil, six-axis-force, optical-readout and thermal-calibration references, with inventor credit and jurisdiction-specific status caveats in the private record. Renewed shell, negative-energy/Casimir and gravity-generation searches produced no new record that supplies a realizable spacetime source or validates anomalous propulsion. No patent status was treated as freedom to operate.
+
+The next measurable gate is authenticated optical/thermal rate evidence plus blinded, traceable dual-modality force testing with reversals, rotations/remounts, matched RF/thermal controls and a simultaneous spectral-input-to-absorbed-heat/momentum budget. No hardware experiment, anomalous force, negative energy, gravity control, propulsion, flight or FTL result is claimed.
