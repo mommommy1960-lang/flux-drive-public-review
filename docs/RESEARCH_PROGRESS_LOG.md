@@ -1567,3 +1567,15 @@ A strict primary-record/full-history patent deduplication pass found no new unlo
 Next evidence gate: one frozen all-port run with device-signed native frames and independently authenticated, SI-traceable nonidentity calibration for every port, followed by joint covariance, diffraction/tail, stored-field, body-impulse, thermal/emitted-photon, electrical/controller and blinded null/reversal closure.
 
 Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/b1dc791b431f424d2b35c52ea35bf8cd09718665
+
+## 2026-10-11 — cavity/control gross-flow and conservative-ceiling correction
+
+Independent review found that signed-net interval averages could hide arbitrarily large positive and negative sub-bin electrical flow while a downstream handoff treated the reported positive part as a finite gross-import ceiling.  The ledger now preserves each trace's flow semantics and an outward exact-product energy upper.  The handoff rejects unresolved signed flow, missing or relabelled gross-import provenance, and uses exact upward aggregation for the controller photon-equivalent ceiling.
+
+Private research commit: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/09de13746183db3665d5b767ff08da252682dbc5 .
+
+The review also showed that ordinary binary64 evaluation could make fields named as upper bounds round below the analytic cavity residual, including a positive residual that underflowed to zero after a long ringdown.  The nominal diagnostic is retained, while a directed high-precision enclosure of the full analytic expression now supplies the residual-energy and `E/c` upper fields.  Focused verification passed 129 tests and the cavity-pattern suite passed 276 tests.  A broader isolated run passed 892 tests plus 308 subtests; unrelated pre-existing test-discovery defects were preserved.  This is a conventional accounting/numerical-bound correction, not a force measurement, so the calculation thread was not updated.
+
+A full-history-deduplicated patent screen added four conventional measurement families: CN121522759A/B (gravimeter drift correction; Yan Di et al.), CN121361080A/B (six-axis force-sensor calibration; Yang Bo and Wang Yanwei), US20230259041A1/US12704788B2 (single-cell diffraction overlay metrology; Mordechy Kot and Yuval Lamhot), and US20250297955A1/US12716837B2/WO2025207314A1 (scanning diffraction overlay scatterometry; Itay Gdor et al.).  They contribute falsification/calibration methods only.  Renewed shell-geometry, negative-energy/Casimir, field-source and gravity-generation searches found no new relevant family.  Patent publication or grant is not proof of performance, and status labels do not establish freedom to operate.
+
+The next measured gate is synchronized raw voltage/current with adequate sign-crossing bandwidth, SI-traceable calibration, covariance and authenticated disjoint boundaries, alongside device-native optical capture, executed nonidentity calibration, diffraction/stored-field/thermal closure and blinded powered-null/reversal six-axis controls.  No anomalous force, negative energy, gravity control, propulsion, flight or FTL conclusion follows.
