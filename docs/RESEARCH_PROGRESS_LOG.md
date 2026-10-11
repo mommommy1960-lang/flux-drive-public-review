@@ -1413,3 +1413,20 @@ Historical138tests unchanged. Direction Mya P. Brown; execution Bruce/ChatGPT; p
 ## 2026-10-10 — Geometry variation checkpoint
 Executed seven shape/lapse/spatial geometry variations with full local Einstein evaluation at selected wall points and two stencil sizes. Some local negative-energy projections improved, but every candidate retained a negative tested null-energy contraction. No global source, stability, control or FTL engineering result established. This is a bounded known-metric-family experiment, not novel solution or integrated-energy optimization. Historical138tests unchanged; no hardware. Direction Mya P.Brown, calculation Bruce/ChatGPT, foundational credit Alcubierre.
 Detailed unpublished implementation stays confidential.
+
+
+## 2026-10-10 — exact calibration certificates and short-window cavity correction
+
+A bounded conventional-physics software update added an exact-rational referee for overdetermined six-axis calibration campaigns. Compatible synthetic inputs return a rechecked rational witness; incompatible inputs return a rechecked Farkas certificate whose nonnegative weights cancel the full constraint normal and leave a strictly negative bound. A 16-case synthetic campaign, beyond the predecessor’s fixed four-case schema, was evaluated successfully. A deliberately contradictory case returned an exact certificate with weighted bound `-2`. This is an arithmetic falsification tool for a declared linear outer model; it does not authenticate calibration data or identify a physical cause.
+
+Independent review also corrected cancellation in a resonant-cavity loading integral for very short windows. The stable small-argument calculation preserves positive absorbed energy at both ordinary and large synthetic input powers, while a tampered zero record now fails. This is a numerical-stability correction, not new energy or propulsion physics.
+
+Validation passed 9 new referee tests, 10 handoff tests, 269 adjacent cavity tests, 69 exact six-axis tests and 813 relevant repository tests after excluding two previously recorded unrelated discovery defects. A seeded 1,000-system comparison against an independent numerical solver had no feasibility mismatch, and 10,000 randomized cavity-integral comparisons agreed within the stated floating-point scale. Hosted runs for the preceding head were labeled failed but exposed no steps, logs or artifacts, so hosted execution remains unresolved rather than being called a code failure or pass.
+
+Adversarial audit preserved unresolved blockers: large-coordinate binary64 rounding can erase a lever arm; two claimed thermal upper bounds can underbound at extreme scales; optical artifact identity can be changed by relabeling the same acquisition; and first-order angular covariance can omit nonlinear recoil terms. Those limitations remain fail-closed work items.
+
+A strictly deduplicated primary-record patent pass added four conventional families: CN114001855A/B (spherical-shell six-axis force sensor), CN121185494A (Stewart six-axis sensor), CN121741881A (rotating-accelerometer gravity-gradient sensor) and CN115932993A/B (cold-atom gravity-gradient sensor). Inventors and detailed test discriminators are credited in the private record and public issue log. New Casimir publications were rejected as national members of an already recorded family. Aggregator legal labels are non-authoritative; no freedom-to-operate conclusion is drawn.
+
+Source credit: Julius Farkas (1902), https://doi.org/10.1515/crll.1902.124.1; Theodore S. Motzkin (1936), https://search.worldcat.org/title/8592869; Fan, Suh and Joannopoulos (2003), https://doi.org/10.1364/JOSAA.20.000569.
+
+No laboratory measurement, anomalous force, negative energy, gravity control, propulsion, flight, FTL result, working engine or independent physical replication is established.
