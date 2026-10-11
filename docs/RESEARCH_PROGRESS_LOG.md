@@ -1437,7 +1437,7 @@ Independent review reproduced two numerical false-conservative paths in the fini
 
 The corrected implementation preserves exact decimal/integer source allocations and translated coordinates before float output, rejects ambiguous large float records, binds optional facet frame tags to the declared frame, and evaluates window/tail ceilings with exact rational time ratios plus directed Decimal interval arithmetic. A 1 m lever at large translated coordinates is retained, a one-joule allocation discrepancy above `2^53 J` rejects, and the reproduced tiny-window underbound is enclosed.
 
-Twenty-one focused tests pass, including rejection when outward binary64 conversion would overflow to infinity. A seeded 6,984-case high-precision comparison found zero window-ceiling underbounds, 12 large-coordinate cases lost no 1 m lever arms, and 820 relevant repository tests passed with the two previously documented unrelated loader defects excluded.
+Twenty-two focused tests pass, including explicit historical tiny-window and decay underbounds and rejection when outward binary64 conversion would overflow to infinity. A seeded 6,984-case high-precision comparison found zero window-ceiling underbounds, 12 large-coordinate cases lost no 1 m lever arms, and 821 relevant repository tests passed with the two previously documented unrelated loader defects excluded.
 
 Source credit: the General Decimal Arithmetic specification, https://speleotrove.com/decimal/decarith.html; Python Decimal documentation, https://docs.python.org/3/library/decimal.html; Toth and Turyshev's conventional thermal-recoil analysis, https://doi.org/10.1103/PhysRevD.79.043011; and Turyshev et al., https://arxiv.org/abs/1204.2507.
 
