@@ -1607,3 +1607,7 @@ Verification passed 14 focused adapter tests, 160 relevant tests, and 927 broade
 Published conventional context includes Fan, Suh and Joannopoulos's coupled-mode energy balance (https://doi.org/10.1364/JOSAA.20.000569). A deduplicated primary-patent screen added thermal-radiation mapping, 4π goniophotometry and coolant-calibrated laser-power families. Renewed shell, negative-energy/Casimir, field-source and anomalous-gravity searches found no new relevant family. Patent publication, grant, abandonment or PCT cessation does not establish operability, validity or freedom to operate.
 
 The next measurable gate is an externally authenticated absorption upper, spatial/covariance allocation and append-only consumption artifact, followed by measured thermal parameters, terminal inventory, full spectral-angular radiometry and a separate complete matter/support/gas/coolant momentum ledger. No anomalous force, negative energy, gravity control, propulsion, flight or FTL is established.
+
+### 2026-10-11 — hosted validation receipt
+
+Hosted CI for the exact optical-to-thermal allocation-gate commit completed `failure` before receiving a runner or exposing any repository step (`runner_id=0`, empty steps, no artifacts, no retrievable log). This remains unresolved infrastructure behavior, not a hosted pass and not a diagnosed code, test or physics failure. The private research PR remains open and unmerged; protected private `main` is unchanged.
