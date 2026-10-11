@@ -1531,3 +1531,22 @@ A strict patent delta added six nonduplicate families: [WO2026050834A1](https://
 Public legal-status labels require confirmation in WIPO, USPTO, TIPO, or CNIPA records as applicable. A publication or grant does not establish operability or freedom to operate. None of these records proves a realizable shell, negative total energy, anomalous thrust, gravity control, propulsion, flight, or FTL.
 
 Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/6a47df4aeaef764a12519e901c54fed366ddefe4
+
+
+## 2026-10-11 — correction: complete v4 optical replay commitment
+
+Independent review found that the preceding v3 field named `evaluation_output_digest` was not a commitment to the final optical result. It bound acquisition replay lineage but omitted topology, covariance authentication, the deterministic remainder budget, and the final central value, variance, remainder, budget and decision. Calling it an “output commitment” was too strong.
+
+Four reproduced attacks kept the stale v3 evaluator-run digest unchanged while an authorized record was changed and re-signed. Budget, topology axis, covariance and power interpolation changes all altered the admitted result. V3 is therefore now arithmetic-only.
+
+V4 is the sole authenticated-intermediate execution-claim path. It retains role-keyed declarative configuration/calibration artifacts, performs bounded local identity/configuration/quadrature-profile replay over submitted calibrated-intermediate JSON, and signs a noncyclic final commitment covering every signed physics subject plus the recomputed central pc, variance, remainder, budget and decision. All four stale-run attacks and a role-permutation attack now fail closed.
+
+The positive claim is deliberately narrow: an authenticated intermediate-execution claim. Physical measurement, generic authenticated-evidence admission, native capture/device authentication, physical calibration traceability/validity/applicability, independently attested runtime, joint calibration-uncertainty replay, force, propulsion, flight and FTL remain false through all three downstream bridges.
+
+Verification passed 81 direct/downstream tests, 91 independently selected optical-pattern tests, 873 broader tests with two documented unrelated discovery defects excluded, and 300 independently re-signed adversarial mutations with zero fail-open admissions. Per-item/depth/port caps reject oversized records quickly; an aggregate retained-byte cap remains a hardening item. Issue #24 remains unchanged because no physical calculation changed.
+
+A strict patent delta added six new families: [WO2026022605A1](https://patents.google.com/patent/WO2026022605A1/en) (Herman Diaz Arias and Ma. Isabel de Jesús Pier Romero; pulsed-field propulsion claim retained only as a falsification target), [EP4713648A1](https://patents.google.com/patent/EP4713648A1/en) (Jukka Ranta, Mikko Alasaukko-Oja, Jouni Mitjonen, Heikki Räisänen; lifecycle force calibration), [EP4742129A1](https://patents.google.com/patent/EP4742129A1/en) (Christian Schneider; cryptographically chained calibration workflow), [WO2026136645A1](https://patents.google.com/patent/WO2026136645A1/en) (Clifford N. Bargar, Gabriel F. Brisson, Evan Chang-Siu, J. Scot Hart, Ashwinram Suresh, Zhou Ye; force-sensor bias calibration), [WO2025222567A1](https://patents.google.com/patent/WO2025222567A1/en) (熊行创, 方向, 何文魁, 刘震, 刘子龙, 阚侃; digital calibration certificates), and [US20260023269A1](https://patents.google.com/patent/US20260023269A1/en) (Wenjian Cai, Xuefeng Liu, John Fielden, Yung-Ho Alex Chuang; twice-diffracted dark-field metrology).
+
+Renewed shell, negative-energy/Casimir and gravity-generation searches found no new nonduplicate family. Public legal-status labels require confirmation in WIPO, EPO, USPTO, DPMA, CNIPA or IMPI records as applicable. Publication or grant does not establish operability or freedom to operate, and none proves negative total energy, gravity modification, reactionless thrust, a working engine, propulsion, flight or FTL.
+
+Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/c97fd15a8b89f74382f267f9a05ad5de5c2777db
