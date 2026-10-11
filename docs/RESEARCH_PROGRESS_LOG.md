@@ -1673,3 +1673,13 @@ Next gate: authenticate the fixed-rate/input-bound packet, then add only the rat
 
 
 Hosted CI run [38174996162](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38174996162) for the log-bearing research head failed before exposing any executable step. It produced no artifacts or combined statuses, and job-log retrieval returned `404 BlobNotFound`. This is unresolved workflow/infrastructure evidence, not a hosted pass or a diagnosed code/physics failure.
+
+## 2026-10-11 — authenticated fixed-rate calculation packet
+
+The research branch now includes a fail-closed evidence wrapper for the existing conventional two-node fixed-rate energy calculation. It validates independently signed rate, energy-bound, evaluator, and one-time-consumption roles, rejects ambiguous numeric encodings and stale lineage, locally recomputes the complete result, and requires a deployment-owned atomic replay check with a fresh signed response.
+
+Adversarial testing caught and corrected an exact-number interface mismatch and a stateless replay-callback overclaim before integration. The final design binds a fresh nonce and complete source/packet/input/output subject into a registry-signed response and hashes the full wrapper/adapter/math source bundle. Verification passed 52 focused/adjacent tests plus 36 subtests and 958 broader tests plus 355 subtests. Replay, fresh-wrapper reuse of a consumed source, stale signatures/results, altered provenance, cross-role key reuse, subtraction-derived global bounds, noncanonical exact text, binary floats, malformed registry digests, unknown fields, and missing registry service all fail closed in the tested cases.
+
+This authenticates the integrity and lineage of a conditional fixed-rate calculation. It does not establish that the supplied rates or energy limits are physically true, nor does it authenticate calibration, native capture, measurement, force, propulsion, flight, or FTL. The next numerical gate is an independently validated uncertain-rate enclosure, followed by measured synchronized radiance, electrical, coolant, and terminal-inventory evidence.
+
+A strictly deduplicated patent screen added conventional force/heat/gravity-sensor calibration and cryptographic-provenance families plus several plasma, internal-mass, and high-field propulsion claim families. Each is retained only as a prior-art or falsification reference with inventor credit and jurisdiction-specific status caveats. Renewed shell/warp, Casimir/negative-energy, and gravity-field searches otherwise returned already logged material. No patent in the delta proves anomalous force, negative energy, gravity control, propulsion, flight, FTL, operability, validity, or freedom to operate.
