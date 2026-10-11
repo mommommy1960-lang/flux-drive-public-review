@@ -1442,3 +1442,17 @@ Twenty-two focused tests pass, including explicit historical tiny-window and dec
 Source credit: the General Decimal Arithmetic specification, https://speleotrove.com/decimal/decarith.html; Python Decimal documentation, https://docs.python.org/3/library/decimal.html; Toth and Turyshev's conventional thermal-recoil analysis, https://doi.org/10.1103/PhysRevD.79.043011; and Turyshev et al., https://arxiv.org/abs/1204.2507.
 
 This remains conditional arithmetic, not a measurement. Frames, origins, heat localization, thermal modes, optical escape and raw acquisitions remain unauthenticated. Independent review also preserved an unresolved optical-identity blocker: labels or equivalent numeric re-encodings can disguise reuse unless a signed raw-acquisition receipt binds instrument, clock, target root and port before the window. No anomalous force, negative energy, gravity control, propulsion, flight or FTL result is claimed.
+
+## 2026-10-11 — optical acquisition-identity correction
+
+Independent review reproduced a false measured-admission path in the optical evidence gate. The earlier code hashed parsed power and spectral records, so a copied acquisition could be re-signed as apparently distinct evidence after harmless representational changes such as relabeling cells, writing `1/1` instead of `1`, splitting equivalent bins, or writing `10/1` instead of `10`.
+
+The corrected gate uses a physically possible two-stage chronology. A signed and externally checkpointed plan is fixed before capture; the exact retained bytes are frozen after capture but before unblinding or derivation. The verifier recomputes each retained byte digest and size and binds acquisition identity, instrument/configuration, clock/trigger, target-rooted port path, frame/window, calibration roots and downstream ancestry. This corrects the preceding shorthand “pre-window raw-byte receipt”: future bytes cannot be receipted before they exist.
+
+The direct extractor and three downstream bridges now fail closed against relabeling, equivalent rational re-encoding, split-bin and power-trace replay, byte tampering, truncation, duplicated raw bytes, stale ancestry and cross-role evidence reuse. Legacy packets remain available for arithmetic inspection but cannot receive measured admission.
+
+Verification passed 56 direct/downstream tests plus 9 subtests, 66 independently discovered optical tests, and 827 relevant repository tests plus 264 subtests with two previously documented unrelated loader defects excluded.
+
+Technical basis: RFC 6962 transparency-tree construction, https://www.rfc-editor.org/rfc/rfc6962; conventional photon-recoil context from Toth and Turyshev, https://doi.org/10.1103/PhysRevD.79.043011, and Turyshev et al., https://arxiv.org/abs/1204.2507.
+
+This is evidence-integrity software, not a physical measurement. It authenticates retained bits, chronology and declared ancestry, but not calibration truth, detector performance, complete optical capture, diffraction, absorption/cooling, cavity/control energy, force, anomalous momentum, negative energy, gravity control, propulsion, flight or FTL. The next evidence gate is an independently operated capture with retained bytes and an external checkpoint, deterministic parser replay, joint spectral-angular calibration, complete optical/stored-field closure, thermal radiometry/calorimetry, synchronized electrical accounting and powered null/reversal controls.
