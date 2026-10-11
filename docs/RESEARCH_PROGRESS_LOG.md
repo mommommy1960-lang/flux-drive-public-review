@@ -1670,3 +1670,6 @@ Two propulsion-claim clusters were retained only as falsification targets: [WO20
 Register labels are jurisdiction-specific and do not establish family-wide lapse, validity, operability or freedom to operate. Renewed shell/warp, negative-energy/Casimir, field-source, gravity-generation and anomalous-force searches produced no new relevant family and no evidence of negative total energy, gravity control, anomalous thrust, propulsion, flight or FTL.
 
 Next gate: authenticate the fixed-rate/input-bound packet, then add only the rate-box scalar energy bounds that can be rigorously supported. Physical closure still requires synchronized traceable optical, electrical, coolant and terminal-energy inventories plus blinded multiaxis reversal controls.
+
+
+Hosted CI run [38174996162](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38174996162) for the log-bearing research head failed before exposing any executable step. It produced no artifacts or combined statuses, and job-log retrieval returned `404 BlobNotFound`. This is unresolved workflow/infrastructure evidence, not a hosted pass or a diagnosed code/physics failure.
