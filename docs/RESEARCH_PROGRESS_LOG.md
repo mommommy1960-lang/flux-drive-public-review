@@ -1484,3 +1484,18 @@ Four nonduplicate patent families were added from primary records: CN121323852A/
 This work does not authenticate native device frames or calibration/configuration execution; quantify finite angular-bin support; close aperture, stored-field, thermal, material or electrical momentum; or verify force, anomalous momentum, gravity control, negative energy, propulsion, flight or FTL. The next physical gate is device-signed native capture with executable role-keyed calibration/configuration, traceable spectral-angular response and finite angular support, complete optical/thermal/electrical accounting, and blinded powered-null/reversal six-axis controls.
 
 Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/4b75bafe74c988bc25900e71608f2682f1500d18
+
+
+## 2026-10-11 — finite angular-bin support and bounded replay
+
+The exact joint response sensitivity now carries declared per-cell axial-cosine support intervals instead of assuming a bin center is the energy-weighted mean. For one synthetic response fixing fractions at 3/4 and 1/4, supports [1/2,1] and [-1,-1/2] give the exact feasible mean-cosine outer interval [1/8,5/8]. At a declared 2 J outgoing boundary packet, the signed radiation pc interval is [-5/4,-1/4] J. This is exact conventional-physics sensitivity arithmetic, not an authenticated measurement or force result.
+
+A bounded data-validation review also closed concrete parser failures involving nested records, huge sequence gaps and alternate denominator-one rational spellings. Retained artifacts and replay sample counts now have explicit limits, sequence continuity no longer constructs a potentially enormous range, and nested-record failures return stable fail-closed blockers. The declarative parser policy now changes its contract digest when semantic/resource policy changes. A commit-addressed executable evaluator remains required for reproducibility.
+
+Verification passed 83 focused/adjacent tests, 854 broader tests with two already documented unrelated modules excluded, and 1,000 independent exact variable-polytope oracle cases with zero endpoint mismatches.
+
+Three nonduplicate conventional instrumentation families were added from primary records: [CN121475472A](https://patents.google.com/patent/CN121475472A/en) (Zhang Lei and Xu Yan; optical-fiber weak-force sensing), [WO2025101441A1](https://patents.google.com/patent/WO2025101441A1/en) (Ori Golani, Ido Almog and Peter J. Dudenas; joint angle/wavelength scattering), and [WO2025261702A1](https://patents.google.com/patent/WO2025261702A1/en) (Aniruddha Ramakrishna Sonde, Arunabh Samrat Mukherjee and Krishanu Shome; detector-plane diffraction holography). Public status labels require official-register confirmation and do not establish operability or freedom to operate. Renewed shell, negative-energy/Casimir, field-source and gravity-control searches produced no new relevant family.
+
+Remaining limits include native-frame authenticity, executed calibration/configuration, whole-cell spherical support provenance and shared-edge assignment, response/direction correlation, missing diffraction orders and tails, total-energy and stored-field closure, absorption/cooling, synchronized electrical/controller accounting and blinded six-axis null/reversal controls. Nothing here verifies anomalous force, negative energy, gravity control, propulsion, flight or FTL.
+
+Private implementation: https://github.com/mommommy1960-lang/flux-drive-kernel/commit/8b4eef85d0b2d632fcc771860e00f06b2c1f4e37
