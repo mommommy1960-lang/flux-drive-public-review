@@ -1591,3 +1591,7 @@ The project contribution is the bounded calculation and its fail-closed evidence
 A deduplicated primary-patent screen added conventional coupled thermal-impedance measurement, electrical-substitution calorimetry and interferometric radiation-pressure measurement families. Required physical tests and status caveats are retained in the private/issue record. Renewed shell, negative-energy/Casimir, field-source and anomalous-gravity/force searches found no new relevant family. Patent publication, grant, abandonment or lapse does not establish operability, validity or freedom to operate.
 
 The next measurable gate is a same-run, no-replay optical-to-heat allocation with traceable absorbed-energy uncertainty, spatial node split and covariance, measured thermal capacities/conductance and radiative loss, terminal inventory, full spectral-angular radiometry, and a separate complete matter/support/gas/coolant momentum ledger. No authenticated laboratory packet was evaluated; no anomalous force, propulsion, negative energy, gravity control, flight or FTL is established.
+
+### 2026-10-11 — hosted validation receipt
+
+Hosted CI for the exact two-node source commit completed `failure` before receiving a runner or exposing any repository step (`runner_id=0`, empty steps, no artifacts, no retrievable job log). This is unresolved hosted infrastructure behavior, not a hosted pass and not a diagnosed code, test or physics failure. The private research PR remains open and unmerged; protected private `main` is unchanged.
