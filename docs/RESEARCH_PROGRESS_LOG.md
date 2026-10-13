@@ -1899,3 +1899,8 @@ New primary measurement references include NIST work on total spectral radiant f
 **Credits:** Fuchs et al., https://arxiv.org/abs/2405.02709 ; Bobrick and Martire, https://arxiv.org/abs/2102.06824 ; Santiago, Schuster and Visser, https://arxiv.org/abs/2105.03079 ; MHD ship-model study https://pubmed.ncbi.nlm.nih.gov/28665941/ ; NIST https://www.nist.gov/publications/more-diamagnetism-demonstrations . This project contributed the bounded comparison, not invention of those external technologies.
 
 **Next gate:** resolve the metric identity, then compare a complete converged required source with an explicitly specified physical field/material system. Preserve causal, conservation, traveler and control constraints during any optimization.
+
+
+## 2026-10-13 — Horizon and metric-definition follow-up
+
+Reviewed why gravitational effects extend outside an event horizon and why tidal disruption is not the escape boundary. Calculated idealized nonrotating examples and verified a bounded metric-component consistency check. Identified how an equivalent decomposition differs from a separately prescribed geometry; full profile, derivative and source-tensor verification remains open in private issue24. Detailed unpublished implementation remains private. No hardware measurement, source match, controlled curvature or transport achieved. Credits: Fuchs et al., arXiv:2405.02709v1; NASA/Schnittman and Powell black-hole visualization; Einstein Online/Markus Pössel. These are published source explanations plus this project's bounded calculations, not an independent physical replication.
