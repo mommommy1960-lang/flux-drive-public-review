@@ -1923,3 +1923,31 @@ Investigating geometry and physically specified quantum sources jointly, with po
 Earlier work screened sources and requested opinions but had not executed the proposed joint geometry-and-quantum-source calculation. The founder identified that omission. Completed one published Casimir-supported candidate calculation now: required static source components, conservation, source-residual comparison, derivative convergence and second-implementation full-tensor crosscheck.25 bounded assertions passed; this is project computational checking, not independent expert review or hardware validation.
 
 The particular source ansatz does not fully supply the required stresses, and its quantum normalization/validity and traveler scales do not yield a practical macroscopic passage. Formation, dynamical stability, actual quantum apparatus and mission transit remain unresolved. This does not settle every possible source/geometry and does not resolve the separate Fuchs metric reproduction. Detailed evidence stays private in authorized PR32. Source credits: Garattini arXiv1907.03623; Ford/Roman gr-qc9510071; MMP arXiv1807.04726. Our contribution is bounded reconstruction and feasibility screening. Technical corrections and written limitations remain welcome at issue5: https://github.com/mommommy1960-lang/flux-drive-public-review/issues/5 .
+
+
+## 2026-10-13 — signed physical-exit integrity gate and source review
+
+### Result
+
+A new protocol-integrity layer now joins the corrected physical-exit native-byte replay to the corrected conventional momentum calculation before a registry can be queried. It binds the common run/window/frame/axis, physical-exit mapping, rate/allocation assumptions, all 12 ordered optical evidence records, the evaluator source and the complete corrected result. Separate evaluator, consumption and registry signatures are required.
+
+The layer deliberately does not claim persistent replay prevention: that remains a property of a deployment-owned durable registry. It also does not authenticate device origin, prove optical-domain completeness or calibration truth, admit a measurement, or verify force. The existing declared-input physical interval is unchanged.
+
+Verification passed 15 focused evaluator tests, 39 adjacent replay/preflight tests and the complete 1,155-test available suite after the exact final source bytes were frozen. Tests cover evidence relabelling, run/window/axis/rate/mapping substitution, output/source mutation, signer or registry substitution, callback mutation and replay behavior. The private research branch remains separate from `main`.
+
+### Electrical-energy audit
+
+The existing gross-positive controller-energy arithmetic remains correct for its stated binary64 inputs, but independent review retained important admission blockers: incomplete identifier-role separation, ambiguous exact-decimal versus binary64 upper semantics, assertion-only allowance bounds, path lists that do not prove a complete electrical cut, and uncounted energy released from downstream precharged storage. The next bounded electrical task is authenticated exact-rational multiconductor V/I replay plus a separate initial-stored-energy complement.
+
+### Patent and metrology review
+
+- **US20260122756A1**, inventor **Michael Gordon Anderson**, describes high-energy pulsed-plasma/charged-particle apparatus and adds metric-engineering language: https://patents.google.com/patent/US20260122756A1/en . The record provides no covariant source model, curvature/force measurement, prototype result or independent validation. A conflicting family-table association was found; family status should be verified through the official USPTO file rather than copied from the aggregator: https://patentcenter.uspto.gov/applications/19082557 .
+- **US12704430B2 / US20250093223A1 / WO2024239022A1 / EP4713648A1**, inventors **Jukka Ranta, Mikko Alasaukko-Oja, Jouni Mitjonen and Heikki Räisänen**, covers conventional force-sensor reference loading and drift/gain calibration: https://patentsgazette.uspto.gov/week32/OG/html/1549-2/US12704430-20260811.html . It does not demonstrate anomalous force or gravity control.
+
+New primary metrology references add practical requirements for Josephson-traceable digitizer calibration of V/I amplitude, phase and skew (https://eprintspublications.npl.co.uk/10016/) and dynamic multicomponent force calibration across frequency, phase and rocking modes (https://jsss.copernicus.org/articles/7/577/2018/). These are conventional measurement references, not Flux measurements.
+
+Renewed shell/warp, Casimir/negative-energy, exotic-field, gravity, force, optical, thermal and cavity searches otherwise produced no new material nonduplicate family. Patent publication, grant, pendency, lapse or abandonment proves neither operation nor freedom to operate.
+
+### Next measurable gate
+
+Acquire traceable same-run native per-exit optical records and evaluate them through a deployment-owned persistent registry. In parallel, build authenticated pointwise multiconductor V/I integration and bound downstream initial storage. Optical/diffraction completeness, cooling and emitted-photon momentum, cavity/control/stored-field energy, nonphoton momentum and blinded dynamic six-axis controls remain open. Nothing here establishes anomalous momentum, negative energy, gravity control, propulsion, flight or FTL.
