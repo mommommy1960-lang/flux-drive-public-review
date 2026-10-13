@@ -2061,3 +2061,23 @@ Patent screening added three metrology-only families:
 No new nonduplicate shell/warp, negative-energy/Casimir, exotic-field-source or direct gravity/force family survived. Patent status is not proof of operation or freedom to operate.
 
 Next measurable gate: hard one-sided bounds for every optical miss role on the actual same-exit denominator; synchronized thermal and cavity source/state/export evidence; nonphoton momentum accounting; and an authenticated common-window root-source ancestry/allocation bridge.
+
+
+## 2026-10-13 — ancestry-safe energy accounting and measured-input gates
+
+**Evidence level:** exact conventional-physics software calculations on declared synthetic inputs, adversarial code review, primary-source review and patent screening. This is not a hardware measurement, anomalous-force result, propulsion demonstration, flight result or FTL result.
+
+Four new fail-closed checks were completed on the open research branch:
+
+- A common-context ancestry/allocation check counts each root energy source once, keeps downstream optical/thermal/cavity representations nonadditive, and subtracts only disjoint hard-lower external/terminal credits. Its synthetic remaining-uncredited upper is **11/2 J**. It deliberately refuses to combine the project's existing unrelated fixtures.
+- An absolute optical-miss bridge converts same-exit hard absolute miss-energy uppers into conservative fractions using a positive hard total-energy lower. Its synthetic case gives a capture-fraction lower of **3/4** and captured-energy lower of **6 J**, without assuming independent miss mechanisms.
+- A thermal/nonphoton join combines independently bounded, synchronized body-impulse intervals with photon recoil and forbids inferring nonphoton momentum from energy by (E/c).
+- A cavity ancestry check counts only upstream controller/import and initial-storage roots. Its synthetic root total is **16/5 J**; downstream cavity loading and terminal stored field are explicitly not added again.
+
+Adversarial review first rejected identifier substitutions in the common and thermal joins and ten promotion/replay/cross-ledger alias paths in the cavity join. The final versions reject those attacks. The complete repository suite passed **1,431 tests plus 540 subtests**. All source-authenticity, topology, calibration, bound-truth, allocation-truth and physical-measurement flags remain false.
+
+Primary metrology references include [NIST SP 250-89](https://doi.org/10.6028/NIST.SP.250-89), NIST work on [diffraction](https://www.nist.gov/programs-projects/diffraction-effects-radiometry), [stray light](https://www.nist.gov/publications/analysis-uncertainties-stray-light-correction), [integrating-sphere port loss](https://www.nist.gov/publications/analytical-evaluation-and-correction-port-loss-error-integrating-sphere-reflectometers), and [dynamic force calibration](https://doi.org/10.1088/0026-1394/53/4/S136). These sources sharpen the experiment but do not supply one whole-apparatus, same-run set of hard optical, thermal, cavity and nonphoton bounds.
+
+The deduplicated patent delta added only conventional metrology: [FR3162866B1/WO2025247845A1](https://patents.google.com/patent/FR3162866B1/en), credited to Christian Lignon and François Neytard / Safran Electronics and Defense; [WO2026162629A1](https://patents.google.com/patent/WO2026162629A1/en), credited to Maarten Pennings, Christian Feierl and Nils Kaufmann / ams Sensors Germany; and [WO2026058585A1](https://patents.google.com/patent/WO2026058585A1/en), credited to Kato Takatoshi, Watanabe Hiroshi and Inoue Koichi / Murata Manufacturing. Fresh shell/warp, negative-energy/Casimir, exotic-field, gravity-generation and anomalous closed-system propulsion searches produced no new nonduplicate family. Patent status proves neither operation nor freedom to operate.
+
+**Next measurable gate:** one authenticated common-run packet containing complete root-source and optical-port inventories; controller/import and exact-start storage evidence; a positive same-exit total-energy lower and one-sided absolute miss-energy uppers; synchronized thermal/nonphoton impulse and cavity-allocation evidence; and blinded dynamic six-axis force controls.
