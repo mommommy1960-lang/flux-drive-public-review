@@ -1767,3 +1767,21 @@ Verification passed 18 focused packet tests, 71 adjacent tests, independent adve
 The patent/source delta added conventional optical-calibration, transmission-calorimetry and six-axis calibration references, plus two unsupported gravity-conversion claim records retained only as falsification targets. Renewed warp-shell, Casimir/negative-energy, gravity and cavity-thrust searches produced no new primary record demonstrating realizable negative energy, validated gravity conversion, warp/FTL behavior, or independently verified anomalous thrust. Patent status remains jurisdiction-specific and is not an operability or freedom-to-operate conclusion.
 
 The v2 gate still authenticates signed records, not native device bytes or physical truth. Native detector/topology replay, calibration/covariance validity, exhaustive coverage, measurement, force, propulsion, gravity control, flight and FTL remain unverified.
+
+
+## 2026-10-13 — byte-replay admission gate and patent-screen delta
+
+PR #29 remains open and unmerged. This bounded pass did not change the conditional momentum interval; it hardened how evidence must be admitted before that conventional-physics calculation can be used.
+
+The evaluator now binds its complete configured signing trust root, rejects legacy weaker registry records, verifies live registry results against an immutable request snapshot, and freezes the verified consumption subject before invoking the registry callback. A separate native replay gate admits exactly two nodes × six artifact roles and verifies raw-byte digests, strict canonical JSON, exact source/run/window/frame/axis/rate/domain bindings, exhaustive captured/complement topology, deterministic pointwise detector-response minima, hard angular cell supports, and statistical-only positive-semidefinite covariance. The base integrity-only packet reports replay false; the integrated packet uses a distinct v4 digest that commits the parser contract and replay outputs.
+
+The conservative interval remains approximately **[-0.3607136985, +0.5421838226] N·s**. It remains a conditional photon-momentum enclosure, not a measured force, propulsion, gravity-control, flight, or FTL result. Local verification passed **1,034 tests plus 390 subtests** after excluding the same two previously documented unrelated collection blockers.
+
+Three nonduplicate primary patent records were added to the bounded screen:
+- CN115235624B (inventors 张勇 / Zhou Qing / 寻丽娜) gives a useful stray-light calibration/control analogue, but not broadband all-port closure.
+- CN117367626A/B (inventors 郭雨岩, 王安成, 李建胜, 魏亚旭) gives a short-pulse thin-wall calorimeter calibration method, but not absorbed/escaped partition or long-tail closure.
+- US20230049155A1 (Samuel Koenke) gives conventional gravity/inertial compensation controls, not gravity generation or anomalous thrust.
+
+A renewed shell/warp, negative-energy, exotic-source, gravity-generation, and closed-system-thrust search found no nonduplicate enabling record. Patent publication or legal-status labels do not establish operability, validity, infringement scope, or freedom to operate.
+
+**Next measurable gate:** populate all twelve replay envelopes from acquired native bytes tied to one pre-registered physical root and run/window, then perform blind replay and an independent all-port energy audit. Still required are calibrated responsivity versus wavelength/angle/polarization, diffraction/aperture geometry, absorption and cooling-tail constants, emitted-photon angular distribution, cavity (Q)/loading time, stored-field energy, and control/electronics energy.
