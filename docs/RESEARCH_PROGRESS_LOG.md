@@ -1886,3 +1886,26 @@ Three strict-deduplicated patent families were added as claim/falsification or m
 New primary measurement references include NIST work on total spectral radiant flux, second-order diffraction, traceable infrared optical properties and an absolute radiation-pressure detector. They sharpen a future all-port optical/thermal control plan but are not project measurements or validation.
 
 **Next measurable gate:** use a fresh signed evaluator and configured registry-consumption protocol that binds the native replay receipt and corrected output. Then replace sensitivity inputs with acquired per-exit optical/diffraction and thermal-emission data, and add hard controller gross-positive-import bounds. No anomalous momentum, negative energy, gravity control, propulsion, flight or FTL is established.
+
+
+---
+
+## 2026-10-13 — bounded controller-energy accounting and CI dependency correction
+
+A new conventional accounting gate computes a hard upper on gross-positive controller energy from declared per-bin positive-power and duration uppers plus explicit allowances for sampling gaps, out-of-band response, aliasing, voltage/current skew, timebase, calibration and sign-crossing effects.  It accepts only declared globally disjoint non-laser controller boundaries; signed/net averages are insufficient because positive and negative sub-bin flows can cancel.  Exact accumulation and directed-up conversion prevent numeric underbounds.
+
+A synthetic arithmetic-only check used one second at 2 W and 3 W plus fourteen 0.01 J allowances, producing a directed-up upper of 5.140000000000001 J.  This is not a measured Flux result.  The code keeps topology and input authentication, heat localization, momentum, force, propulsion, flight and FTL false.  Fifteen focused tests and the complete 1,140-test repository suite passed locally after independent adversarial review.
+
+Hosted run #1014 finally exposed a concrete configuration failure: unittest discovery reached 1,105 entries but 18 modules could not import because the workflow installed NumPy but not cryptography or SciPy.  No assertion failure was shown.  The research branch now pins all three test dependencies.  A subsequent run failed before exposing steps or logs, so hosted CI is still not claimed green; the diagnosable missing-dependency failure and the separate no-step infrastructure failure are both preserved.
+
+The patent/status screen added three conventional primary-record families:
+
+- Boeing beam-profiler pixel calibration, US12742726B2 / US20250327740A1, inventors Eric Chapman, Dalton Wyllie Hamburg and Matthew Carl Johnson: https://patentsgazette.uspto.gov/week38/OG/html/1550-4/US12742726-20260922.html
+- Southeast University six-axis strain-gauge sensing, US12742692B2 family, inventors Aiguo Song, Jingjing Xu, Yuhan Chen, Baoguo Xu and Huijun Li: https://patentsgazette.uspto.gov/week38/OG/html/1550-4/US12742692-20260922.html
+- Spectral-reflectance radiometric correction, US12761143B2 / US20260160677A1, inventors Hao Yang, Guijun Yang, Bo Xu, Xiaodong Yang, Haikuan Feng, Huiling Long, Yang Meng and Haitang Hu: https://patentsgazette.uspto.gov/week41/OG/html/1551-2/US12761143-20261013.html
+
+They provide calibration or conventional force-sensor references only.  Renewed shell/warp, Casimir/negative-energy, exotic-field, anomalous-gravity and alleged closed-system-propulsion searches found no new nonduplicate family.  Patent status proves neither operation nor freedom to operate.
+
+New metrology references include NIST UV-C BRDF validation (https://www.nist.gov/publications/validated-uv-c-bidirectional-reflectance-distribution-function-measurements), NIST traceable RF thermoelectric power metering (https://www.nist.gov/publications/traceable-rf-power-metering-procedures-thermoelectric-sensors), complex-domain cavity-Q fitting (https://eprintspublications.npl.co.uk/10133/), and a torsion-pendulum report showing apparatus-specific thermal force offsets near 10 pN (https://openaccess.inaf.it/entities/publication/170e798d-d988-40a9-b555-bfeddc67eacc).  These sharpen blind-angle, drift, aperture, cavity-channel, controller-power and thermal-null requirements; none is a Flux measurement.
+
+Next gate: authenticate the controller subject with raw voltage/current, topology, configuration, calibration, timebase and cross-ledger allocation evidence, while separately completing the fresh physical-exit signed evaluator and registry-consumption contract.  Exhaustive spectral/angular complement capture, time-resolved thermal-emission recoil, absolute cavity/controller energy, nonphoton momentum and blinded multiaxis force controls remain open.  No anomalous energy or momentum, negative energy, gravity control, propulsion, flight or FTL is established.
