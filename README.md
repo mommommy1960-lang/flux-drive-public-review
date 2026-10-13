@@ -37,3 +37,10 @@ Please provide a specific critique and identify the evidence needed to resolve i
 ## Disclosure boundary
 
 This public page deliberately contains no materials list, geometry, sensor layout, calibration procedure, operating sequence, device-specific channel schema, physical control code, parameter search, raw data, or patent mapping. The public sandbox license covers only its expressly listed educational files; review of this summary grants no physical implementation, patent, or commercial apparatus rights.
+
+
+## Current research and technical opinions — 13 October 2026
+
+We are investigating geometry and quantum sources jointly, while treating astrophysical energy delivery as a separate subsystem. We welcome critical written findings, limitations and primary-literature references: [open technical review request](https://github.com/mommommy1960-lang/flux-drive-public-review/issues/5).
+
+See the [dated progress record](docs/RESEARCH_PROGRESS_LOG.md) and [research summary draft](https://github.com/mommommy1960-lang/flux-drive-public-review/pull/4). These are literature review and bounded calculations, not a demonstrated warp engine, instantaneous transport or validated hardware. Detailed unpublished evidence remains in the private repository for authorized collaborators.
