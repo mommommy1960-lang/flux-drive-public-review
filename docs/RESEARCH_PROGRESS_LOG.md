@@ -1788,3 +1788,18 @@ A renewed shell/warp, negative-energy, exotic-source, gravity-generation, and cl
 
 
 **Hosted CI caveat:** GitHub Actions run 38369073943 for the logged PR head completed as a failure, but its only job returned no steps and the log endpoint returned `BlobNotFound`. The hosted failure therefore cannot be attributed to a code traceback from the available record. CI is not green; the stated 1,034-test/390-subtest result is the reproducible local gate under the documented exclusions.
+
+
+## 2026-10-13 — corrected transfer-mixed photon-direction sensitivity
+
+A conventional-physics audit found that an earlier two-node directional bound attached node direction labels to coefficients indexed by where energy started, even though internal transfer can move that energy before photons escape. A one-way-transfer counterexample proved that the previous lower endpoint could exclude physically allowed negative axial photon momentum.
+
+The bounded correction now uses a global convex hull of physical exit-node direction-cosine intervals until a node-resolved exit-emission matrix is available. For the same declared incomplete-capture sensitivity inputs, the earlier photon-field interval of approximately \([-0.3607136986,+0.5421838226]\) J in \(p\,c\) is superseded by the conservative symmetric interval
+\[
+[-0.5421838226113182,+0.5421838226113182]\ {\rm J},
+\]
+corresponding to a photon/body recoil impulse magnitude bound of approximately \(1.8085305622\times10^{-9}\) N·s. These are exact-rational, declared-input outer bounds, not measurements or demonstrated thrust.
+
+Validation passed 78 focused tests, the full 1,047-test suite, and an independent 10,000-case ODE sampling audit with no containment failures. The remaining mathematical gate is a proved node-resolved exit-emission matrix over uncertain transfer/loss rates. The physical gates remain traceable same-window all-port optical capture, diffraction/scatter/reflection/transmission coverage, absorption/cooling and emitted-photon accounting, cavity/control/stored-field energy, nonphoton momentum closure, and blinded multiaxis controls.
+
+A deduplicated patent screen added [US12695000B1](https://patents.google.com/patent/US12695000B1/en), which uses structured-vacuum terminology but supplies no force, gravity, negative-energy or propulsion measurement, and [WO2026067959A1](https://patents.google.com/patent/WO2026067959A1/en) / EP4777403A1, which explicitly uses laser ablation and expelled material as reaction mass. Additional conventional angular-response, cavity-Q, thermal-calibration, force-calibration and gravimetry families were logged with inventor credit and status caveats. No screened patent is evidence of FTL, a working engine, or freedom to operate.
