@@ -1976,3 +1976,16 @@ Next gate: traceably calibrate and authenticate the full electrical cut and exac
 
 
 **Hosted validation:** exact private research/log head [e78e409](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/e78e409fdacc5d7b40c3857c858abc7a173c38df) created [run 38446280468](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38446280468). It completed `failure` before exposing repository steps: the sole job had an empty step list, no artifacts and no retrievable log (`404 BlobNotFound`). This is unresolved hosted workflow/infrastructure evidence—not a hosted pass and not a diagnosed code, test or physics failure. Local executed validation is recorded above.
+
+
+## 2026-10-13 — conditional electrical interval bound and storage hardening
+
+**Completed work:** six parallel review tracks added a fail-closed, exact-arithmetic envelope for gross-positive electrical import between authenticated V/I samples and hardened the complementary initial-storage accounting. Adversarial tests now reject missing window edges, unbounded jumps, nonzero unexplained current imbalance, mutable inputs, trust-root substitution, aliased evidence roles and omitted coupling between stored-energy components.
+
+A declared synthetic interval evaluates to exactly \(1501/150000\) J, approximately \(0.0100066667\) J. The earlier 151 J controller-plus-storage fixture is unchanged after the correction. Both are software regression cases, not Flux measurements or physical device bounds. Final local verification passed 1,216 tests plus 491 subtests.
+
+**Published-source review:** IEEE waveform-recorder and ADC standards, NIST waveform/impedance calibration work, and peer-reviewed results on intersample peaks, channel phase, nonlinear inductance and dielectric recovery were reviewed. They support requiring full complex transfer functions, independently established bandwidth, asynchronous overload detection, common-clock phase/skew, and installed-state component envelopes. A useful negative result is that the newly located digitizer papers still do not provide the complete cross-channel/time/frequency hard uncertainty object needed for this apparatus.
+
+**Patent screen:** [WO2026099299A1](https://patents.google.com/patent/WO2026099299A1/en), credited to inventor Lutz May and applicant/assignee Tomorrow’s Motion GmbH, was added as a distinct claim/status and falsification target. Its alternating-torque, coil/external-field and motor/flywheel claims do not supply a calibrated isolated closed-cycle net-impulse result. The displayed pending status and classification data do not prove validity, operation or freedom to operate. Renewed shell/warp, negative-energy, gravity-generation and gravity/force searches otherwise produced duplicates or terminology false positives.
+
+**Limitations and next gate:** V/I signers still do not attest the full physical boundary/reference subject, and calibration, bandwidth, topology, coupling and installed-state truth remain external. The next gate is simultaneous full-cut native V/I plus an independent overload/bandwidth witness and authenticated \(t_0\) storage inventory with voltage/current/temperature-dependent component and mutual-coupling envelopes. No anomalous energy or momentum, negative energy, gravity control, propulsion, flight or FTL result is established.
