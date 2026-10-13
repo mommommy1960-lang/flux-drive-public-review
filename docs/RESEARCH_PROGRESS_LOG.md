@@ -1841,3 +1841,22 @@ The patent delta adds Chance M. Glenn's [US20250067594A1](https://patents.google
 Renewed searches otherwise produced already logged families or false positives. No new record supplies negative total energy, a realizable warp-shell source, calibrated anomalous gravity/force, closed-system thrust, or FTL.
 
 Next measurable gate: combine the corrected exit rows with traceable same-window incomplete spectral/angular/diffraction capture, then close absorption/cooling, emitted-photon history, cavity/control/stored-field energy, nonphoton momentum, and blinded reversal/rotation/remount six-axis controls. Nothing here establishes anomalous momentum, propulsion, gravity control, flight, or FTL.
+
+
+## 2026-10-13 — incomplete physical-exit capture sensitivity
+
+**Type:** conventional-physics calculation, software verification, adversarial review, and patent/source review; no device measurement.
+
+The private research branch now attaches incomplete optical coverage to the corrected physical-exit emission rows. Each exit uses a hard lower bound on captured same-exit photon energy, a conditional angular interval for that captured partition, and a fully unrestricted direction for the exhaustive unobserved complement. The bridge fails closed on ambiguous denominators, sample/statistical coverage, overlapping tails, omitted escape channels, or mismatched window/boundary/frame/axis/exit identity.
+
+For the declared 2 s, 1 J sensitivity case with 75% captured energy at each exit, the photon-field axial `p*c` outer interval is approximately `[-0.3825572808,+0.5559565726] J`; the opposite photon-only body-recoil impulse is approximately `[-1.85447e-9,+1.27607e-9] N s`. The interval widens relative to the complete-angular-input case because the missing 25% may point anywhere. This is a conservative declared-input calculation, not measured coverage or thrust, and its endpoints are alternative outer relaxations.
+
+Nine focused tests and the complete **1,101-test** suite pass. Independent sampled verification found no containment misses, and adversarial review closed omitted-channel and statistical-bound hazards. All authentication, measurement, force, anomalous-momentum, negative-energy, gravity-control, propulsion, flight and FTL flags remain false.
+
+The measurement gate is now explicit: both physical exits must independently establish a hard same-window captured-energy lower after calibration and systematic allowances, and angular bounds must come from a joint calibrated spectral-angular response. Nominal throughput, solid angle, detector counts, an integrating sphere alone, or a selected diffraction tail is insufficient. If the exhaustive complement is unbounded, the calculation must use zero guaranteed capture and a full-direction interval. NIST [total spectral radiant flux](https://www.nist.gov/pml/sensor-science/optical-radiation/calibration-and-transfer-standards-total-spectral-radiant-flux) and [spectral-measurement](https://www.nist.gov/pml/sensor-science/optical-radiation/spectral-measurement) guidance inform the required angular integration, absolute scale, stray-light, and sphere-response controls.
+
+The deduplicated patent screen adds Douglas Joseph Dannemiller's [US 12,666,881 B1](https://patentsgazette.uspto.gov/week25/OG/html/1547-4/US12666881-20260623.html), assigned to Qubit Semiconductor LLC, and the further published continuation [US20260304851A1](https://www.oepm.es/en/informacion-tecnologica/vigilancia-tecnologica/alertas-tecnologicas/alerta?id=650&page=2). The June 23, 2026 grant claims graphene/Casimir modulation of a nanoscale tunneling device; the October 1, 2026 publication continues that family. These are switching/qubit claims, not negative-total-energy, GR-shell, gravity-control, thrust, propulsion, or FTL evidence. No measured Casimir-modulation prototype result was located. Official registers control status, and grant or pendency establishes neither operability nor freedom to operate.
+
+Refreshed shell/warp, negative-energy, field-source, force, gravity, classification and family-status searches otherwise returned prior logged records or false positives.
+
+Next measurable gate: demonstrate the per-exit coverage and angular bounds on a blind conventional anisotropic reference source, then close absorption/cooling and emitted-photon history, cavity/control/stored-field energy, nonphoton momentum, and blinded reversal/rotation/remount force controls. Nothing here establishes anomalous momentum, propulsion, gravity control, flight, or FTL.
