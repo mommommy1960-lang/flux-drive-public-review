@@ -1886,3 +1886,16 @@ Three strict-deduplicated patent families were added as claim/falsification or m
 New primary measurement references include NIST work on total spectral radiant flux, second-order diffraction, traceable infrared optical properties and an absolute radiation-pressure detector. They sharpen a future all-port optical/thermal control plan but are not project measurements or validation.
 
 **Next measurable gate:** use a fresh signed evaluator and configured registry-consumption protocol that binds the native replay receipt and corrected output. Then replace sensitivity inputs with acquired per-exit optical/diffraction and thermal-emission data, and add hard controller gross-positive-import bounds. No anomalous momentum, negative energy, gravity control, propulsion, flight or FTL is established.
+
+
+## 2026-10-13 — magnetic-steering analogy and spacetime source review
+
+**Completed:** published-source review, recovered metric-definition gates, and bounded classical field-energy/source-class calculations. Twelve arithmetic checks passed. No new device measurement, full shifted-metric reproduction, hosted verification or independent expert review was performed.
+
+**Finding:** electromagnetic forces can steer suitable matter and redistribute energy/momentum. They are not interchangeable with gravitational curvature. The classical magnetic source class fails the sign requirement of the project's preserved wormhole reference; shrinking a source alone does not establish a useful, lightweight spacetime geometry.
+
+**Limits:** the published positive-energy subluminal shell is separate from the failed wormhole reference. Its source realization, acceleration and the project's metric-convention issue remain unresolved. Detailed calculations and implementation are retained privately. No working Flux source, controlled curvature, instantaneous transport, FTL or flight is established.
+
+**Credits:** Fuchs et al., https://arxiv.org/abs/2405.02709 ; Bobrick and Martire, https://arxiv.org/abs/2102.06824 ; Santiago, Schuster and Visser, https://arxiv.org/abs/2105.03079 ; MHD ship-model study https://pubmed.ncbi.nlm.nih.gov/28665941/ ; NIST https://www.nist.gov/publications/more-diamagnetism-demonstrations . This project contributed the bounded comparison, not invention of those external technologies.
+
+**Next gate:** resolve the metric identity, then compare a complete converged required source with an explicitly specified physical field/material system. Preserve causal, conservation, traveler and control constraints during any optimization.
