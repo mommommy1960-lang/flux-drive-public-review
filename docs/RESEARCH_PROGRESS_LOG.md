@@ -1873,3 +1873,16 @@ Primary metrology sources added to the measurement plan are Ulf Griesmann’s 20
 The bounded patent delta was negative after deduplication: no new exotic claim family or meaningful legal-status event survived review. Patent status is not evidence of operability and does not establish freedom to operate.
 
 **Next measurable gate:** native exit-labelled artifact replay plus signed consumption of the corrected output, followed by traceable per-exit optical coverage/diffraction, thermal emission, cavity/control energy and nonphoton momentum closure. No anomalous momentum, negative energy, gravity control, propulsion, flight or FTL is established.
+
+
+## 2026-10-13 — Native physical-exit replay boundary
+
+**Type:** disclosure-safe evidence-integrity implementation and literature review; no measurement.
+
+The private research branch now has a fresh-schema, non-admitting native-byte replay layer for the corrected physical-exit capture inputs. It does not reuse the older node/global-direction packet, perform a momentum calculation, verify a signature or consume a registry entry. It binds concrete run/window/root/frame/axis and capture-source identity, exact rate/allocation assumptions, ordered physical-exit identity/mapping, canonical native bytes and exhaustive/disjoint capture partitions. Independent review reproduced and closed cross-role identifier aliasing and unverified rate-box-digest substitution. Verification passed 24 focused tests and the complete 1,125-test suite; all physical claim flags remain false.
+
+Three strict-deduplicated patent families were added as claim/falsification or metrology references: Akira Ueki’s US20260085669A1 rotor-based propulsion claim; Matthew Sartin and Alex Ruder’s WO2026089846A1 / US20260110625A1 encoded-angle ellipsometry family; and 吴畏, 仇恺, 王智奇, 朱学毅, 吴宗坤, 褚宁, 李鹏飞 and 张子山’s CN115903077A/B gravimeter-range calibration. The first needs sealed-system momentum-conservation controls; the latter two support conventional measurement only. None establishes negative energy, gravity control, anomalous thrust, propulsion or FTL. Official registers control legal status; status does not prove operability or freedom to operate.
+
+New primary measurement references include NIST work on total spectral radiant flux, second-order diffraction, traceable infrared optical properties and an absolute radiation-pressure detector. They sharpen a future all-port optical/thermal control plan but are not project measurements or validation.
+
+**Next measurable gate:** use a fresh signed evaluator and configured registry-consumption protocol that binds the native replay receipt and corrected output. Then replace sensitivity inputs with acquired per-exit optical/diffraction and thermal-emission data, and add hard controller gross-positive-import bounds. No anomalous momentum, negative energy, gravity control, propulsion, flight or FTL is established.
