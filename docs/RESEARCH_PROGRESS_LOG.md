@@ -2006,3 +2006,31 @@ Primary metrology review added USGS/NPL/NIST work on digitizer timing/clipping, 
 Patent screening added three non-duplicate families: [US12553420B2](https://patents.google.com/patent/US12553420B2/en), credited to inventor Radoslaw Ordutowski; [WO2025250115A1](https://patents.google.com/patent/WO2025250115A1/en), credited to inventor Volodymyr Kuzmenko; and [US12650537B2](https://patents.google.com/patent/US12650537B2/en), credited to Dana Zachary Anderson et al./ColdQuanta Inc. The first two disclose claimed propulsion arrangements without located calibrated isolated closed-cycle impulse data. The third is matter-wave gradiometry—a detector, not gravity generation. Displayed grant/pending/ceased-family labels require confirmation in controlling registers and do not prove operation or freedom to operate. No new shell/warp or Casimir/negative-energy family survived deduplication.
 
 Next measurable gate: a qualified-laboratory same-run packet with exhaustive conductor/store topology, simultaneous full-cut native V/I and exact-t0 state, full complex transfer functions and covariance, independent bandwidth/stopband evidence, continuous-time overload witnesses, installed nonlinear capacitance/inductance/coupling envelopes, gross battery/UPS delivery uppers, and disjoint import/storage allocation.
+
+
+## 2026-10-13 — conditional residual, storage, and cavity-absorption bounds
+
+Three new exact-rational regression gates were independently reviewed and added to the open research branch:
+
+1. A continuous-time V/I reconstruction residual upper. It requires one common clock/window, zero blind time, closed-window coverage, independent bipolar asynchronous overload witnesses, and a certified time-domain induced-gain or impulse-response bound. Peak Bode magnitude alone is rejected. The synthetic residual is exactly `20001/500000000000 J`, within a declared `1/100 J` allowance.
+2. An installed storage/state upper. It includes explicit cross-record/unmodeled coupling and zero-state/internal-mode allowances over the full constitutive zero-to-state domain. The adversarial two-coil example is exactly `2 J` rather than the unsafe independent-record `1 J`; a remanent/internal-state fixture contributes `3 J`.
+3. A cavity optical absorption upper:
+   [
+   E_{abs}^{U}=sum E_{in}^{U}+U_0^{U}+E_{unobserved-in}^{U}+E_{internal-source}^{U}+E_{source-allowance}^{U}
+   -sum E_{out}^{L}-U_T^{L}-E_{other-export}^{L}.
+   ]
+   The synthetic fixture yields exactly `43/50 J = 0.86 J`. Negative residuals are rejected, and all sink credits require a disjoint global allocation partition.
+
+Independent reproduction passed **1,287 tests plus 523 subtests**. These are supplied-input conventional-physics calculations, not measurements. Transfer functions, topology, constitutive envelopes, calibration, source completeness and physical allocation truth remain unverified; all force, anomalous momentum, negative-energy, gravity-control, propulsion, flight and FTL claims remain false or unsupported.
+
+Primary metrology/source additions include Ferhat, Hülsen and Gröbner’s laser/PQED spectral-irradiance standard ([DOI 10.1088/1681-7575/ae52ff](https://doi.org/10.1088/1681-7575/ae52ff)); NIST SP 250-102 aperture-area services ([DOI 10.6028/NIST.SP.250-102](https://doi.org/10.6028/NIST.SP.250-102)); Lopardo et al.’s traceable flow calorimetry ([DOI 10.1016/j.applthermaleng.2026.130363](https://doi.org/10.1016/j.applthermaleng.2026.130363)); and Misfeldt et al. on parasitic etalons in PDH locking ([DOI 10.1103/c99v-lj3d](https://doi.org/10.1103/c99v-lj3d)). Partial spectral/angular capture, scalar cooling calorimetry, and (Q)/ringdown/PDH alone do not close vector photon momentum or total cavity-plus-controller energy. An older Bellandi citation is corrected: DOI 10.1016/j.nima.2024.169172 was retracted; use the corrected article [10.1016/j.nima.2024.169825](https://doi.org/10.1016/j.nima.2024.169825).
+
+The bounded patent delta adds:
+- [US12695000B1](https://patents.google.com/patent/US12695000B1/en), credited to inventor/assignee **Sean Null**, a structured-vacuum-field computing/control claim without a located calibrated hardware field or isolated force/energy measurement.
+- [WO2026000113A1](https://patents.google.com/patent/WO2026000113A1/en), credited to **Ren Wei (任伟)** and **Nie Qinxue (聂沁雪)** / The Chinese University of Hong Kong, for phase-control-free optical-feedback CRDS.
+- [WO2026087216A1](https://patents.google.com/patent/WO2026087216A1/en), credited to **Jonas Goek, Matthias Manger, and Holger Muenz** / Carl Zeiss SMT GmbH, for adaptive multipass-resonator position/distance measurement.
+- [US20230062325A1](https://patents.google.com/patent/US20230062325A1/en) → [US12529825B2](https://patents.google.com/patent/US12529825B2/en), credited to **Kazufumi Nishida, Kumiko Horikoshi, and Hitoshi Hara** / Yokogawa Electric Corporation, for hydrophobic integrating-sphere coating.
+
+No new nonduplicate shell/warp, negative-energy/Casimir, field-source, or direct force/gravity family survived the screen. Patent publication, grant, or displayed legal status is not proof of operation and is not a freedom-to-operate conclusion.
+
+Next measurable gate: one authenticated exhaustive conductor/store/optical-port topology; simultaneous full-cut V/I and exact-(t_0) state; measured complex transfer/impulse-response, overload, nonlinear storage/coupling and remanence bounds; traceable spectral-angular capture with bounded missing bands/solid angle/diffraction/ghosts; synchronized cooling/emission vector evidence; complete cavity/tuning/controller work; and one disjoint global allocation partition.
