@@ -1904,3 +1904,12 @@ New primary measurement references include NIST work on total spectral radiant f
 ## 2026-10-13 — Horizon and metric-definition follow-up
 
 Reviewed why gravitational effects extend outside an event horizon and why tidal disruption is not the escape boundary. Calculated idealized nonrotating examples and verified a bounded metric-component consistency check. Identified how an equivalent decomposition differs from a separately prescribed geometry; full profile, derivative and source-tensor verification remains open in private issue24. Detailed unpublished implementation remains private. No hardware measurement, source match, controlled curvature or transport achieved. Credits: Fuchs et al., arXiv:2405.02709v1; NASA/Schnittman and Powell black-hole visualization; Einstein Online/Markus Pössel. These are published source explanations plus this project's bounded calculations, not an independent physical replication.
+
+
+## 2026-10-13 — Wider astrophysical source screen
+
+Reviewed stellar radiation, accretion systems, rotating black holes, pulsar winds, magnetar outbursts and merger bursts. Distinguished reservoir energy, emitted power, intercepted power and energy retained by a receiver. No collector performance or geometry-control hardware was demonstrated. Solar collection is the accessible comparison baseline, not a propulsion breakthrough.
+
+Reviewed published quantum-supported wormhole alternatives. The Maldacena/Milekhin/Popov long-wormhole model is slower than the ambient route, has load/stability limits and does not provide an established formation method. It does not satisfy the instantaneous mission target. Beyond-Standard-Model humanly traversable solutions are theoretical, not observed or constructed. Supplying power alone is not an established way to open a connection. Metric/source reproduction remains unresolved; no flight, full source match or independent replication achieved.
+
+Credits: NASA pulsar/magnetar and quasar material; Blandford-Znajek NTRS20150002689; LIGO/GWOSC GW150914; Maldacena/Milekhin/Popov arXiv1807.04726; Maldacena/Milekhin arXiv2008.06618; Visser/Kar/Dadhich gr-qc0301003. Project contribution: source comparison and explicit mission/formation screening. Detailed unpublished calculations remain private.
