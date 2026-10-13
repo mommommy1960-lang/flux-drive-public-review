@@ -1732,3 +1732,17 @@ The patent review added conventional metrology and control references, including
 Family status varies by jurisdiction: live national grants can remain behind ceased PCT branches, while some single-country calibration records are abandoned or expired. These labels do not establish operability, validity, noninfringement or freedom to operate. Renewed shell/warp, negative-energy/Casimir and exotic field-source searches found no new record supplying a realizable negative-energy source, validating FTL/warp, or demonstrating anomalous closed-system thrust.
 
 Next measurable gate: independently authenticated per-node energy-coverage fractions and conditional angular maps from same-window full spectral-angular capture, including aperture/distance convergence, diffraction/scatter/blind-band union accounting, response calibration/covariance and independent calorimetric total-energy closure, followed by complete nonphoton momentum accounting and blinded multiaxis controls.
+
+## 2026-10-12 — authenticated angular-capture evidence gate
+
+A new research-branch wrapper now binds the accepted incomplete-angular-capture photon-momentum sensitivity to one exact run, source, clock/window, boundary, frame, axis and ordered two-node identity. It verifies five distinct configured signing keys, recomputes the conventional-physics result locally, and requires a fresh signed append-only consume-once response.
+
+Independent review reproduced and fixed a serious cross-domain replay in the first draft: an unchanged coverage certificate could be reused after changing the rate box because the box digest was not recomputed. The final gate recomputes the normalized rate/allocation, capture-manifest, calibration, covariance and axis-definition digests. It rejects node/window/axis swaps, duplicate node evidence, observed captured/total ratios, covariance or sigma coverage, overlapping named tails, stale evaluator output, confusable identifiers and exact packet replay.
+
+The declared 75%-coverage sensitivity reproduces the previously recorded photon-momentum interval; no numerical physics endpoint changed. Verification passed 88 focused/adjacent tests plus 43 subtests and 999 broader tests plus 363 subtests, excluding the same two documented unrelated collection defects.
+
+A deduplicated patent screen added conventional spectral-angular radiometry, integrating-sphere response, emissivity/calorimetry, torsion-balance magnetic correction, cryogenic six-axis calibration and rotation-based gravity-sensor error-control references. It also retained several warp/gravity-generation claim records strictly as falsification targets and corrected one previously unverified US family status using the USPTO Official Gazette. Patents are not experimental validation; family status is jurisdiction-specific, and lapse or abandonment does not establish freedom to operate.
+
+This software gate authenticates signed assertions and deterministic replay only. It does not independently replay instrument-native bytes or prove physical coverage, calibration, covariance, rates, energy bounds, force, negative energy, gravity control, propulsion, flight or FTL.
+
+Next gate: externally retained native capture artifacts and independent replay of the full-domain topology, partition and calibration needed to establish a deterministic universal coverage lower bound, followed by complete stored-field, electrical/controller and nonphoton momentum accounting.
