@@ -1951,3 +1951,8 @@ Renewed shell/warp, Casimir/negative-energy, exotic-field, gravity, force, optic
 ### Next measurable gate
 
 Acquire traceable same-run native per-exit optical records and evaluate them through a deployment-owned persistent registry. In parallel, build authenticated pointwise multiconductor V/I integration and bound downstream initial storage. Optical/diffraction completeness, cooling and emitted-photon momentum, cavity/control/stored-field energy, nonphoton momentum and blinded dynamic six-axis controls remain open. Nothing here establishes anomalous momentum, negative energy, gravity control, propulsion, flight or FTL.
+
+
+## 2026-10-13 — Original Alcubierre baseline reproduced
+
+Returned to Miguel Alcubierre's1994 construction (arXiv gr-qc0009013). Reproduced the original metric's negative Eulerian energy requirement with a parameter-declared numerical Einstein calculation, including subluminal and superluminal prescribed-speed cases. Seven bounded assertions passed, with convergent density and quadrature checks. This is computational reproduction of a published requirement, not a working source, created bubble, causal control system or FTL demonstration. Detailed parameters and code remain private in authorized PR32. The original paper specifies geometry and its required exotic source; source realization, formation, control and stability remain open. This work does not settle Fuchs issue24 or the quantum-source problem. Credit Alcubierre CQG11 L73-L77(1994), https://arxiv.org/abs/gr-qc/0009013 ; project contribution is numerical checking with stated limits. Review remains open in public issue5.
