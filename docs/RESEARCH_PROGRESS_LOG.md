@@ -1746,3 +1746,24 @@ A deduplicated patent screen added conventional spectral-angular radiometry, int
 This software gate authenticates signed assertions and deterministic replay only. It does not independently replay instrument-native bytes or prove physical coverage, calibration, covariance, rates, energy bounds, force, negative energy, gravity control, propulsion, flight or FTL.
 
 Next gate: externally retained native capture artifacts and independent replay of the full-domain topology, partition and calibration needed to establish a deterministic universal coverage lower bound, followed by complete stored-field, electrical/controller and nonphoton momentum accounting.
+
+
+## 2026-10-12 — incomplete-capture certificate v2 correction
+
+An independent review rejected an overbroad replay claim in the prior authenticated packet. A signed callback could assert a fresh 0→1 transition without proving durable registry state, and a caller-selected clone namespace could re-admit the same identifiers.
+
+The corrected v2 path now:
+
+- separates the live registry signer from five evidence/attestation roles;
+- binds one configured registry namespace into the evaluated subject;
+- reports only a nonce-bound signed registry assertion and explicitly leaves registry statefulness unverified;
+- rejects cross-node and cross-role reuse among total, captured, complement, spectral-angular, calibration and covariance artifacts;
+- rejects statistical/confidence angular intervals in the deterministic hard-bound path;
+- adds aggregate traversal and alias/cycle resource guards; and
+- distinguishes a bound commit label from verified repository membership.
+
+Verification passed 18 focused packet tests, 71 adjacent tests, independent adversarial and integration review, and 1,003 broader tests with the same two unrelated discovery defects excluded. The photon-momentum interval did not change, so no new physical calculation was posted.
+
+The patent/source delta added conventional optical-calibration, transmission-calorimetry and six-axis calibration references, plus two unsupported gravity-conversion claim records retained only as falsification targets. Renewed warp-shell, Casimir/negative-energy, gravity and cavity-thrust searches produced no new primary record demonstrating realizable negative energy, validated gravity conversion, warp/FTL behavior, or independently verified anomalous thrust. Patent status remains jurisdiction-specific and is not an operability or freedom-to-operate conclusion.
+
+The v2 gate still authenticates signed records, not native device bytes or physical truth. Native detector/topology replay, calibration/covariance validity, exhaustive coverage, measurement, force, propulsion, gravity control, flight and FTL remain unverified.
