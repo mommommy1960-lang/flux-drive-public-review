@@ -1860,3 +1860,16 @@ The deduplicated patent screen adds Douglas Joseph Dannemiller's [US 12,666,881 
 Refreshed shell/warp, negative-energy, field-source, force, gravity, classification and family-status searches otherwise returned prior logged records or false positives.
 
 Next measurable gate: demonstrate the per-exit coverage and angular bounds on a blind conventional anisotropic reference source, then close absorption/cooling and emitted-photon history, cavity/control/stored-field energy, nonphoton momentum, and blinded reversal/rotation/remount force controls. Nothing here establishes anomalous momentum, propulsion, gravity control, flight, or FTL.
+
+
+## 2026-10-13 — Physical-exit authentication boundary
+
+**Type:** disclosure-safe software/integrity review and literature screen; no measurement.
+
+The private research branch now contains a fail-closed preflight for the corrected physical-exit incomplete-capture calculation. Review established that an earlier signed packet was tied to superseded node/global-direction semantics and therefore cannot be relabelled as authenticating the corrected calculation. The preflight binds explicit physical-exit mapping, canonical inputs, evaluator-source and recomputed-output digests, rejects ambiguous or duplicate mappings, and admits no packet. Nine focused tests and the complete 1,110-test suite passed. Detailed implementation and unpublished mathematics remain in the authorized private record.
+
+Primary metrology sources added to the measurement plan are Ulf Griesmann’s 2026 NIST radiometric-aperture calibration (https://www.nist.gov/publications/optical-measurement-radiometric-aperture-areas), NIST’s diffraction-effects program (https://www.nist.gov/programs-projects/diffraction-effects-radiometry), Heather Patrick and Clarence Zarobila’s 2024 NIST reflectance/BRDF calibration (https://www.nist.gov/publications/ultraviolet-short-wave-infrared-spectral-reflectance), and Woods, Jung, Ly, Kaplan and Yu’s 2012 broadband cryogenic-emissivity work (https://www.nist.gov/publications/broadband-emissivity-calibration-highly-reflective-samples-cryogenic-temperatures). They support component-level traceability and uncertainty accounting; they do not validate a project capture fraction, close a momentum ledger or establish anomalous force.
+
+The bounded patent delta was negative after deduplication: no new exotic claim family or meaningful legal-status event survived review. Patent status is not evidence of operability and does not establish freedom to operate.
+
+**Next measurable gate:** native exit-labelled artifact replay plus signed consumption of the corrected output, followed by traceable per-exit optical coverage/diffraction, thermal emission, cavity/control energy and nonphoton momentum closure. No anomalous momentum, negative energy, gravity control, propulsion, flight or FTL is established.
