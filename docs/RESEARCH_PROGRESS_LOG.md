@@ -2034,3 +2034,30 @@ The bounded patent delta adds:
 No new nonduplicate shell/warp, negative-energy/Casimir, field-source, or direct force/gravity family survived the screen. Patent publication, grant, or displayed legal status is not proof of operation and is not a freedom-to-operate conclusion.
 
 Next measurable gate: one authenticated exhaustive conductor/store/optical-port topology; simultaneous full-cut V/I and exact-(t_0) state; measured complex transfer/impulse-response, overload, nonlinear storage/coupling and remanence bounds; traceable spectral-angular capture with bounded missing bands/solid angle/diffraction/ghosts; synchronized cooling/emission vector evidence; complete cavity/tuning/controller work; and one disjoint global allocation partition.
+
+
+## 2026-10-13 — optical capture, binned thermal recoil, and cavity loading
+
+Three conventional-physics regression gates received conditional adversarial release:
+
+- **Spectral/angular capture union.** Ten deterministic miss-role uppers are combined without assuming independence. The synthetic exact case gives miss union `3/8`, capture lower `5/8`, unobserved upper `3/8`, and expands captured axial cosine `[1/5,3/5]` to whole-exit `[-1/4,3/4]`.
+- **Binned thermal/emitted-photon recoil.** Exact interval conservation propagates `S_next = S + heat - photon - nonphoton export`. The synthetic case gives photon energy `[3,5] J`, nonphoton export `[1,2] J`, terminal thermal energy `[3,9] J`, and photon-only body-recoil impulse x `[-2/149896229,0] N s`, y `[0,1/149896229] N s`, z `[-1/299792458,+1/299792458] N s`. Nonphoton momentum remains unbounded.
+- **Cavity stored-field loading.** Exact stepwise conservation includes load, tuning/moving-boundary work, internal and unobserved source uppers, minus compatible exit and absorption lowers. The synthetic terminal stored-field upper is `33/100 J`. Controller wall-plug energy is linked but explicitly nonadditive and uncomputed.
+
+Final current-tree reproduction passed **1,338 tests plus 534 subtests**. The three-gate adversarial campaign passed **51 tests plus 11 subtests** after closing stale-value, cross-context replay, endpoint/time, source/controller-link, typed ID/digest, allocation, zero-denominator, nominal-sink and negative-intermediate attacks.
+
+These are supplied-bound calculations, not measurements. Calibration, topology, source, bound and allocation truth remain unverified; fresh internally consistent metadata can still misrepresent duplicated physical energy. No anomalous energy or momentum, negative energy, gravity control, propulsion, flight or FTL result is established.
+
+A global scalar total was deliberately withheld. The current V/I, storage and cavity fixtures lack authenticated common run/root/clock/window ancestry; the V/I residual is already covered by its interval allowance, absorption is an internal destination, and cavity incoming energy may descend from electrical import. The next join must classify root sources, endpoint storage, transfer descendants, external/terminal lower sinks and internal destinations, then count each root allocation once.
+
+Primary-source context includes conventional anisotropic thermal recoil ([DOI 10.1103/PhysRevD.79.043011](https://doi.org/10.1103/PhysRevD.79.043011); [DOI 10.1103/PhysRevLett.108.241101](https://doi.org/10.1103/PhysRevLett.108.241101)) and optical traceability/diffraction work ([DOI 10.1088/1681-7575/ae52ff](https://doi.org/10.1088/1681-7575/ae52ff); [NIST SP 250-102](https://doi.org/10.6028/NIST.SP.250-102); [DOI 10.1364/JOSAA.549811](https://doi.org/10.1364/JOSAA.549811)). No source supplied one deterministic whole-apparatus capture fraction across all spectral, angular, diffraction, ghost, bypass, timing and overload paths.
+
+Patent screening added three metrology-only families:
+
+- [WO2025080140A1](https://patents.google.com/patent/WO2025080140A1/en), credited to Arthur Louis Hendriks and Andrea Fiore / Eindhoven University, for optomechanical vacuum-pressure sensing.
+- [WO2026091387A1](https://patents.google.com/patent/WO2026091387A1/en), credited to Li Yue, Wen Hongping and Zhang Zhao / Shanghai Raykeen Laser Technology, for pulse peak/integrated optical-power monitoring.
+- [US20260022972A1](https://patents.google.com/patent/US20260022972A1/en), credited to Songqi Gao and David S. L. Mui / Lam Research, for a temperature-calibration reference wafer.
+
+No new nonduplicate shell/warp, negative-energy/Casimir, exotic-field-source or direct gravity/force family survived. Patent status is not proof of operation or freedom to operate.
+
+Next measurable gate: hard one-sided bounds for every optical miss role on the actual same-exit denominator; synchronized thermal and cavity source/state/export evidence; nonphoton momentum accounting; and an authenticated common-window root-source ancestry/allocation bridge.
