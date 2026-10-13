@@ -1785,3 +1785,6 @@ Three nonduplicate primary patent records were added to the bounded screen:
 A renewed shell/warp, negative-energy, exotic-source, gravity-generation, and closed-system-thrust search found no nonduplicate enabling record. Patent publication or legal-status labels do not establish operability, validity, infringement scope, or freedom to operate.
 
 **Next measurable gate:** populate all twelve replay envelopes from acquired native bytes tied to one pre-registered physical root and run/window, then perform blind replay and an independent all-port energy audit. Still required are calibrated responsivity versus wavelength/angle/polarization, diffraction/aperture geometry, absorption and cooling-tail constants, emitted-photon angular distribution, cavity (Q)/loading time, stored-field energy, and control/electronics energy.
+
+
+**Hosted CI caveat:** GitHub Actions run 38369073943 for the logged PR head completed as a failure, but its only job returned no steps and the log endpoint returned `BlobNotFound`. The hosted failure therefore cannot be attributed to a code traceback from the available record. CI is not green; the stated 1,034-test/390-subtest result is the reproducible local gate under the documented exclusions.
