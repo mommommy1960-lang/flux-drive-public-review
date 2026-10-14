@@ -2159,3 +2159,18 @@ The patent delta adds [US20250129771A1, “Rotary Inertia Drive”](https://pate
 The displayed family is US-only plus a claimed provisional. The page header says Pending, while later events report abandonment for failure to respond on 2026-03-17; authoritative USPTO records control. Neither label proves operation, invalidity, or freedom to operate.
 
 Other shell/warp, negative-energy/Casimir, field-source, and gravity/force-metrology tracks produced no additional nonduplicate result. No anomalous momentum, propulsion, flight, or FTL is established.
+
+
+## 2026-10-13 — bounded thermal-recoil norm and patent screen
+
+A conventional-physics software increment now derives an upper-only Euclidean norm bound from the existing same-context photon-plus-nonphoton recoil component intervals. The synthetic fixture gives a squared-norm upper of approximately `4.3400002e-4 N^2 s^2`, corresponding to a norm upper near `0.02083 N s`. This is exact conditional arithmetic over supplied synthetic intervals, not a measured force or impulse.
+
+Adversarial review found and closed two integrity gaps before release: cross-semantic reuse of an upstream evidence identifier, and possible double counting if a declared nonphoton impulse already contained resolved or unresolved photon recoil. The released gate requires exact upstream semantic paths, an explicit photon-exclusion declaration, and disjoint photon/nonphoton allocation identities. These checks do not authenticate instruments or prove the declarations physically true. Final verification passed 17 focused tests plus 4 subtests and the complete 1,475-test plus 592-subtest repository collection. Private implementation: [0da3496](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/0da34969b66e90fb0fad0e065a7b0eba423ee887).
+
+The patent screen added [US20260085669A1](https://patents.google.com/patent/US20260085669A1/en) and family [WO2024075355A1](https://patents.google.com/patent/WO2024075355A1/en) / [EP4600488A1](https://patents.google.com/patent/EP4600488A1/en), credited to inventor **Akira Ueki** and assignee **Prospira Corp**. The family alleges propulsion from an unequal-weight magnetic/nonmagnetic rotor, elastic couplings, a housing conductor and opposite rotation. No calibrated isolated closed-cycle impulse, uncertainty budget, vacuum result or independent replication was located. Displayed pending/ceased labels are administrative data only; national registers control, and no label proves operation, validity or freedom to operate.
+
+A decisive physical test remains a complete powered and sealed system on a blinded, dynamically calibrated six-axis balance or torsion pendulum in vacuum, with complete-cycle integration, orientation and rotor reversals, dummy/locked/sham controls, and magnetic, vibration, bearing, thermal, outgassing, tether and support-path bounds.
+
+Fresh shell/warp, negative-energy/Casimir, exotic-field and gravity-generation/force-metrology searches produced no other nonduplicate result. The cavity/controller ledgers remain incompatible and were not combined. No anomalous momentum, propulsion, flight or FTL result is established.
+
+Next gate: one authenticated common-run optical/thermal/cavity/controller/force packet with traceable spectral-diffraction bounds, photon-exclusive nonphoton impulse, signed exact-start storage, disjoint allocation and blinded force controls.
