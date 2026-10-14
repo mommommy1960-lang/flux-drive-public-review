@@ -2099,3 +2099,14 @@ A strict patent delta found [WO2025215684A1](https://patents.google.com/patent/W
 No calibrated isolated closed-cycle impulse measurement, uncertainty budget or independent test was located in the record. A useful falsification test would require the complete powered mechanism on a blinded, dynamically calibrated six-axis balance with reversal controls and bounded vibration, heat, airflow, cable and support-path momentum.
 
 The displayed Pending header conflicts with an anticipated-expiration timeline entry dated 2026-10-08, so authoritative WIPO/national registers must control status. Patent publication or status proves neither operation nor freedom to operate. Renewed shell/warp, negative-energy/Casimir, exotic-field, gravity-generation and force/gravity-metrology tracks were otherwise negative. No propulsion, flight or FTL result is established.
+
+
+## 2026-10-13 — patent-screen delta: closed-system reactionless propulsion claim
+
+A bounded primary-record screen added [WO2022258123A1 / PCT/DZ2022/050008, “Closed-system reactionless propulsion motor”](https://patents.google.com/patent/WO2022258123A1/en), credited to inventor **Lotfi Mabrouki**. The record alleges reactionless thrust from internally actuated starter/rack/cable mechanisms and permanent magnets, including an FTL assertion. CPC F03G7/125 and H02K53/00 flag alleged momentum-conservation-violating thrust and perpetual-motion subject matter; classifications describe the allegation and do not validate it.
+
+No calibrated force or impulse data, uncertainty budget, isolated closed-cycle test, or independent replication was located. A meaningful falsification test would place the complete powered device inside a sealed housing on a blinded, dynamically calibrated six-axis balance, with orientation/sequence reversals, sham and dummy-mass cycles, and bounds for support/cable, electromagnetic, acoustic, airflow, thermal, vibration, bearing, and expelled-matter effects.
+
+The displayed family contains only the PCT/WO record. Its displayed Ceased status and non-entry/loss-of-rights events require authoritative-register confirmation and establish neither non-operation nor freedom to operate. Other screened shell, negative-energy, field-source, gravity-generation, force-measurement, and numerical tracks were negative in this pass; KR20260079508A was excluded as conventional effective-gravity simulation.
+
+No working engine, anomalous momentum, flight, or FTL result is established. The next measurable gate is a blinded, calibrated, fully closed-cycle six-axis impulse test with a complete conventional momentum ledger.
