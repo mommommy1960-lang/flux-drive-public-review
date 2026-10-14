@@ -2090,3 +2090,12 @@ A direct exact-commit check-run inspection corrected the previous hosted-CI rece
 Independent integrity review also sharpened a known limitation: the cavity/root ancestry fixture prevents descendant double counting, but its supplied root energy values are not yet recomputed from authenticated controller and exact-start storage source artifacts. The reported (16/5) J root fixture remains conditional and must not be treated as a measured or source-derived device bound. A proposed optical calibration inversion was rejected before release after review found an inconsistent-background edge case and a captured-versus-total-energy ambiguity. Renewed patent screening produced no nonduplicate family or material legal-status change.
 
 Next gate: obtain durable hosted logs or annotations, then bind and internally recompute common-run controller/import, exact-start storage, topology and root-partition receipts. No anomalous energy or momentum, propulsion, flight, or FTL is established.
+
+
+## 2026-10-14 — New patent falsification target; no physical evidence
+
+A strict patent delta found [WO2025215684A1](https://patents.google.com/patent/WO2025215684A1/en), credited to Maria Consiglia Sgarlata, Mario Corciulo, Maria Assunta Corciulo, Marta Calabrese, Marcello Calabrese, Cosimo Luigi Sgarlata and Daniela Rosaria Sgarlata. The PCT publication claims internally generated thrust from nonuniform rotation and eccentric weights; CPC F03G7/125 categorizes alleged momentum-conservation-violating thrust.
+
+No calibrated isolated closed-cycle impulse measurement, uncertainty budget or independent test was located in the record. A useful falsification test would require the complete powered mechanism on a blinded, dynamically calibrated six-axis balance with reversal controls and bounded vibration, heat, airflow, cable and support-path momentum.
+
+The displayed Pending header conflicts with an anticipated-expiration timeline entry dated 2026-10-08, so authoritative WIPO/national registers must control status. Patent publication or status proves neither operation nor freedom to operate. Renewed shell/warp, negative-energy/Casimir, exotic-field, gravity-generation and force/gravity-metrology tracks were otherwise negative. No propulsion, flight or FTL result is established.
