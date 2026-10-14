@@ -2110,3 +2110,16 @@ No calibrated force or impulse data, uncertainty budget, isolated closed-cycle t
 The displayed family contains only the PCT/WO record. Its displayed Ceased status and non-entry/loss-of-rights events require authoritative-register confirmation and establish neither non-operation nor freedom to operate. Other screened shell, negative-energy, field-source, gravity-generation, force-measurement, and numerical tracks were negative in this pass; KR20260079508A was excluded as conventional effective-gravity simulation.
 
 No working engine, anomalous momentum, flight, or FTL result is established. The next measurable gate is a blinded, calibrated, fully closed-cycle six-axis impulse test with a complete conventional momentum ledger.
+
+
+## 2026-10-13 — patent-screen delta: angular-momentum reactive drive
+
+A bounded primary-record screen added [WO2025257580A1 / PCT/HU2025/050035, “Angular-momentum reactive universal drive”](https://patents.google.com/patent/WO2025257580A1/en), credited to inventor **Zoltán Győző Sölét-Ormos**. The record alleges environment-independent thrust from mirror-symmetric counter-rotating rotors, offset drives, nonslip couplings, and controlled acceleration/deceleration. CPC F03G7/125 expressly classifies alleged thrust violating momentum conservation; classification describes the allegation and does not validate it.
+
+No test, calibrated force/impulse measurement, uncertainty budget, isolated closed-cycle result, or independent replication was located. A meaningful falsification test would seal the complete powered system on a blinded, dynamically calibrated six-axis balance with drive/orientation reversals, matched dummy and sham cycles, and bounds for bearing/coupling reactions, electromagnetic effects, vibration, airflow/acoustics, thermal drift, support forces, and expelled matter.
+
+The displayed family/country tables show only the PCT/WO application, while priority data reference Hungarian identifiers. Displayed Pending status and an EP-designation notice require confirmation in authoritative WIPO, EPO, and national registers and establish neither operation nor freedom to operate.
+
+Other shell/warp, negative-energy, field-source, gravity-generation, force-metrology, optical, thermal, and cavity tracks produced no accepted new result in this pass. PR #29 is currently conflict-marked against the advanced private main, and exact-head CI remains an unresolved zero-step failure; neither state supports a merge-readiness or hosted-validation claim.
+
+No anomalous momentum, propulsion, flight, or FTL result is established.
