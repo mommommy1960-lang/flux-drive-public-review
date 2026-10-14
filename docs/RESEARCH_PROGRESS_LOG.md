@@ -2140,3 +2140,22 @@ The patent delta adds [WO2026036235A1 / PCT/CN2024/111308, “Eccentric momentum
 The displayed family is PCT/WO-only. “Pending” and an EP-designation event are administrative database entries requiring confirmation in authoritative registers and establish neither operation nor freedom to operate. A listed similar document was not treated as a family member.
 
 Other shell/warp, negative-energy, field-source, gravity-generation/force-measurement, optical, and cavity tracks produced no additional accepted nonduplicate result. No anomalous momentum, propulsion, flight, or FTL result is established.
+
+
+## 2026-10-13 — spectral/diffraction sensitivity and rotary-inertia patent screen
+
+A new exact-rational design sensitivity was added to the existing synthetic same-exit optical record. With an `8 J` total escaping-energy lower, the eight fixed miss roles sum to `8/5 J`, while spectral-tail and aperture/diffraction uppers are represented by `S,D in [0,1/5] J`:
+
+`f_capture^L = 4/5 - (S+D)/8`,
+
+`E_capture^L = 32/5 - S - D J`.
+
+The present `S=D=1/5 J` endpoint reproduces capture `>=3/4` and captured energy `>=6 J`. Even the hypothetical `S=D=0` endpoint raises those conditional lower bounds only to `4/5` and `6.4 J`. Thus these two roles alone cannot certify capture above 80% while the other eight bounds stay fixed. A 79% target requires `S+D <=2/25 J`.
+
+The evaluator recomputes role sums from the canonical bound record, preserves the positive total-energy lower as denominator, and rejects clipped-zero regimes. An initial generic draft was rejected for mishandling a zero-target edge case and ambiguous threshold wording; the released version fixes both and retains every physical/admission flag as false. Final verification passed **1,471 tests plus 588 subtests**.
+
+The patent delta adds [US20250129771A1, “Rotary Inertia Drive”](https://patents.google.com/patent/US20250129771A1/en), credited to **David Roger Rastall**. It claims internal propulsion from indexed rotation, sliding flyweights, springs, and stoppers. No calibrated closed-cycle impulse measurement, vacuum result, uncertainty budget, or independent replication was located. CPC F03G7/125 describes alleged momentum-conservation-violating thrust; it does not validate the mechanism.
+
+The displayed family is US-only plus a claimed provisional. The page header says Pending, while later events report abandonment for failure to respond on 2026-03-17; authoritative USPTO records control. Neither label proves operation, invalidity, or freedom to operate.
+
+Other shell/warp, negative-energy/Casimir, field-source, and gravity/force-metrology tracks produced no additional nonduplicate result. No anomalous momentum, propulsion, flight, or FTL is established.
