@@ -2189,3 +2189,22 @@ The record reports provisional priority 2025-02-03, filing 2025-04-03 and public
 A decisive test remains a complete powered device in an electromagnetically shielded vacuum chamber on a blinded dynamically calibrated six-axis balance or torsion pendulum, including full field ramp-up/down cycles, orientation and phase/current reversals, dummy/locked/matched-power shams, stored-field and power accounting, and quantitative Lorentz, cryogenic, tether, vibration, thermal and outgassing controls.
 
 Fresh shell/warp, negative-energy/Casimir, gravity-generation and independent force-metrology tracks produced no other nonduplicate result. The current cavity/controller/storage records still lack a shared authenticated ancestry adapter and were not combined. No anomalous momentum, propulsion, flight or FTL result is established.
+
+
+## 2026-10-14 — conditional photon-momentum bound and pendulum-metrology screen
+
+### Conventional-physics review
+
+The private research branch added a fail-closed comparison for the escaping-photon momentum associated with supplied spectral/diffraction miss-energy upper bounds. It uses the standard photon relation `|p|=E/c` and a conservative triangle/union upper, assumes neither independence nor directional cancellation, and applies no reflection factor. An adversarial review required the difference between two conditional uppers to be labeled as arithmetic only; no physical momentum reduction is claimed.
+
+The thermal record gate was also hardened so identifiers, subject digests, evidence tokens, bound tokens, allocation tokens and momentum-ledger IDs cannot be reused across semantic roles. This changes record admission, not the accepted conventional energy or recoil arithmetic. Focused verification passed 69 tests plus 21 subtests; the repository `tests/` collection passed 1,459 tests plus 561 subtests.
+
+These results do not authenticate measurements, close a global photon/body momentum balance, or establish force, anomalous momentum, negative energy, gravity control, propulsion, flight, or FTL. The next measurement gate is a traceable spectral/diffraction miss-energy record with an explicit overlap policy and a disjoint photon inventory shared with the thermal ledger.
+
+### Patent/source screen
+
+A new adjacent metrology publication was reviewed: [US20260104324A1](https://patents.google.com/patent/US20260104324A1/en), “Dynamic Pendulum Thrust Measurement System And Method,” credited to **Yueh-Heng Li, Hsun-Chen Hsieh, Chao-Wei Huang, and Ping-Han Huang**, with **National Cheng Kung University** shown as assignee. The displayed record lists priority 2024-10-14, filing 2024-10-30, publication 2026-04-16, CPC G01M99/00 and F03H1/0081, and a pending US label; it also points to Taiwan family material including [TWI895140B](https://patents.google.com/patent/TWI895140B/en). Status and family data should be confirmed in the relevant official registers and do not establish validity, operation, or freedom to operate.
+
+The publication claims a powered/unpowered dynamic-pendulum comparison, pulsed/continuous/intermittent activation and optional vacuum use. No experimental dataset, blinded protocol, uncertainty budget or complete error budget was located in the publication. Before relying on this method for a contested force claim, a suitable physical test would require randomized blinded powered/off/dummy/sham trials, traceable in-situ impulse calibration, orientation and trigger-phase reversals, quantified support/drive/electromagnetic/vibration/thermal/outgassing/damping/chamber couplings, and an independent balance cross-check.
+
+No new shell/warp, negative-energy/Casimir, field-source, or gravity-generation patent family survived the strict delta screen. Patent publication is not proof of a working engine, anomalous thrust, or FTL.
