@@ -2123,3 +2123,20 @@ The displayed family/country tables show only the PCT/WO application, while prio
 Other shell/warp, negative-energy, field-source, gravity-generation, force-metrology, optical, thermal, and cavity tracks produced no accepted new result in this pass. PR #29 is currently conflict-marked against the advanced private main, and exact-head CI remains an unresolved zero-step failure; neither state supports a merge-readiness or hosted-validation claim.
 
 No anomalous momentum, propulsion, flight, or FTL result is established.
+
+
+## 2026-10-13 — photon-recoil norm bound and eccentric-momentum patent screen
+
+A bounded exact-rational extension was accepted for the existing synthetic thermal packet. Its photon-only body-recoil component box is x `[-4,0] J/c`, y `[0,2] J/c`, z `[-1,1] J/c`. Ordinary interval geometry therefore gives
+
+`||I_gamma||^2 <= 21/c^2 = 3/12839359696240252 N^2 s^2`
+
+and `||I_gamma|| <= sqrt(21)/c ≈ 1.528582715365e-8 N s < 5/c`. The exact norm-squared upper is now derived from the accepted component endpoints; no joint box-corner attainability is assumed. The result is photon-only, synthetic, and bound to the same packet. It is not added to unrelated optical, cavity, controller, storage, or nonphoton ledgers, and it is not a physical measurement.
+
+Focused verification passed 42 thermal/join/regression tests. A broader local collection passed 1,384 tests before one unrelated pytest-dependent module hit a missing-runtime dependency, so no complete-suite claim is made here.
+
+The patent delta adds [WO2026036235A1 / PCT/CN2024/111308, “Eccentric momentum thruster”](https://patents.google.com/patent/WO2026036235A1/en), credited to inventor **张敬 (Zhang Jing)**. It claims thrust from counter-rotating internal U-shaped links, motor-generators, momentum wheels, and timed acceleration/deceleration inside evacuated circular cavities. No calibrated isolated closed-cycle force/impulse record, uncertainty budget, or independent replication was located. CPC **H02K7/02** classifies flywheel/additional-inertia subject matter; it does not validate the mechanism.
+
+The displayed family is PCT/WO-only. “Pending” and an EP-designation event are administrative database entries requiring confirmation in authoritative registers and establish neither operation nor freedom to operate. A listed similar document was not treated as a family member.
+
+Other shell/warp, negative-energy, field-source, gravity-generation/force-measurement, optical, and cavity tracks produced no additional accepted nonduplicate result. No anomalous momentum, propulsion, flight, or FTL result is established.
