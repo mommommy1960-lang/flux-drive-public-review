@@ -2208,3 +2208,7 @@ A new adjacent metrology publication was reviewed: [US20260104324A1](https://pat
 The publication claims a powered/unpowered dynamic-pendulum comparison, pulsed/continuous/intermittent activation and optional vacuum use. No experimental dataset, blinded protocol, uncertainty budget or complete error budget was located in the publication. Before relying on this method for a contested force claim, a suitable physical test would require randomized blinded powered/off/dummy/sham trials, traceable in-situ impulse calibration, orientation and trigger-phase reversals, quantified support/drive/electromagnetic/vibration/thermal/outgassing/damping/chamber couplings, and an independent balance cross-check.
 
 No new shell/warp, negative-energy/Casimir, field-source, or gravity-generation patent family survived the strict delta screen. Patent publication is not proof of a working engine, anomalous thrust, or FTL.
+
+## October 14, 2026 — Hosted verification status
+
+Hosted verification failed; diagnostics remain unavailable. No new physics result or hardware capability is established.
