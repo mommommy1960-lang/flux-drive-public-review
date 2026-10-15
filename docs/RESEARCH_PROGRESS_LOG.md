@@ -2413,3 +2413,14 @@ Five tests were appended to an existing test file. Production calculations were 
 Credit [NIST DLMF4.2.19](https://dlmf.nist.gov/4.2.E19) for the conventional exponential series used in exact reference tests; earlier dual-slope calorimetry credit remains intact. New primary-source review credits **Vladimir Stepanovich Tolstoi**, and **Ichiro Hatta, Haruhiko Yao and Kenji Ema**. Detailed claim/family analysis stays private. Current national-rights verification was incomplete; no freedom-to-operate or verified exotic-source conclusion follows.
 
 Next measurable gate: independently justified whole-path heat-loss changes, true endpoint/time bounds and deposited energy, followed by blinded held-out thermal recovery. Nominal simulation endpoints are not certified measurements or numerical error enclosures. Optical, photon/nonphoton and cavity/control requirements remain separate. Exact-head hosted workflows reported failure, while the inspected jobs contained no executed steps or assigned runners; the cause remains unverified. Passing local tests are not hosted validation. PR29 stays unmerged and private main untouched. No physical operation, engine, propulsion, gravity control, flight or FTL result is established.
+
+
+## 2026-10-15 — Initial-state and timing uncertainty review
+
+Extended the conditional conventional-physics review to starting-temperature mismatch and uncertain shared observation time. Exact synthetic counterexamples show that ignoring either can falsely certify a result, and that a shorter window is not automatically better. This is a mathematical/software result, not a measurement; the detailed assumptions, proof and examples remain in the authorized private record.
+
+Five tests were appended; production code was unchanged. Six distinct bounded workers supplied implementation, integration, independent proof/adversarial review and source screening. The full local suite passed 1,851 tests plus 2,011 subtests. On the published research head, hosted Flux tests reported failure; the 101-job snapshot contained 76 failed and 25 queued jobs, no reported steps or assigned runner IDs. Hosted validation is not established; no cause is inferred.
+
+Primary-source credit: Kenneth R. Shoulders, [US5123039A](https://patents.google.com/patent/US5123039A/en); Richard B. Loucks and Larry G. Ferguson, [US5823043A](https://patents.google.com/patent/US5823043). Neither screen established a working engine or supplied measured project parameters. Current legal rights and freedom to operate remain unverified; status labels alone do not decide them.
+
+Next measurable gate: traceable, jointly valid input/state/timing bounds with sensor-response and model-discrepancy coverage. No hardware operation, net-energy source, gravity effect, flight or FTL was demonstrated. Research remains unmerged; private main was not changed.
