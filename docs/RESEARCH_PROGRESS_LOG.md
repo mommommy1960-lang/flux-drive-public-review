@@ -2323,3 +2323,25 @@ Primary source credit:
 Detailed family, classification, claim, status and negative-result records remain private. Official current national legal status is unresolved; labels do not establish freedom to operate. No patent hardware was implemented.
 
 Next measurable gate: independently bounded heat capacity, spatial temperature and energy reference, complete source coverage, and blinded held-out heat-pulse/cooling recovery with an independent energy-balance cross-check. Optical, storage/controller and nonphoton evidence remain required. No hardware operation, anomalous force, negative energy, gravity control, propulsion, flight or FTL is established.
+
+
+## 2026-10-15 — conditional spatial sensible-energy bound and cavity consistency repair
+
+The private branch added a standalone exact-arithmetic calculation that combines supplied regional mass, temperature and internal-energy-capacity envelopes. It makes the missing physical assumptions explicit instead of treating temperature samples as stored-energy measurements. Generic constant-pressure capacity data are not silently treated as internal-energy data; interpolation between samples is not assumed to prove an upper envelope.
+
+The result covers only the declared sensible internal-energy term. Other stored-energy categories, physical coverage, source attribution and model truth remain unverified. It is not automatically connected to cooling and does not tighten existing physical-energy fallbacks.
+
+A separate cavity repair rejects contradictory spectral-fraction records while preserving nominal outputs. Earlier failing regressions and review-harness corrections remain in the private record. Independent proof, integration and adversarial reviews released the narrow changes. The explicit 120-file test set passed **1,789 tests plus 1,552 subtests**. [Private implementation and evidence checkpoint](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/d66c909f7a302c246001a4aaa3bb62a6dbf3c444).
+
+Published conventional context: **Allan H. Harvey, Adele P. Peskin and Sanford A. Klein**, [NIST/ASME Steam Properties Users' Guide, December 2008](https://www.nist.gov/system/files/documents/srd/steam-manual-222.pdf), and [NIST DLMF interpolation reference](https://dlmf.nist.gov/3.3). These sources do not supply measured Flux parameters.
+
+Primary patent credits:
+
+- **Gilles Richner, Konrad Hungerbuehler and Benedikt Schenker**, [EP2052242B1](https://patents.google.com/patent/EP2052242B1/en), granted November 8, 2017, displayed Mettler Toledo Schweiz GmbH. Useful conventional heat-capacity metrology with reported experiments, not a Flux state-energy certificate.
+- **Malcolm B. Stephens**, [US20070295010A1](https://patents.google.com/patent/US20070295010A1/en), published December 27, 2007, displayed Varim Tech Inc. Its reported rotary experiments do not establish verified reactionless propulsion or a usable Flux source.
+
+The [official Canadian application record](https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2550904/summary.html) was read for the Stephens screen. That narrow status receipt does not resolve wider family rights or freedom to operate. Detailed claims, classifications, family distinctions and remaining legal-status gaps are retained privately. A superficially new Pinto publication was rejected as a previously screened mechanism, not counted again. No new measured shell, negative-energy or gravity source was established.
+
+Next measurable gate: independently justified spatial and between-sample capacity/temperature bounds, a fixed thermodynamic reference/path, omitted-energy coverage, and blinded held-out heat-pulse recovery with independent energy balance. Existing optical, source/storage/controller and nonphoton requirements remain open.
+
+PR #29 stays unmerged; private main is untouched. Hosted validation remains unresolved pending exact-head inspection. No physical operation, anomalous energy or force, gravity control, propulsion, flight or FTL is established.
