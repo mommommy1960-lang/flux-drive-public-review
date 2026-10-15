@@ -2242,3 +2242,18 @@ Conventional calibration reference: [CN115655724B](https://patents.google.com/pa
 No micro/nanoforce sensitivity result or complete uncertainty budget was located. The useful review question is whether a force experiment's pulse response, phase, preload and coupled apparatus effects have been independently calibrated, including blinded held-out recovery and reversals. No patent hardware was implemented.
 
 Other source tracks returned previously screened records or no qualified new source. Traceable common-run optical/thermal inventories, independently bounded nonphoton effects and authenticated storage/source ancestry remain open. No hazardous hardware operation, anomalous energy/momentum, gravity control, propulsion, flight or FTL result is established.
+
+
+## 2026-10-15 — photon-direction consistency repair and six-axis calibration reference
+
+The private research branch repaired a conditional-input consistency defect: impossible radiation-direction declarations could previously pass the component-wise checks. The repair preserves valid cancelling/isotropic radiation and conservative angular boxes. The accepted synthetic energy and recoil results are unchanged. It does not authenticate instruments or turn input declarations into measurements.
+
+Independent adversarial review reproduced the baseline defect, verified 2,731 exact-rational cases and rejected two dependency-byte tampering attempts. Focused upstream/downstream verification passed **46 tests plus25 subtests**. The exact119-file repository inventory passed **1,741 tests plus783 subtests**. Four intended implementation/test files changed; earlier failures and limits remain in the private record. [Private research checkpoint](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/1ffc50cefff6b21682ee8de6453d0a505fe77f51). No new physical calculation was claimed.
+
+Source credit: [CN109100083A](https://patents.google.com/patent/CN109100083A/en), published December28,2018, inventors **王宏亮, 徐造林, 李志勋, 刘丽宁, 赵曙, 李广会, 王朋军, 赵政社, 汪林 and 李亮**, displayed assignee **Xian Aerospace Propulsion Testing Technique Institute**. This conventional six-component thrust-sensor calibration reference was not in the prior source ledger. Displayed classifications include G01L25/00, G01L5/00 and G01M15/00. The pending label and single-country family record require authoritative national confirmation and establish no freedom to operate.
+
+The review identified no demonstrated dynamic-impulse uncertainty or pulse-bandwidth qualification in that publication. Static cross-axis correction alone cannot establish reliable dynamic pulse recovery. Independent source context: [Nicholas Vlajic and Akobuije Chijioke, NIST/Metrologia2016](https://www.nist.gov/publications/traceable-dynamic-calibration-force-transducers-primary-means), describes traceable harmonic calibration and uncertainty analysis; those results are not Flux measurements.
+
+Other bounded patent tracks produced duplicates or no qualifying source. Prior classification/register-access gaps remain unresolved and were not bypassed. Next measurable gate: traceable common-run photon inventories and angular bounds, authenticated source/storage evidence, independently bounded nonphoton effects, and blinded dynamically calibrated six-axis controls.
+
+PR#29 remains open, unmerged and conflict-marked; private main was not modified. Hosted validation remains unresolved pending the new exact-head receipt. No hardware operation, anomalous momentum, negative energy, gravity control, propulsion, flight or FTL result is established.
