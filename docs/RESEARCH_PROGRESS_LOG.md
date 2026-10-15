@@ -2367,3 +2367,14 @@ Full local verification passed **1,824 tests plus1,815 subtests**. Independent e
 Credit Allan H. Harvey, Adele P. Peskin and Sanford A. Klein, [NIST/ASME2008 Users' Guide](https://www.nist.gov/system/files/documents/srd/steam-manual-222.pdf), and [NASA Glenn](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/specific-heats-cp-and-cv-1/) for conventional thermodynamic definitions. Source review also credited Franklin B. Mead Jr., Jack Nachamkin, Jean-Luc Bourgade, Michel Le Guen and Alain Saleres. Detailed claim/family findings and unresolved national-status caveats remain private; no verified exotic source or freedom-to-operate conclusion emerged.
 
 Next measurable gate: independently justified matched-material and spatial endpoint bounds, followed by blinded thermal energy-balance validation. Software bounds do not replace these missing measurements. No hardware operation, physical propulsion, gravity control, flight or FTL is established.
+
+
+## 2026-10-15 — directional bound audit and source-screen limits
+
+Six bounded reviews corrected the rounding direction of selected existing optical/thermal bounds, preserving prior input limits and nominal transient results. These are supplied-model arithmetic corrections, not new measurements or physical uncertainty estimates. Other sensitivity outputs remain explicitly outside the rounding certification.
+
+The full local inventory passed **1,831 tests plus1,884 subtests**. Independent exact-arithmetic, boundary and parity reviews passed. Detailed failed regressions and technical evidence remain private. No new standalone calculation was added, so issue #24 was not changed.
+
+Credit Paul A. Williams, Joshua A. Hadler, Robert Lee, Frank C. Maring and John H. Lehman for published radiation-pressure metrology, and Anna Vaskuri and colleagues for independent traceability/uncertainty context. New patent review credited Ian Christopher Hamilton; a separate metrology candidate remains incomplete because primary-record/family verification failed. No verified exotic source or freedom-to-operate conclusion emerged.
+
+Next measurable gate: calibrated common-run optical/thermal energy, angular bounds and complete photon/nonphoton accounting, followed by blinded pulse validation. Both progress records retain earlier history. PR #29 remains unmerged, private main untouched, and hosted validation unresolved. No hardware operation, propulsion, flight or FTL result is established.
