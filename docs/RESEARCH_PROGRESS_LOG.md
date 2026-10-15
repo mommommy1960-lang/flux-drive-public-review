@@ -2442,3 +2442,14 @@ Four tests and a test-local reference were appended; production code was unchang
 Primary-source credit: Lawrence Nelson, [US6465965B2](https://patents.google.com/patent/US6465965B2/en); Jonathan B. Scott, [US20080114555A1](https://patents.google.com/patent/US20080114555A1/en). No independently validated new engine/source or measured project input emerged. Legal-event histories were preserved; no label alone establishes current rights or freedom to operate.
 
 Next numerical gate: retain temporal information in independently supplied input envelopes. Next measurable gate: traceable deposited-power history, temperature/state and common-clock coverage, then blinded energy-balance recovery. No hardware operation, net-energy extraction, gravity control, flight or FTL result. PR29 remains unmerged; private main is unchanged.
+
+
+## 2026-10-15 — Energy-bin timing bounds and false-certification controls
+
+Completed a new conditional calculation for energy recorded in time bins. Exact synthetic tests show why a bin's midpoint cannot be assumed to be the actual deposition time. Conservative timing preserves a valid outer response bound under the stated assumptions. More bins help only when their energy constraints preserve the earlier information; weaker replacement intervals can lose it. This is conventional model/software analysis, not a measured calibration.
+
+Four tests and a test-local reference were appended; production code was unchanged. Six distinct workers supplied implementation, integration, proof/adversarial review and source screening. Full local verification passed1,859 tests plus2,080 subtests; focused37 plus201. The exact research-head hosted [Flux](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38813990898) and [Portfolio](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38813990899) runs reported failure. All101job records were inspected:84 failed,17 queued,zero reported steps or assigned runner IDs. The run/job status inconsistency is retained; no hosted pass or cause is inferred.
+
+Primary-source credit: Eugene B. Pamfiloff, [US8481965B1](https://patents.google.com/patent/US8481965B1/en); Eiichi Tanaka and Tomohide Omura, [US6901337B2](https://patents.google.com/patent/US6901337B2/en). The screens established no independently validated new physical source or measured project inputs. Current legal rights and freedom to operate remain unverified.
+
+A further bounded timing review covered uncertain support ages conditionally; its tests remain the next numerical gate. The measurable gate is independently traceable energy allocation, actual timing, temperature/state coverage and blinded heat recovery. Detailed unpublished mathematics stays private. No hardware operation, flight, gravity-control or FTL result. PR29 remains unmerged; private main unchanged.
