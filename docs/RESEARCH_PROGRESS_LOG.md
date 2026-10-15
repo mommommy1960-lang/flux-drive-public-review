@@ -2345,3 +2345,14 @@ The [official Canadian application record](https://brevets-patents.ic.gc.ca/opic
 Next measurable gate: independently justified spatial and between-sample capacity/temperature bounds, a fixed thermodynamic reference/path, omitted-energy coverage, and blinded held-out heat-pulse recovery with independent energy balance. Existing optical, source/storage/controller and nonphoton requirements remain open.
 
 PR #29 stays unmerged; private main is untouched. Hosted validation remains unresolved pending exact-head inspection. No physical operation, anomalous energy or force, gravity control, propulsion, flight or FTL is established.
+
+
+## 2026-10-15 — conditional interpolation review and record validation
+
+Six bounded reviews produced a conventional, assumption-explicit interpolation calculation and a narrow supplied-record timing-validation repair. Prior interfaces and valid-result behavior were preserved. Full local verification passed **1,806 tests plus1,687 subtests**; independent exact-arithmetic and adversarial reviews also passed. Hosted CI is separate and remains unresolved pending exact-head inspection. PR #29 remains open and unmerged; private main was not changed.
+
+Credit [NIST DLMF §3.3](https://dlmf.nist.gov/3.3) for the published interpolation remainder. The project's contribution is conservative supplied-input accounting and software validation, not a new physical effect or measured material property. Endpoint samples alone cannot certify behavior between samples.
+
+Primary-source review credited Kyle Bernard Flanagan and Peter Clinton Dohm, and separately Chung-Wah Fon, Michael L. Roukes, Wonhee Lee and Hongxing Tang. Detailed claim/family analysis and national-status caveats remain in the authorized technical record; no patent supplies engine validation or freedom-to-operate clearance.
+
+Next measurable gate: independently justified material/path and spatial-state coverage, systematic uncertainty and blinded held-out thermal energy balance. No hardware operation, actual-state validation, independent replication, gravity control, propulsion, flight or FTL is claimed.
