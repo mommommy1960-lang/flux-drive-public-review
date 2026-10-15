@@ -2356,3 +2356,14 @@ Credit [NIST DLMF §3.3](https://dlmf.nist.gov/3.3) for the published interpolat
 Primary-source review credited Kyle Bernard Flanagan and Peter Clinton Dohm, and separately Chung-Wah Fon, Michael L. Roukes, Wonhee Lee and Hongxing Tang. Detailed claim/family analysis and national-status caveats remain in the authorized technical record; no patent supplies engine validation or freedom-to-operate clearance.
 
 Next measurable gate: independently justified material/path and spatial-state coverage, systematic uncertainty and blinded held-out thermal energy balance. No hardware operation, actual-state validation, independent replication, gravity control, propulsion, flight or FTL is claimed.
+
+
+## 2026-10-15 — paired-state accounting and optical rounding repair
+
+Six bounded reviews produced a separate conditional paired-state energy calculation and a narrow optical-bound rounding repair. Earlier state-calculator behavior was retained. The new accounting does not treat the difference between two upper bounds as measured energy release, nor identify a partial internal-energy change with emitted heat.
+
+Full local verification passed **1,824 tests plus1,815 subtests**. Independent exact-arithmetic and adversarial reviews passed. Hosted CI remains a separate unresolved gate; PR #29 stays unmerged and private main is unchanged.
+
+Credit Allan H. Harvey, Adele P. Peskin and Sanford A. Klein, [NIST/ASME2008 Users' Guide](https://www.nist.gov/system/files/documents/srd/steam-manual-222.pdf), and [NASA Glenn](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/specific-heats-cp-and-cv-1/) for conventional thermodynamic definitions. Source review also credited Franklin B. Mead Jr., Jack Nachamkin, Jean-Luc Bourgade, Michel Le Guen and Alain Saleres. Detailed claim/family findings and unresolved national-status caveats remain private; no verified exotic source or freedom-to-operate conclusion emerged.
+
+Next measurable gate: independently justified matched-material and spatial endpoint bounds, followed by blinded thermal energy-balance validation. Software bounds do not replace these missing measurements. No hardware operation, physical propulsion, gravity control, flight or FTL is established.
