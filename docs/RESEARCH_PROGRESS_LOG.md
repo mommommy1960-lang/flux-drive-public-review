@@ -2424,3 +2424,10 @@ Five tests were appended; production code was unchanged. Six distinct bounded wo
 Primary-source credit: Kenneth R. Shoulders, [US5123039A](https://patents.google.com/patent/US5123039A/en); Richard B. Loucks and Larry G. Ferguson, [US5823043A](https://patents.google.com/patent/US5823043). Neither screen established a working engine or supplied measured project parameters. Current legal rights and freedom to operate remain unverified; status labels alone do not decide them.
 
 Next measurable gate: traceable, jointly valid input/state/timing bounds with sensor-response and model-discrepancy coverage. No hardware operation, net-energy source, gravity effect, flight or FTL was demonstrated. Research remains unmerged; private main was not changed.
+
+
+### 2026-10-15 — Carry-forward forcing review
+
+A subsequent bounded analytic check distinguished pointwise power bounds from average-power substitution: the former preserves the conditional result, while the latter can falsely certify it. No production code or additional test implementation changed; exact synthetic arithmetic was checked independently. The next numerical gate is explicit regression coverage for this distinction, with measured time-resolved inputs still missing. Detailed unpublished mathematics remains private.
+
+Latest documentation-only research head: hosted [Flux validation](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38801855517) reported failure without reported job steps or assigned runner ID at inspection. No hosted pass or cause is claimed. The earlier 101-job receipt above concerns its preceding calculation head, not this follow-up commit.
