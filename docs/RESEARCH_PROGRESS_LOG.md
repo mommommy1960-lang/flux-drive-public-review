@@ -2391,3 +2391,14 @@ Source review credits **Stefan Juchnowycz**, **Hiromichi Watanabe and Tetsuya Ba
 Next measurable gate: independently justified absolute energy-scale information, material/path and spatial uncertainty, followed by blinded held-out thermal energy-balance recovery. Matching a trace or closing a supplied-input numerical ledger does not replace these measurements. Existing optical, cavity/control and photon/nonphoton gates remain open. No hardware operation, propulsion, gravity control, flight or FTL result is established.
 
 Hosted-status addendum, 2026-10-15: the exact research-head workflows both reported failure. The job snapshot contained no executed steps or assigned runners; the cause is unverified. Local passing tests do not establish hosted validation. This supersedes “pending exact-head inspection” in this entry, without changing the research result.
+
+
+## 2026-10-15 — paired-rate calibration assumptions and window bias
+
+Six bounded reviews completed a conditional thermal calculation and a reproducible negative test: averaging temperature changes over a time window can bias an inferred capacity even when both model cases start at the same temperature. Independently bounded deposited energy, changing losses and rate/state uncertainty remain necessary. Shorter windows alone do not certify a physical uncertainty bound.
+
+Five tests were added to an existing test file; production calculations were unchanged and no calibration API or physical admission was added. Full local verification passed **1,841 tests plus1,920 subtests**. Detailed equations, synthetic parameters, limitations and review evidence remain private.
+
+Credit **S. Pilla, J. A. Hamida and N. S. Sullivan**, [2000 dual-slope calorimetry paper](https://arxiv.org/abs/cond-mat/0003086), for the published conventional antecedent; the project's contribution is assumption-explicit analysis and regression evidence, not invention of that method. Patent review separately credits **Claude Désiré Maurice Delayen**, and **Eberhard Gmelin, Karl Ripka and Susanne Lederer**. Detailed claims/family analysis remains private; official current-rights retrieval was incomplete and no freedom-to-operate or verified exotic-source conclusion follows.
+
+Next measurable gate: independently justified same-state rate, deposited-power and changing-loss coverage, followed by blinded held-out thermal energy-balance recovery. Optical, photon/nonphoton and cavity/control gates remain separate. Exact-head hosted workflows reported failure, with no executed steps or assigned runners in the inspected job snapshot; the cause remains unverified. Local tests are not hosted validation. PR29 remains unmerged and private main untouched. No hardware operation, physical propulsion, gravity control, flight or FTL result is established.
