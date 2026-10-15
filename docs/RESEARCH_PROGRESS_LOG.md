@@ -2272,3 +2272,18 @@ The review did not locate complete uncertainty or independently traceable held-o
 Other bounded source tracks returned family duplicates or rejected unverified field claims. Storage/cavity reviews found no new arithmetic defect and preserved all physical-truth limitations. Another synthetic authentication wrapper was deferred because real source, authority and physical mapping evidence are missing.
 
 Next measurable gate remains traceable common-run optical absorption/emission inventories, authenticated exact-start storage/source correspondence, independent nonphoton bounds and blinded dynamically calibrated controls. PR#29 remains open, unmerged and conflict-marked; private main is unchanged. Hosted validation remains unresolved; exact-head evidence is recorded with the private review. No hardware operation, anomalous momentum, gravity control, propulsion, flight or FTL is established.
+
+
+## 2026-10-15 — exact residual-heat repair and conservation-conditioned photon bound
+
+A numerical serialization defect in the private optical-to-thermal adapter was reproduced and repaired. A declared residual-energy upper could be changed when converted to a decimal string. The corrected handoff preserves the exact supplied value. The aggregate fallback ceiling was not shown to be unsafe; no global recoil under-bound or measured anomaly is claimed. The failing baseline regressions remain in the private record.
+
+A separate conventional calculation now uses the complete supplied energy balance across time bins to tighten an additional photon-only energy and recoil enclosure. Legacy nominal outputs are preserved. The refinement assumes a complete ledger and common state-energy reference; it does not infer moving-body kinetic closure, physical completeness, instrument authentication or nonphoton momentum. It is synthetic conditional arithmetic, not a measured recoil reduction.
+
+Independent review verified exact decimal roundtrips and thousands of generated energy/momentum trajectories. The exact119-file repository suite passed **1,752 tests plus1,426 subtests**. [Private calculation, repair and evidence checkpoint](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/ee6365971ec92b64b54dc165d144d8bb15950f29).
+
+Primary source credit: [CN116698274B](https://patents.google.com/patent/CN116698274B/en), inventors **杨双龙, 徐成亮, 胡泽志, 邵春莉, 余成江, 黄云志 and 徐科军**, displayed assignee **Hefei University of Technology**; priority/filing June2,2023; [A publication](https://patents.google.com/patent/CN116698274A/en) September5,2023; B grant February24,2026. Its conventional dynamic-calibration noise reduction relies on excitation/noise assumptions. Orthogonal direction labels alone do not establish actual spectral conditioning or ensure that correlated errors average away. No independently traceable held-out pulse validation was located. Displayed active status/family data remain unverified in the official national register; no freedom-to-operate inference follows.
+
+Conventional thermal-radiation context: [Viktor T. Toth and Slava G. Turyshev,2009](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.79.043011). Their work is not Flux validation. Other bounded shell/negative-energy/field-source tracks yielded duplicates or rejected unvalidated claims; no physical source was established.
+
+Next measurable gate: traceable common-run absorbed/emitted energy and endpoint-state bounds, disjoint photon/nonphoton accounting, authenticated exact-start storage/source correspondence and independently calibrated blinded pulses. PR#29 remains open, unmerged and conflict-marked; private main is unchanged. Hosted validation remains unresolved. No hardware, anomalous momentum, gravity control, propulsion, flight or FTL is established.
