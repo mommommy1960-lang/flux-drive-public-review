@@ -2378,3 +2378,14 @@ The full local inventory passed **1,831 tests plus1,884 subtests**. Independent 
 Credit Paul A. Williams, Joshua A. Hadler, Robert Lee, Frank C. Maring and John H. Lehman for published radiation-pressure metrology, and Anna Vaskuri and colleagues for independent traceability/uncertainty context. New patent review credited Ian Christopher Hamilton; a separate metrology candidate remains incomplete because primary-record/family verification failed. No verified exotic source or freedom-to-operate conclusion emerged.
 
 Next measurable gate: calibrated common-run optical/thermal energy, angular bounds and complete photon/nonphoton accounting, followed by blinded pulse validation. Both progress records retain earlier history. PR #29 remains unmerged, private main untouched, and hosted validation unresolved. No hardware operation, propulsion, flight or FTL result is established.
+
+
+## 2026-10-15 — temperature-only energy-scale limitation
+
+Six bounded reviews added a reproducible conventional-model counterexample: matching a cooling-temperature trajectory need not identify a unique absolute energy total. This makes an earlier qualitative warning quantitative; it is not a new energy source or physical measurement. Only existing-model regression tests were added; production calculations were unchanged. Detailed assumptions, finite-domain limitations and controls remain private.
+
+The full local inventory passed **1,836 tests plus1,903 subtests**. Independent mathematical and adversarial reviews passed. Hosted CI remains a separate gate, pending exact-head inspection. PR #29 stays unmerged and private main is untouched.
+
+Source review credits **Stefan Juchnowycz**, **Hiromichi Watanabe and Tetsuya Baba**, and **James J. Condon and Scott M. Ransom**, [NRAO Essential Radio Astronomy, chapter3](https://www.cv.nrao.edu/~sransom/web/Ch3.html). Detailed patent/family analysis remains private. Official national-status retrieval was incomplete; no freedom-to-operate or verified exotic-source conclusion follows.
+
+Next measurable gate: independently justified absolute energy-scale information, material/path and spatial uncertainty, followed by blinded held-out thermal energy-balance recovery. Matching a trace or closing a supplied-input numerical ledger does not replace these measurements. Existing optical, cavity/control and photon/nonphoton gates remain open. No hardware operation, propulsion, gravity control, flight or FTL result is established.
