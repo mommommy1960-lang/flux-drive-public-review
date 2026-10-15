@@ -2212,3 +2212,18 @@ No new shell/warp, negative-energy/Casimir, field-source, or gravity-generation 
 ## October 14, 2026 — Hosted verification status
 
 Hosted verification failed; diagnostics remain unavailable. No new physics result or hardware capability is established.
+
+
+## 2026-10-15 — tighter conditional photon enclosure and verification corrections
+
+The private conventional-physics calculation now keeps resolved photon directions separate from unresolved direction-free emission when enclosing total photon recoil. This avoids avoidable geometric inflation while preserving all earlier component and energy bounds. It is a tighter synthetic mathematical upper bound, not a measured recoil reduction, authenticated observation, nonphoton impulse bound or global momentum closure.
+
+Independent review also reproduced and repaired Boolean timestamp acceptance and cross-record optical receipt/evidence aliasing. Focused tests passed **76 tests plus 33 subtests**. After restoring missing local repository files and verifying exact remote Python-file hashes, the explicit authoritative set of118 repository test files passed **1,722 tests plus 754 subtests**. Earlier smaller collection totals must not be treated as proof of complete exact-head coverage.
+
+The previous empty workflow-run query was limited to pull-request events. An all-event query located a failed push-triggered run for the same earlier head, with no recorded execution steps or runner assignment. Logs were unavailable and diagnostic annotations could not be retrieved through the permitted interface. Hosted verification is not passed, and its cause remains unestablished. Future receipts distinguish workflow events, check-runs and legacy status contexts. No account, workflow or billing settings were changed.
+
+Source screen: **Ian Clague's** [US20240429839A1](https://patents.google.com/patent/US20240429839A1/en), published2024-12-26, alleges power from trapped antimatter driving a flywheel and dependent negative-weight/positron claims. It was rejected as a verified Flux source: no calibrated device-output dataset, complete energy budget or independent replication was located. [WO2023021459A2](https://patents.google.com/patent/WO2023021459A2/en) and [EP4388651A2](https://patents.google.com/patent/EP4388651A2/en) illustrate the family-status trap: displayed US abandonment and PCT cessation coexist with pending European/British labels. Authoritative current rights remain unverified; no freedom-to-operate inference follows.
+
+The [ALPHA collaboration's2023 primary experiment](https://www.nature.com/articles/s41586-023-06527-1) observed attractive gravity for neutral antihydrogen; it is not an isolated-positron gravity test. A credible alternative claim still requires independent force-sign evidence, controlled complete-cycle energy/momentum accounting, blinded shams and replication. Other bounded patent tracks returned duplicates or no qualifying new source. No hazardous hardware action was performed or authorized.
+
+Next evidence gate: traceable common-run photon inventories with an explicit overlap policy, independently bounded nonphoton effects, authenticated source ancestry and qualified blinded force controls. No negative energy, gravity control, propulsion, flight or FTL result is established.
