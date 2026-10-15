@@ -2227,3 +2227,18 @@ Source screen: **Ian Clague's** [US20240429839A1](https://patents.google.com/pat
 The [ALPHA collaboration's2023 primary experiment](https://www.nature.com/articles/s41586-023-06527-1) observed attractive gravity for neutral antihydrogen; it is not an isolated-positron gravity test. A credible alternative claim still requires independent force-sign evidence, controlled complete-cycle energy/momentum accounting, blinded shams and replication. Other bounded patent tracks returned duplicates or no qualifying new source. No hazardous hardware action was performed or authorized.
 
 Next evidence gate: traceable common-run photon inventories with an explicit overlap policy, independently bounded nonphoton effects, authenticated source ancestry and qualified blinded force controls. No negative energy, gravity control, propulsion, flight or FTL result is established.
+
+
+## 2026-10-15 — conditional cavity source recomputation and dynamic calibration reference
+
+The private research branch added a restricted software gate that recomputes controller import and initial-storage bounds from upstream inputs instead of accepting loose output totals. Cavity transfers and terminal storage are not added again. Existing incompatible inputs remain rejected; a separate low-load synthetic fixture exercises the conditional success path.
+
+Controller signatures verify statements only. Storage and cavity declarations remain unsigned; physical source assignment, configuration/boundary correspondence, bound truth and energy closure remain unverified. This is neither a measured energy result nor a demonstrated propulsion source.
+
+The first draft exposed reference-sensitive code fingerprinting and two cross-ledger digest-alias paths. Both were reproduced, repaired and preserved in the private failure record. Final independent review rejected 270 namespace/module attacks and repeated the nominal case 25 times. The focused/dependency set passed **62 tests plus 33 subtests**; the exact intended 119-file repository test set passed **1,737 tests plus 770 subtests**. These are software tests, not physical experiments.
+
+Conventional calibration reference: [CN115655724B](https://patents.google.com/patent/CN115655724B/en), credited to **薛原, 宋子军, 赵涌, 刘盾盾, 袁世辉 and 张志宏**, with **AECC Sichuan Gas Turbine Research Institute** displayed as assignee. Priority/filing is August 31, 2022; [A publication](https://patents.google.com/patent/CN115655724A/zh) January 31, 2023; B grant March 17, 2026. It concerns programmable dynamic thrust calibration of an aeroengine testbench, not a new force source. Displayed active status and one-country family data require official confirmation and establish no freedom to operate; classification was unresolved in the retrieved records.
+
+No micro/nanoforce sensitivity result or complete uncertainty budget was located. The useful review question is whether a force experiment's pulse response, phase, preload and coupled apparatus effects have been independently calibrated, including blinded held-out recovery and reversals. No patent hardware was implemented.
+
+Other source tracks returned previously screened records or no qualified new source. Traceable common-run optical/thermal inventories, independently bounded nonphoton effects and authenticated storage/source ancestry remain open. No hazardous hardware operation, anomalous energy/momentum, gravity control, propulsion, flight or FTL result is established.
