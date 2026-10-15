@@ -2257,3 +2257,18 @@ The review identified no demonstrated dynamic-impulse uncertainty or pulse-bandw
 Other bounded patent tracks produced duplicates or no qualifying source. Prior classification/register-access gaps remain unresolved and were not bypassed. Next measurable gate: traceable common-run photon inventories and angular bounds, authenticated source/storage evidence, independently bounded nonphoton effects, and blinded dynamically calibrated six-axis controls.
 
 PR#29 remains open, unmerged and conflict-marked; private main was not modified. Hosted validation remains unresolved pending the new exact-head receipt. No hardware operation, anomalous momentum, negative energy, gravity control, propulsion, flight or FTL result is established.
+
+
+## 2026-10-15 — optical provenance-role repair and dynamic cross-axis calibration reference
+
+The private research branch repaired an input-integrity defect that let optical bound artifacts masquerade as evidence, physical-basis or uncertainty identifiers. The exact baseline admitted165 of300 reviewed alias cases; the repaired gate rejects all300 after receipt rebinding. Accepted synthetic outputs are unchanged. No new capture, force or physical-performance result is claimed.
+
+Two independent reviews released the narrow two-file repair. The exact119-file repository inventory passed **1,742 tests plus1,083 subtests**. Earlier acceptance failures remain in the private record. [Private implementation and evidence checkpoint](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/0652e7e9ce52c1f681307595ee62b98fba0c674f).
+
+New conventional metrology source: [CN112857667B](https://patents.google.com/patent/CN112857667B/en), credited to **杨双龙, 王俊翔, 任杰, 邵春莉, 徐成亮, 黄园民, 徐科军, 黄志云 and 郁明**, displayed assignee **Hefei University of Technology**. Priority/filing March15,2021; [A publication](https://patents.google.com/patent/CN112857667A/en) May28,2021; B grant October14,2022. Displayed classification G01L25/00. This source addresses dynamic six-axis response and cross-axis coupling, beyond static correction alone. Its active label and single-country family data require official confirmation; an unavailable register was not bypassed. No freedom-to-operate inference follows.
+
+The review did not locate complete uncertainty or independently traceable held-out pulse validation. The practical evidence question is whether independently measured dynamic inputs predict blinded force/torque pulse recovery under actual mounting and environmental conditions. The publication is calibration prior art, not validation of Flux or an exotic force source.
+
+Other bounded source tracks returned family duplicates or rejected unverified field claims. Storage/cavity reviews found no new arithmetic defect and preserved all physical-truth limitations. Another synthetic authentication wrapper was deferred because real source, authority and physical mapping evidence are missing.
+
+Next measurable gate remains traceable common-run optical absorption/emission inventories, authenticated exact-start storage/source correspondence, independent nonphoton bounds and blinded dynamically calibrated controls. PR#29 remains open, unmerged and conflict-marked; private main is unchanged. Hosted validation remains unresolved; exact-head evidence is recorded with the private review. No hardware operation, anomalous momentum, gravity control, propulsion, flight or FTL is established.
