@@ -2304,3 +2304,22 @@ Primary source credit: [CN115112292B](https://patents.google.com/patent/CN115112
 Official current legal status remains unresolved; displayed patent labels do not establish freedom to operate. Detailed classification, family, negative results and attribution are private. Other source tracks established no new measured shell or negative-energy source.
 
 Next measurable gate: traceable common-run energy and endpoint-state evidence, source/storage correspondence, independent nonphoton bounds and blinded dynamic-force validation. No hardware operation, anomalous force, negative energy, gravity control, propulsion, flight or FTL result is established.
+
+
+## 2026-10-15 — exact thermal-window identity and conditional source-heat comparison
+
+The private branch repaired a timing-integrity defect: ambient decimal precision could change whether a cooling-window endpoint matched its supplied nanosecond timestamps. Exact matching now remains stable across precision settings. Both prior false admission and false rejection cases are preserved privately. This does not authenticate a physical clock.
+
+A separate conditional calculation now uses supplied source-allocation upper bounds rather than sensitivity values alone. It bounds only that declared source contribution under an assumed positive cooling model—not whole-device stored heat or measured cooling. All 85 previous outputs, including physical-energy fallbacks and the original scenario result, remain unchanged. Source attribution, energy reference, coverage and model validity are still unverified.
+
+Independent reviews released the narrow four-file change. The exact 119-file repository test inventory passed **1,771 tests plus 1,476 subtests**. [Private implementation and evidence checkpoint](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/df056ec154df0bdbd28a5d9cd56b5ba8d9c136ac). PR #29 remains unmerged; private main is untouched. Hosted validation remains unresolved pending its exact-head receipt.
+
+Primary source credit:
+
+- [US12523625B2, “Calorimeter”](https://patents.google.com/patent/US12523625B2/en), granted January 13, 2026: **Edgar Meyhofer, Pramod Reddy, David Fork, Ju Won Lim and Amin Reihani**, displayed Michigan Regents/Google LLC. Conventional thermal metrology with reported experiments; not Flux validation.
+- [EP2401746B1](https://patents.google.com/patent/EP2401746B1/en), granted December 16, 2020: **Stephen Burns Kessler**. Screened and rejected as a verified exotic-energy or propulsion source.
+- [WO2020099656A1](https://patents.google.com/patent/WO2020099656A1/en), published May 22, 2020: **José Luis PÉREZ DÍAZ**, displayed OHB Sweden AB. Its reported pendulum experiments do not establish a verified whole-system propulsion result.
+
+Detailed family, classification, claim, status and negative-result records remain private. Official current national legal status is unresolved; labels do not establish freedom to operate. No patent hardware was implemented.
+
+Next measurable gate: independently bounded heat capacity, spatial temperature and energy reference, complete source coverage, and blinded held-out heat-pulse/cooling recovery with an independent energy-balance cross-check. Optical, storage/controller and nonphoton evidence remain required. No hardware operation, anomalous force, negative energy, gravity control, propulsion, flight or FTL is established.
