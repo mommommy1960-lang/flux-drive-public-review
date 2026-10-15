@@ -2287,3 +2287,20 @@ Primary source credit: [CN116698274B](https://patents.google.com/patent/CN116698
 Conventional thermal-radiation context: [Viktor T. Toth and Slava G. Turyshev,2009](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.79.043011). Their work is not Flux validation. Other bounded shell/negative-energy/field-source tracks yielded duplicates or rejected unvalidated claims; no physical source was established.
 
 Next measurable gate: traceable common-run absorbed/emitted energy and endpoint-state bounds, disjoint photon/nonphoton accounting, authenticated exact-start storage/source correspondence and independently calibrated blinded pulses. PR#29 remains open, unmerged and conflict-marked; private main is unchanged. Hosted validation remains unresolved. No hardware, anomalous momentum, gravity control, propulsion, flight or FTL is established.
+
+
+## 2026-10-15 — conditional cooling-tail enclosure and strict record types
+
+The private research branch added an exact-arithmetic upper enclosure for a supplied thermal sensitivity trajectory. Independent proof and numerical reviews released the calculation. It is scenario-only: physical-state fallback bounds remain unchanged, unmodeled energy receives no assumed cooling, and nonphoton momentum remains unbounded by this calculation. Synthetic cooling is not measured cooling.
+
+A separate narrow repair rejects numeric lookalikes in supplied replay counters. It does not add persistent replay protection, authenticate instruments or establish physical truth. Earlier failing regressions are retained privately.
+
+The exact119-file repository inventory passed **1,761 tests plus1,443 subtests**. Independent baseline comparisons preserved all legacy thermal results. [Private implementation and evidence checkpoint](https://github.com/mommommy1960-lang/flux-drive-kernel/commit/fe6471357e66cc8a68e4d76d84d92a3bd5ab4fd7). PR#29 remains open and unmerged; private main was not modified. Hosted validation remains unresolved pending the exact-head receipt.
+
+Primary source credit: [CN115112292B](https://patents.google.com/patent/CN115112292B/en), inventors **杨双龙, 任杰, 余成江, 胡泽志, 黄园民, 徐成亮, 邵春莉 and 徐科军**, displayed assignee Hefei University of Technology; filed June27,2022, granted March5,2024. This conventional support-motion compensation reference is not independent force validation.
+
+[US20100251691A1](https://patents.google.com/patent/US20100251691A1/en), credited to **Randell L. Mills**, published October7,2010, was screened as an unverified force-source claim, not adopted technology. Its reported electron-current experiments do not establish complete-device propulsion.
+
+Official current legal status remains unresolved; displayed patent labels do not establish freedom to operate. Detailed classification, family, negative results and attribution are private. Other source tracks established no new measured shell or negative-energy source.
+
+Next measurable gate: traceable common-run energy and endpoint-state evidence, source/storage correspondence, independent nonphoton bounds and blinded dynamic-force validation. No hardware operation, anomalous force, negative energy, gravity control, propulsion, flight or FTL result is established.
