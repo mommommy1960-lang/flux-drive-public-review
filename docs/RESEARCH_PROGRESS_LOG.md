@@ -2663,3 +2663,16 @@ Next bounded step: test-only coverage of the new mathematical range. Measurable 
 ### 2026-10-16 continuity and readiness note
 
 A plain-language Bruce-to-Bruce handoff now preserves the verified findings, source credit, failures, exact code-checkpoint receipts and unfinished gates. It distinguishes conditional mathematics and passing software tests from physical measurements and hardware readiness. It is not an operating manual or permission to energize equipment. No new physical result, hardware operation, production change or merge occurred; earlier history remains intact.
+
+
+## 2026-10-16 — Bounded exact-range regression and calibration-assumption review
+
+Six distinct workers completed code ownership, integration, independent proof/adversarial review and two primary-source screens. Added four narrowly scoped test-only regressions and supporting rational helpers; all earlier tests/helpers and production code are unchanged. Complete tracked local suite: **1,932 tests plus 2,750 subtests passed**. Independent focused runs and separate exact-arithmetic audits also passed.
+
+The new conditional analysis distinguishes unequal error allowances and independently supported shared-error effects. These assumptions can change a diagnostic's mathematical range, but the calculation does not establish actual instrument bias, timing error, correlation or calibration. Negative/no-gain cases and failures are retained privately. No measured energy, model admission, zero-input proof or causal/propulsion result follows.
+
+Primary-source credit: [GB2624644A](https://patents.google.com/patent/GB2624644A/en), Whelan Thomas; [US10794775B2](https://patents.google.com/patent/US10794775B2/en), Alfred Umkehrer and Pavo Vrdoljak / Endress+Hauser. Complete selected claims reviewed. Classification/family/legal-status caveats and unsuccessful official-record access are preserved privately. No device design, performance or freedom-to-operate conclusion adopted.
+
+Next bounded step: test-only coverage of the new conditional extensions. Measurable gate: independently traceable simultaneous reading/timing limits, independently established shared-error relationships and complete thermal state/loss/input-energy evidence before held-out/blinded recovery. Optical, emitted-momentum and cavity/control inputs remain conditional where data are missing. Hosted validation remains unresolved; exact-head receipts are retained in the private ledger. No workflows/account settings changed.
+
+Both logs preserve earlier history, source credit and corrected failures. PR29 remains open/unmerged/conflicted; private main unchanged. No hardware operated or safety/engine/flight/FTL validation claimed.
