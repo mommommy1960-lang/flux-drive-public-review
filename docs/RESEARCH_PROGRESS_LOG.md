@@ -2475,3 +2475,14 @@ Production code and the preceding41 tests/helpers were preserved. Six distinct w
 Primary-source credit: Eugene B. Pamfiloff, [US9469421B1](https://patents.google.com/patent/US9469421B1/en), a previously citation-only child record, not an unrelated lineage; 陶汝茂、王小林、周朴、马阎星、肖虎、张汉伟、司磊、许晓军、陈金宝、刘泽金, [CN203364962U](https://patents.google.com/patent/CN203364962U/en). The optical monitor does not establish measured project input. Official-register/classification gaps were retained; current rights and freedom to operate remain unverified.
 
 Next measurable gate: independently traced joint deposited-energy accounting, actual timing/state coverage and blinded heat recovery. No source, gravity-control, hardware, flight or FTL result; PR29 remains unmerged and private main unchanged.
+
+
+## 2026-10-15 — Credited-energy fractions without duplicate lower bounds
+
+Completed the pending conditional energy-fraction regression gate. Four new tests preserve a genuine deposited-energy relationship and prevent adding two bounds on the same response as if they represented separate energy. A further bounded analytic result shows how retaining that relationship can tighten both sides of the energy accounting; its explicit regression coverage is next. Unpublished mathematics stays private. No measured energy fraction, capacity or physical admission follows.
+
+Six distinct workers supplied implementation, integration, independent proof/adversarial review and primary-source screening. Production and the preceding46 tests/helpers were preserved. Full explicit120-file local verification passed1,872 tests plus2,225 subtests; focused50 plus346. Exact published-head hosted [Flux](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38832859143) and [Portfolio](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38832858989) runs reported failure. All101 job records were inspected:97failed/4queued,zero recorded steps or assigned runner IDs. Run/job inconsistency is retained; no hosted pass or cause is inferred.
+
+Primary-source credit: Landon Henson, Mark Wilenski and James Russell, [US11453515B2](https://patents.google.com/patent/US11453515B2/en); Christopher Shing-Yu Yung, Nathan Andrew Tomlin, Cameron Joseph Edgar Straatsma and David Murray Harber, [US20250102364A1](https://patents.google.com/patent/US20250102364A1/en). All four patent inventors are credited rather than treating NIST's three staff entries as complete inventorship. No verified new physical source or measured project parameter emerged. Official-register limits remain; no rights or freedom-to-operate conclusion.
+
+Next measurable gate: independently traced joint actual deposited energy and timing/state coverage, followed by blinded heat recovery. Detailed private evidence and earlier null results are retained. No hardware operation, engine, flight orFTL validation; PR29 remains unmerged and private main unchanged.
