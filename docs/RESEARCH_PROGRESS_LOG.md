@@ -2658,3 +2658,8 @@ Primary-source credit: [US5685196A](https://patents.google.com/patent/US5685196A
 Hosted research-head snapshot: **59 failed /42 queued jobs**, 101 total, no recorded steps or assigned runner IDs. Not a hosted pass, final outcome or diagnosed cause; no workflow/account changes.
 
 Next bounded step: test-only coverage of the new mathematical range. Measurable gate remains independently traceable timing/reading uncertainty, physical error correlations and complete thermal state, loss and input-energy evidence. Optical capture, emitted-momentum and cavity/control costs remain conditional where measurements are absent. Both logs preserve earlier history and negative results. PR29 open/unmerged/conflicted; private main unchanged. No physical hardware operated.
+
+
+### 2026-10-16 continuity and readiness note
+
+A plain-language Bruce-to-Bruce handoff now preserves the verified findings, source credit, failures, exact code-checkpoint receipts and unfinished gates. It distinguishes conditional mathematics and passing software tests from physical measurements and hardware readiness. It is not an operating manual or permission to energize equipment. No new physical result, hardware operation, production change or merge occurred; earlier history remains intact.
