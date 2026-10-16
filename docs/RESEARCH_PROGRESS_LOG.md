@@ -2486,3 +2486,14 @@ Six distinct workers supplied implementation, integration, independent proof/adv
 Primary-source credit: Landon Henson, Mark Wilenski and James Russell, [US11453515B2](https://patents.google.com/patent/US11453515B2/en); Christopher Shing-Yu Yung, Nathan Andrew Tomlin, Cameron Joseph Edgar Straatsma and David Murray Harber, [US20250102364A1](https://patents.google.com/patent/US20250102364A1/en). All four patent inventors are credited rather than treating NIST's three staff entries as complete inventorship. No verified new physical source or measured project parameter emerged. Official-register limits remain; no rights or freedom-to-operate conclusion.
 
 Next measurable gate: independently traced joint actual deposited energy and timing/state coverage, followed by blinded heat recovery. Detailed private evidence and earlier null results are retained. No hardware operation, engine, flight orFTL validation; PR29 remains unmerged and private main unchanged.
+
+
+## 2026-10-15 — Rational accounting tests and fraction-bound limits
+
+Completed the pending sharper energy-accounting regression gate with four tests. Independent rational oracles include fractional allocations that integer-only tests can miss. A further bounded analytic result shows how an independently justified upper credited-energy fraction and missing-input ceiling can constrain the total; regression coverage for that result is next. Exactness concerns the stated accounting relaxation, not attainable thermal endpoints, measured coverage or identified capacity. Detailed unpublished mathematics remains private.
+
+Six distinct workers supplied implementation, integration, proof/adversarial review and primary-source screening. Prior50 tests/helpers and production were preserved. Full explicit120-file local verification passed1,876 tests plus2,281 subtests; focused54 plus402. Exact published-head hosted [Flux](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38838675691) and [Portfolio](https://github.com/mommommy1960-lang/flux-drive-kernel/actions/runs/38838675768) runs reported failure. All101 job records were inspected:96failed/5queued,zero recorded steps or assigned runner IDs. Run/job inconsistency is retained; no hosted pass or cause is inferred.
+
+Primary-source credit: John Below, [US7446636B1](https://patents.google.com/patent/US7446636B1/en); Jinxin Fu, Yangyang Sun, Kazuya Daito and Ludovic Godet, [US12379280B2](https://patents.google.com/patent/US12379280B2/en). Conflicting displayed status/expiration metadata and official-register limits remain unresolved. No freedom-to-operate conclusion or verified new physical source follows.
+
+Next measurable gate remains independently traced joint deposited energy/fraction, actual timing/state coverage and blinded heat recovery. Both logs retain prior failures and credits. No hardware operation, engine, gravity-control, flight orFTL validation. PR29 remains unmerged; private main unchanged.
