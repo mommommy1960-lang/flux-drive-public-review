@@ -2645,3 +2645,16 @@ Primary-source credit: [WO2019175904A2](https://patents.google.com/patent/WO2019
 Hosted snapshot for the research change: **74 failed and 27 queued jobs**, 101 total, no recorded job steps or assigned runner IDs. This is not a hosted pass or a diagnosed cause; no workflow/account settings changed.
 
 Next bounded step: test-only coverage of the new uncertainty enclosure. Measurable gate: independently traceable reading/timing uncertainty and complete state, input, loss and energy accounting. Optical, thermal/emitted-momentum and cavity/control inputs remain conditional where measurements are absent. Research PR remains open, unmerged and conflicted; private main unchanged. No hardware operated.
+
+
+## 2026-10-16 — Bounded heterogeneous-error regression and diagnostic-range checkpoint
+
+Six distinct workers completed code ownership, integration, independent proof/adversarial review and two primary-source screens. Four narrowly scoped test-only regressions were added; earlier tests/helpers and production code are unchanged. Complete tracked local suite: **1,928 tests plus 2,724 subtests passed**. Independent focused runs also passed.
+
+A new conditional mathematical review removes avoidable slack in the diagnostic's uncertainty range for a supplied error set. Exactness applies to that assumed mathematical set, not necessarily to correlated physical errors or actual instrument uncertainty. No-gain controls, counterexamples, assumptions and failed routes are retained privately. This is not measured performance, model admission, causal attribution or proof of zero input.
+
+Primary-source credit: [US5685196A](https://patents.google.com/patent/US5685196A/en), Richard E. Foster, Sr.; [EP3355626B1](https://patents.google.com/patent/EP3355626B1/en), Kay Hesse / Shenzhen Goodix Technology Co Ltd. Complete selected claims reviewed; classification, family and jurisdiction-specific legal caveats preserved privately. Official-register access did not resolve current rights. No design or claimed performance adopted; patents do not establish working propulsion, FTL or freedom to operate.
+
+Hosted research-head snapshot: **59 failed /42 queued jobs**, 101 total, no recorded steps or assigned runner IDs. Not a hosted pass, final outcome or diagnosed cause; no workflow/account changes.
+
+Next bounded step: test-only coverage of the new mathematical range. Measurable gate remains independently traceable timing/reading uncertainty, physical error correlations and complete thermal state, loss and input-energy evidence. Optical capture, emitted-momentum and cavity/control costs remain conditional where measurements are absent. Both logs preserve earlier history and negative results. PR29 open/unmerged/conflicted; private main unchanged. No physical hardware operated.
