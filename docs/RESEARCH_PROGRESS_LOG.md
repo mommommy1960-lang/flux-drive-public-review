@@ -2632,3 +2632,16 @@ Exact published-head hosted [Flux](https://github.com/mommommy1960-lang/flux-dri
 Primary-source credit: 苏国进 (Su Guojin), [CN111022609A](https://patents.google.com/patent/CN111022609A/en); Timothy J. Chainer, Pritish R. Parida and Mark D. Schultz / IBM, [US9534967B2](https://patents.google.com/patent/US9534967B2/en). Conflicting indexed status labels, fee-lapse/continuation distinctions, classification provenance and unavailable official records are retained privately. No source performance or implementation adopted. A lapsed label does not clear a related active claim or establish freedom to operate; patents do not establish propulsion validation.
 
 Next numerical gate: bounded interior-maximum, clipping, degenerate and no-uniform-gain regression controls. Next measurable gate: independently justified parameter/reading/time bounds, valid response window, baseline/loss/state and complete input-energy evidence, followed by held-out thermal response and blinded known-heat recovery. Both logs preserve history, negative results and credit. No hardware operation, gravity-control, engine, flight or FTL validation. PR29 remains unmerged; private main unchanged.
+
+
+## 2026-10-16 — Bounded regression and uncertainty-review checkpoint
+
+Six independent workers completed code ownership, integration, mathematical/adversarial review and two primary-source screens. Added four narrowly scoped test-only regressions; prior tests and production code are unchanged. The complete tracked suite passed locally: **1,924 tests plus 2,618 subtests**. Independent focused runs also passed.
+
+A conditional uncertainty review found that retaining separately supported reading-error budgets can improve a conservative diagnostic enclosure. No universal improvement or exact uncertainty range is claimed. Negative/no-gain cases and limitations are preserved in the private evidence record. This is conventional mathematical sensitivity work, not measured performance, model admission, causal attribution or proof of zero input.
+
+Primary-source credit: [WO2019175904A2](https://patents.google.com/patent/WO2019175904A2/en), Seyed Mostafa Ahmadi; [EP3583393B1](https://patents.google.com/patent/EP3583393B1/en), Jaak Suurkuusk / Soojus AB. Complete selected claims reviewed; official-register access limitations, classification provenance and jurisdiction-specific status caveats retained privately. No patent establishes a working engine, FTL or freedom to operate.
+
+Hosted snapshot for the research change: **74 failed and 27 queued jobs**, 101 total, no recorded job steps or assigned runner IDs. This is not a hosted pass or a diagnosed cause; no workflow/account settings changed.
+
+Next bounded step: test-only coverage of the new uncertainty enclosure. Measurable gate: independently traceable reading/timing uncertainty and complete state, input, loss and energy accounting. Optical, thermal/emitted-momentum and cavity/control inputs remain conditional where measurements are absent. Research PR remains open, unmerged and conflicted; private main unchanged. No hardware operated.
