@@ -44,3 +44,8 @@ This public page deliberately contains no materials list, geometry, sensor layou
 We are investigating geometry and quantum sources jointly, while treating astrophysical energy delivery as a separate subsystem. We welcome critical written findings, limitations and primary-literature references: [open technical review request](https://github.com/mommommy1960-lang/flux-drive-public-review/issues/5).
 
 See the [dated progress record](docs/RESEARCH_PROGRESS_LOG.md) and [research summary draft](https://github.com/mommommy1960-lang/flux-drive-public-review/pull/4). These are literature review and bounded calculations, not a demonstrated warp engine, instantaneous transport or validated hardware. Detailed unpublished evidence remains in the private repository for authorized collaborators.
+
+
+## Mutual collaboration boundaries
+
+Before protected exchange or shared work, read our [collaboration boundaries](https://github.com/mommommy1960-lang/commons-sentience-sandbox/blob/main/docs/continuity/PUBLIC_COLLABORATION_BOUNDARIES.md). Both parties retain their existing rights; scope, confidentiality, contributions, access and exit must be agreed for the actual engagement. Existing licenses and lawful reporting rights remain unaffected. This operating notice is not an executed contract.
