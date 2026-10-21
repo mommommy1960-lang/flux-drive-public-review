@@ -2676,3 +2676,10 @@ Primary-source credit: [GB2624644A](https://patents.google.com/patent/GB2624644A
 Next bounded step: test-only coverage of the new conditional extensions. Measurable gate: independently traceable simultaneous reading/timing limits, independently established shared-error relationships and complete thermal state/loss/input-energy evidence before held-out/blinded recovery. Optical, emitted-momentum and cavity/control inputs remain conditional where data are missing. Hosted validation remains unresolved; exact-head receipts are retained in the private ledger. No workflows/account settings changed.
 
 Both logs preserve earlier history, source credit and corrected failures. PR29 remains open/unmerged/conflicted; private main unchanged. No hardware operated or safety/engine/flight/FTL validation claimed.
+
+
+## 2026-10-21 — Conditional probe mission budget screen
+
+Executed a bounded conventional sublight mission screen following an AI-assisted literature discussion. Considered acceleration, remote delivery losses, thermal/mass bookkeeping and arrival braking. The selected configuration failed its declared power, journey-time and arrival requirements. This is useful negative evidence for that configuration, not a physical impossibility theorem or validated spacecraft. Eight local software test methods passed; they verify conditional arithmetic and numerical behavior, not the hardware assumptions. No full repository suite, hosted CI, independent review or hardware test claimed. No FTL, flight or gateway demonstrated.
+
+Technical implementation, selected parameters and detailed results remain in private research records for review. Prior records are preserved. Primary-source credit: NASA's pellet-beam study; Perakis and Hein (https://arxiv.org/abs/1603.03015); Gros (https://arxiv.org/abs/1707.02801); Heller and Hippke (https://arxiv.org/abs/1701.08803); Forgan, Heller and Hippke (https://arxiv.org/abs/1711.05856). The stellar sail/field papers are comparison literature, not mechanisms validated by this calculation. Project contribution is a declared budget screen and preservation of failed requirements; no novel propulsion result claimed.
