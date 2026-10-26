@@ -2932,3 +2932,16 @@ No experiment, FTL, working extraction engine, independent replication, or paten
 **Patent record correction:** the USPTO provides public patent-search interfaces, but case-specific official transaction histories were not retrieved in this review. Indexed abandonment labels remain unverified leads, not legal-status findings or clearance.
 
 **Our contribution:** implemented a reproducible numerical screen and recorded its limitations, source links, and next falsification gates. External Kerr-geodesic and metrology methods remain credited to their authors. No physical experiment, FTL, working extraction engine, patent clearance, or independent replication is claimed.
+
+
+### 2026-10-26 - FLUX-KERR-41 source-family and measurement-budget review
+
+A bounded Kerr kinematic screen varied the incoming parent's angular momentum in the already documented local source model. It showed that local collision geometry changes substantially with the parent trajectory, so the previous selected-ray result cannot be generalized to the wider source family without a new full four-momentum and geodesic-fate calculation. The missing production evidence and whole-system energy accounting remain blockers; no practical extraction or event-rate claim is made.
+
+A separate illustrative uncertainty allocation was added to the existing measurement feasibility screen. It is a hypothetical design-budget calculation, not a measurement or validated specification. CAL-00 remains blocked pending calibrated known-signal recovery, null stability, reversal, sham controls, blind analysis, raw-data integrity, and independent reaction closure.
+
+The patent-family review found that an indexed abandoned beam-monitor application has multiple related granted U.S. members, while an indexed gravitational-wave-imaging application points to earlier granted family members. The indexed legal events are not authenticated official status findings. Official file histories and current enforceability remain unresolved; no patent clearance or freedom-to-operate conclusion is made.
+
+Our contribution was to perform and archive a reproducible kinematic screen, clarify the next falsification gates, and update the family-level patent leads. External Kerr-geodesic theory and metrology methods remain credited to their authors. Detailed unpublished calculations remain in the private research record. No physical experiment, FTL, working extraction engine, independent replication, or patent clearance is claimed.
+
+Sources: Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; Ogasawara & Igata (2021), https://doi.org/10.1103/PhysRevD.103.044029 ; NIST SP 1065, https://doi.org/10.6028/NIST.SP.1065 ; USPTO Patent Public Search Basic, https://ppubs.uspto.gov/basic/ . Detailed patent publication and family links are in the private report.
