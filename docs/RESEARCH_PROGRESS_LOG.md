@@ -2832,3 +2832,10 @@ The measurement lane remains blocked pending real calibration data and systemati
 **Corrections and sources:** Kurbatov et al. (2008), https://doi.org/10.1016/j.physletb.2008.01.051 ; Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; NIST SP 1065, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO MPEP §2701, https://www.uspto.gov/web/offices/pac/mpep/s2701.html .
 
 **Next gate:** improve the trajectory classifier with a validated faster root/bound method, seek matched non-forward production-amplitude evidence, keep CAL-00 blocked pending real calibration, and obtain official patent case histories. No experiment, FTL, hardware purchase, external commitment, or protected-branch merge is claimed.
+
+
+### 2026-10-26 — FLUX-KERR-30 evidence and correction checkpoint
+
+A new private calculation note records an analytic positivity proof for two declared incoming Kerr geodesics and independently checks the local collision invariant against the neutral-pion threshold. It also corrects the prior one-year noise-budget label: 1.7801e-16 rad/s corresponds to ten sigma, while the five-sigma threshold under the same ideal white-noise assumptions is 8.9006e-17 rad/s. The modeled rotor signal remains about 1.87 billion times below that five-sigma threshold; CAL-00 remains NO-GO without actual calibration and systematic-control evidence.
+
+A separate patent-method correction records that three of the four historical grants had ordinary 17-year terms ending before June 8, 1995 and should not be assigned a later transition-rule date. US4255969A's later term screen remains conditional on the family chain and official records. Individual official Patent Center histories were not accessible in this run. No legal clearance, physical experiment, propulsion, FTL, or hardware result is claimed. Details and reproducible script are preserved in the private research record.
