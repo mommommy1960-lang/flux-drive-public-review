@@ -2908,3 +2908,16 @@ Sources:
 - USPTO Open Data Portal access documentation: https://data.uspto.gov/apis/bulk-data/search
 
 Detailed calculations remain in the private research record. No physical experiment, FTL, working extraction engine, patent clearance, or independent replication is claimed.
+
+
+### 2026-10-26 - FLUX-KERR-39 theoretical energy ceiling and evidence gates
+
+A Kerr irreducible-mass calculation established a conditional ideal reversible spin-down upper bound for the project's declared dimensionless spin. This is a theoretical reservoir limit, not a practical extraction rate or proof that the existing modeled interaction produces net outside energy. The event energy ledgers still show net energy deposited into the black hole.
+
+A comparison with the published Gravity Probe B frame-dragging result provides scale context for the hypothetical laboratory signal, but the orbital measurement is not an apples-to-apples bench sensitivity test. No physical rotor or Flux sensor measurement was performed; CAL-00 remains blocked pending calibration, uncertainty, controls, and reaction closure.
+
+A new attempt to inspect four patent-application leads in official USPTO records was blocked because the official file-wrapper access was unavailable to this retrieval session and the Open Data Portal requires authentication/API access. Secondary-index abandonment labels remain unverified; no patent clearance or freedom-to-operate conclusion is made.
+
+Primary sources and detailed reproducible calculations are recorded in the private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-39-spin-reservoir-gpb-frame-dragging-patent-status-attempt-2026-10-26-1356-PDT.md
+Sources: Christodoulou & Ruffini (1971), https://doi.org/10.1103/PhysRevD.4.3552 ; Everitt et al. (2011), https://doi.org/10.1103/PhysRevLett.106.221101 ; NIST SP 1065, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO MPEP §2701, https://www.uspto.gov/web/offices/pac/mpep/s2701.html .
+No experiment, FTL, working extraction engine, independent replication, or patent clearance is claimed.
