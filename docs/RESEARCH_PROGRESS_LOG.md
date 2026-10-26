@@ -2921,3 +2921,14 @@ A new attempt to inspect four patent-application leads in official USPTO records
 Primary sources and detailed reproducible calculations are recorded in the private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-39-spin-reservoir-gpb-frame-dragging-patent-status-attempt-2026-10-26-1356-PDT.md
 Sources: Christodoulou & Ruffini (1971), https://doi.org/10.1103/PhysRevD.4.3552 ; Everitt et al. (2011), https://doi.org/10.1103/PhysRevLett.106.221101 ; NIST SP 1065, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO MPEP §2701, https://www.uspto.gov/web/offices/pac/mpep/s2701.html .
 No experiment, FTL, working extraction engine, independent replication, or patent clearance is claimed.
+
+
+## 2026-10-26 — conditional Kerr photon-escape and measurement-feasibility review
+
+**Completed work:** reviewed a previously documented idealized Kerr interaction using a three-dimensional angular acceptance calculation, checked whole-event energy and angular-momentum closure, compared the conditional result across source radii, and tightened the hypothetical measurement-noise feasibility screen.
+
+**Evidence boundary:** this is analytical modeling only. The angular result is conditional on a specified particle state already being produced; it is not a production rate or practical energy-extraction cycle. Captured products dominate the energy ledger. The measurement bench remains uncalibrated and has not passed its required null, injected-signal, reversal, sham, blind, data-integrity, and reaction-closure criteria.
+
+**Patent record correction:** the USPTO provides public patent-search interfaces, but case-specific official transaction histories were not retrieved in this review. Indexed abandonment labels remain unverified leads, not legal-status findings or clearance.
+
+**Our contribution:** implemented a reproducible numerical screen and recorded its limitations, source links, and next falsification gates. External Kerr-geodesic and metrology methods remain credited to their authors. No physical experiment, FTL, working extraction engine, patent clearance, or independent replication is claimed.
