@@ -2821,3 +2821,14 @@ No physical experiment, FTL, working drive, practical efficiency, patent clearan
 A new primary experimental paper was identified for exclusive neutral-pion production near the model's equivalent beam energy, with a low-excitation proton pair. Its reported differential measurements cover only a forward angular region, while the conditional model point that permits the escaping-photon/negative-energy-companion channel lies outside that region. A deterministic finite-grid check found no paired extraction outcomes in the sampled forward-angle region; this is not a continuous impossibility proof. The updated model still sends most incoming conserved energy into the black hole, so no net-positive source or propulsion result is established.
 
 The measurement lane remains blocked pending real calibration data and systematic controls. The four historical patent categories remain technical claim screens only; official case histories and foreign status are unresolved, and no patent clearance is claimed. Full private research and reproducible calculations are preserved in the private repository report and script. No physical experiment, FTL, practical efficiency, or independent replication is claimed.
+
+
+## 2026-10-26 — forward-cone falsification, calibration trade-off, and patent-term correction
+
+**Completed work:** expanded a conditional Kerr photon-fate screen across sampled azimuths, derived a local necessary direction bound for negative Killing energy, checked a non-forward positive control, evaluated a polynomial-drift-cancelling measurement sequence under an explicit settling model, and corrected preliminary historical U.S. patent-term calculations using USPTO MPEP §2701.
+
+**Evidence boundary:** the forward-cone numerical screen found no paired extraction outcomes at the tested grid resolution, while a non-forward control produced outcomes. This remains a finite simulation, not a continuous no-go proof, physical event, reaction rate, or propulsion result. The laboratory frame-dragging measurement remains unvalidated; CAL-00 is still NO-GO without real calibration data. The revised patent dates are preliminary statutory calculations, not authenticated legal-status determinations or freedom-to-operate clearance.
+
+**Corrections and sources:** Kurbatov et al. (2008), https://doi.org/10.1016/j.physletb.2008.01.051 ; Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; NIST SP 1065, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO MPEP §2701, https://www.uspto.gov/web/offices/pac/mpep/s2701.html .
+
+**Next gate:** improve the trajectory classifier with a validated faster root/bound method, seek matched non-forward production-amplitude evidence, keep CAL-00 blocked pending real calibration, and obtain official patent case histories. No experiment, FTL, hardware purchase, external commitment, or protected-branch merge is claimed.
