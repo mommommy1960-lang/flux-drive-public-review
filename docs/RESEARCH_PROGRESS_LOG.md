@@ -2853,3 +2853,12 @@ No physical experiment, propulsion demonstration, FTL, hardware purchase, patent
 ## 2026-10-26 — FLUX research evidence update
 
 A new deterministic Kerr-model audit refined a narrow non-forward photon-fate region and checked a representative energy ledger. The sampled outcomes remain conditional simulations, not event probabilities or evidence of practical energy extraction; the black hole gains substantial net energy in the representative case. A separate calculation compared the hypothetical laboratory frame-dragging contrast with the modeled Earth background and identified a stringent subtraction-stability requirement. No measured bench data are available, so CAL-00 remains blocked. A fresh primary-source search did not locate a directly matched non-forward, low-excitation proton-pair production cross section. Official individual patent histories and foreign-register status remain unverified across the four documented categories. No physical experiment, FTL, practical propulsion, or patent clearance is claimed.
+
+
+### 2026-10-26 — FLUX-KERR-33 evidence and methods correction
+
+A re-audit of the latest conditional Kerr event distinguishes the parent pion's conserved energy from the escaping photon's energy. The negative-energy daughter contributes only a very small increment relative to the escaped photon, while the captured proton pair dominates the total balance and the modeled black hole gains net energy. The horizon-flux checks are consistent with the classical area condition under the declared model, but this remains a simulation and not evidence of a useful energy source.
+
+A measurement-method correction compares source-state sequences using the same quadratic-drift nuisance model and an explicitly synthetic AR(1) covariance. It improves the statistical comparison, but no real sensor covariance, calibration trace, or source-correlated control data exist; CAL-00 remains NO-GO. The frame-dragging background discussion now distinguishes constant terms that cancel in ideal reversal from state-correlated differential errors.
+
+Patent-family research identified a continuation chain and an eight-country family lead for an older ring-laser gravity-gradiometer patent. Third-party legal-status labels are not authoritative; official national-register and file-history checks remain incomplete across the four documented categories. No patent clearance, physical experiment, FTL, or practical propulsion result is claimed. Sources and full limitations are recorded in the private report.
