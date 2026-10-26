@@ -2814,3 +2814,10 @@ The four patent categories were re-screened. Public index labels are not treated
 Primary references: Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; Rappenecker et al. (1995), https://doi.org/10.1016/0375-9474(95)00191-3 ; HADES (2012), https://doi.org/10.1140/epja/i2012-12074-9 ; NIST SP 1065, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO MPEP §2701, https://www.uspto.gov/web/offices/pac/mpep/s2701.html .
 
 No physical experiment, FTL, working drive, practical efficiency, patent clearance, or protected merge is claimed.
+
+
+## FLUX-KERR-28 | 2026-10-26 — Low-excitation source-data compatibility gate
+
+A new primary experimental paper was identified for exclusive neutral-pion production near the model's equivalent beam energy, with a low-excitation proton pair. Its reported differential measurements cover only a forward angular region, while the conditional model point that permits the escaping-photon/negative-energy-companion channel lies outside that region. A deterministic finite-grid check found no paired extraction outcomes in the sampled forward-angle region; this is not a continuous impossibility proof. The updated model still sends most incoming conserved energy into the black hole, so no net-positive source or propulsion result is established.
+
+The measurement lane remains blocked pending real calibration data and systematic controls. The four historical patent categories remain technical claim screens only; official case histories and foreign status are unresolved, and no patent clearance is claimed. Full private research and reproducible calculations are preserved in the private repository report and script. No physical experiment, FTL, practical efficiency, or independent replication is claimed.
