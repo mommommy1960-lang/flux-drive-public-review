@@ -2759,3 +2759,18 @@ An additional **theoretical**, locally conserved Kerr test-particle exercise exa
 ### 2026-10-25 — Flux research cross-check: parent survival gate
 
 A cross-lane review compared the current black-hole energy-extraction studies, laboratory metrology controls, spacetime-geometry branches, patent-screening records and the separate open software evidence-admission work to avoid duplicating calculations or confusing synthetic validation with physical evidence. The review identified a missing physical requirement in one conditional particle-decay model: the proposed parent must survive long enough to reach the interaction point. A proper-time check using the declared trajectory shows that a neutral pion would experience vastly more than its mean lifetime during that journey, so remote injection of that species cannot be assumed viable. This does not invalidate the conditional local photon-ray mathematics; it means a real near-source production reaction, rate and complete energy/momentum budget are still missing. Detailed trajectory parameters and equations remain in the private research record. No experiment, propulsion, FTL, or patent clearance is claimed. Primary lifetime reference: https://pdgweb.lbl.gov/2025/tables/rpp2025-tab-mesons-light.pdf .
+
+
+## 2026-10-25 — conditional Kerr source-channel ledger and measurement/patent gates
+
+**Completed analytical work:** evaluated a specified local proton-collision and neutral-pion decay scenario in a Kerr ergosphere, including a negative-energy captured photon, an escaping photon, radial fate checks, and a closed whole-event Killing-energy ledger.
+
+**Result and limitation:** the escaping photon can exceed the pion parent's conserved energy by a small conditional rotational-energy transfer, but most incoming energy falls into the black hole and the black hole gains net energy overall. This is not a net-positive source, propulsion demonstration, FTL result, or physical experiment. Production rate, cross section, target support and apparatus energy remain unmodeled.
+
+**Measurement gate:** CAL-00 remains NO-GO because no calibrated sensor data, Allan deviation, rate-noise PSD or independently controlled residual is available. ABBA's cancellation of constant/linear drift does not remove quadratic drift.
+
+**Patent / collider evidence:** reviewed claim scope in the four documented categories. CMS's 2026 search and ATLAS's September 2026 Run 3 search report no significant excess for the specific microscopic/quantum-black-hole models tested. Individual official patent case histories, assignment records and foreign national-register statuses remain unauthenticated; no patent clearance is claimed.
+
+**Sources:** Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; Blandford & Znajek (1977), https://doi.org/10.1093/mnras/179.3.433 ; PDG meson data, https://pdg.lbl.gov/2026/listings/particle_properties.html ; CMS EXO-24-028, https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-24-028/ ; ATLAS Run 3 search, https://atlas.cern/Updates/Briefing/Quantum-Black-Holes-Run3 ; USPTO Patent Public Search/status guidance, https://www.uspto.gov/patents/search/patent-public-search .
+
+No physical test, measured signal, working drive, FTL, or patent clearance is claimed. Detailed unpublished model parameters and calculations remain in the private repository.
