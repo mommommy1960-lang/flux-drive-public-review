@@ -2801,3 +2801,16 @@ Four historical patent categories were screened again. Secondary patent-index pa
 Primary references: Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; HADES exclusive one-pion study, https://doi.org/10.1140/epja/i2012-12074-9 ; NIST frequency-stability guidance, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO MPEP §§103 and 711, https://www.uspto.gov/web/offices/pac/mpep/s103.html and https://www.uspto.gov/web/offices/pac/mpep/s711.html .
 
 No physical experiment, FTL, working drive, practical efficiency, patent clearance, or protected merge is claimed.
+
+
+## 2026-10-26 — FLUX-KERR-27 evidence update (disclosure-safe summary)
+
+An internal kinematic audit checked whether a modeled final proton pair remains captured when resolved into individual daughter trajectories. All trajectories in the declared finite numerical sample passed the stated capture checks; this is conditional calculation, not a physical event or a continuum proof. A literature search also corrected an incomplete statement about the nearest located pion-production data: a historical dataset extends through 1 GeV, but it does not directly match the modeled energy and final-state bin, so no reaction rate is inferred.
+
+A synthetic measurement-filter test confirmed cancellation of shared polynomial drift through second order while exposing sensitivity to state-settling transients and the need to distinguish modulation amplitude from full state-to-state contrast. No instrument data exist; CAL-00 remains NO-GO.
+
+The four patent categories were re-screened. Public index labels are not treated as official legal status. Individual official case histories and foreign status remain unresolved, and no patent clearance is claimed. Detailed unpublished calculations remain private.
+
+Primary references: Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; Rappenecker et al. (1995), https://doi.org/10.1016/0375-9474(95)00191-3 ; HADES (2012), https://doi.org/10.1140/epja/i2012-12074-9 ; NIST SP 1065, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO MPEP §2701, https://www.uspto.gov/web/offices/pac/mpep/s2701.html .
+
+No physical experiment, FTL, working drive, practical efficiency, patent clearance, or protected merge is claimed.
