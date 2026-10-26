@@ -2873,3 +2873,10 @@ A reported Kerr simulation was rechecked for energy attribution. Its negative-en
 A conditional term calculation for an older precision-measurement patent was corrected using the USPTO's greater-of rule. Official file histories and jurisdiction-specific registers remain unverified; this is not a patent-status determination or freedom-to-operate opinion. Detailed calculations and patent-family mapping remain in the private technical record.
 
 Our contribution was a bounded arithmetic, synthetic-metrology, and documentary audit of previously reported work. No physical experiment, rotor build, independent replication, FTL result, patent clearance, or practical propulsion result occurred. Sources reviewed include Carter's Kerr geodesic framework, the Gravity Probe B final results, NIST SP 1065, and USPTO MPEP §2701. The published studies remain credited to their authors.
+
+
+### 2026-10-26 — FLUX-KERR-34A source-check correction
+
+A follow-up inspection of the original grant page found that the preceding public summary's description of a patent-term correction was itself incorrect: the issue date had been misread. Reapplying the USPTO greater-of rule returns the earlier conditional term screen under the stated continuity assumption. The corrected private record preserves both the initial mistake and the correction. Official case history, continuity, terminal disclaimer, and jurisdiction-specific status remain unverified, so no patent-status or freedom-to-operate conclusion is made.
+
+This was a documentary/arithmetic correction only. No physical experiment, propulsion result, FTL, patent clearance, or independent replication occurred. The primary grant text and USPTO term guidance were reviewed; detailed patent mapping remains in the private technical record.
