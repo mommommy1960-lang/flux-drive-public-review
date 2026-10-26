@@ -2862,3 +2862,14 @@ A re-audit of the latest conditional Kerr event distinguishes the parent pion's 
 A measurement-method correction compares source-state sequences using the same quadratic-drift nuisance model and an explicitly synthetic AR(1) covariance. It improves the statistical comparison, but no real sensor covariance, calibration trace, or source-correlated control data exist; CAL-00 remains NO-GO. The frame-dragging background discussion now distinguishes constant terms that cancel in ideal reversal from state-correlated differential errors.
 
 Patent-family research identified a continuation chain and an eight-country family lead for an older ring-laser gravity-gradiometer patent. Third-party legal-status labels are not authoritative; official national-register and file-history checks remain incomplete across the four documented categories. No patent clearance, physical experiment, FTL, or practical propulsion result is claimed. Sources and full limitations are recorded in the private report.
+
+
+### 2026-10-26 — FLUX-KERR-34 measurement-method and prior-art term-screen correction
+
+This run reviewed weak-field frame-dragging conventions and clarified that two theoretical rotor-scale values use different probe geometries; neither is a measured signal. A synthetic source-state estimator comparison tested covariance mismatch and higher-order drift. The apparent variance advantage is conditional on the assumed noise model and drift basis, so the physical calibration gate remains blocked until traceable measurements and independent controls exist.
+
+A reported Kerr simulation was rechecked for energy attribution. Its negative-energy channel satisfies the model's horizon condition, but the complete event leaves the black hole with a net energy gain. It is not evidence of a useful external energy source, propulsion, or faster-than-light transport.
+
+A conditional term calculation for an older precision-measurement patent was corrected using the USPTO's greater-of rule. Official file histories and jurisdiction-specific registers remain unverified; this is not a patent-status determination or freedom-to-operate opinion. Detailed calculations and patent-family mapping remain in the private technical record.
+
+Our contribution was a bounded arithmetic, synthetic-metrology, and documentary audit of previously reported work. No physical experiment, rotor build, independent replication, FTL result, patent clearance, or practical propulsion result occurred. Sources reviewed include Carter's Kerr geodesic framework, the Gravity Probe B final results, NIST SP 1065, and USPTO MPEP §2701. The published studies remain credited to their authors.
