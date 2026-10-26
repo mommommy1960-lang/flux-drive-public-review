@@ -2889,3 +2889,22 @@ A bounded comparison of two existing Kerr-model energy ledgers confirms that bot
 A source audit also corrected the historical term-screen arithmetic for three older U.S. grants and corrected the issue date previously misreported for US4012083A. The original grant documents and USPTO patent-term guidance were checked. Individual official file histories, later family members and foreign-register status remain unverified, so no patent clearance or freedom-to-operate conclusion is made. Detailed calculations and confidential research methods remain in the private technical record.
 
 This was theoretical, synthetic and documentary work only. No physical experiment, FTL, working extraction engine, hardware purchase, or independent replication is claimed.
+
+
+### 2026-10-26 - FLUX-KERR-38 source, calibration-method, and patent-family screen
+
+A refreshed primary-literature review found that the located exclusive low-excitation proton-pair/pion measurements still do not match both the model's source energy and non-forward angular configuration. The missing matched production evidence remains a blocker for event-rate or practical-efficiency claims. No new Kerr ray grid or physical experiment was performed.
+
+A synthetic measurement-design comparison examined polynomial-drift rejection and covariance-aware estimation. Its results depend on assumed noise models and do not establish achievable sensor sensitivity; CAL-00 remains blocked pending measured calibration, known-signal recovery, sham controls, and reaction closure. No rotor was built or operated.
+
+Four additional published patent-application leads were cataloged, one in each documented research category. Their indexed abandoned labels are not official legal-status findings. One beam-monitor application has related granted family members, underscoring that a single abandoned application does not establish that a family is clear. Official file histories and jurisdiction-specific status remain unverified; no patent clearance or freedom-to-operate conclusion is made.
+
+Sources:
+- Carter (1968), Kerr spacetime: https://doi.org/10.1103/PhysRev.174.1559
+- Kurbatov et al. (2008), ANKE/COSY low-excitation diproton production: https://arxiv.org/abs/0712.1186
+- Tsirkov et al. (2022 preprint), higher-energy exclusive diproton/pion measurements: https://arxiv.org/abs/2207.13575
+- NIST SP 1065, frequency stability methods: https://www.nist.gov/publications/handbook-frequency-stability-analysis
+- USPTO MPEP §2701, patent term rules: https://www.uspto.gov/web/offices/pac/mpep/s2701.html
+- USPTO Open Data Portal access documentation: https://data.uspto.gov/apis/bulk-data/search
+
+Detailed calculations remain in the private research record. No physical experiment, FTL, working extraction engine, patent clearance, or independent replication is claimed.
