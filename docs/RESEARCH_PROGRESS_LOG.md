@@ -2880,3 +2880,12 @@ Our contribution was a bounded arithmetic, synthetic-metrology, and documentary 
 A follow-up inspection of the original grant page found that the preceding public summary's description of a patent-term correction was itself incorrect: the issue date had been misread. Reapplying the USPTO greater-of rule returns the earlier conditional term screen under the stated continuity assumption. The corrected private record preserves both the initial mistake and the correction. Official case history, continuity, terminal disclaimer, and jurisdiction-specific status remain unverified, so no patent-status or freedom-to-operate conclusion is made.
 
 This was a documentary/arithmetic correction only. No physical experiment, propulsion result, FTL, patent clearance, or independent replication occurred. The primary grant text and USPTO term guidance were reviewed; detailed patent mapping remains in the private technical record.
+
+
+### 2026-10-26 - FLUX-KERR-37 evidence and record correction
+
+A bounded comparison of two existing Kerr-model energy ledgers confirms that both selected events deliver positive net energy into the black hole despite containing a negative-energy daughter. A normalized Blandford-Znajek load screen reinforces that spin alone does not determine output; the physical magnetic-flux, plasma and load inputs remain absent. A synthetic calibration-method comparison identifies a candidate way to reject cubic polynomial drift, but no bench measurements or validation exist and CAL-00 remains blocked.
+
+A source audit also corrected the historical term-screen arithmetic for three older U.S. grants and corrected the issue date previously misreported for US4012083A. The original grant documents and USPTO patent-term guidance were checked. Individual official file histories, later family members and foreign-register status remain unverified, so no patent clearance or freedom-to-operate conclusion is made. Detailed calculations and confidential research methods remain in the private technical record.
+
+This was theoretical, synthetic and documentary work only. No physical experiment, FTL, working extraction engine, hardware purchase, or independent replication is claimed.
