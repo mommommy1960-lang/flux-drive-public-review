@@ -3030,3 +3030,9 @@ Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main
 ### 2026-10-27 — maintenance-fee calendar correction
 
 A calendar check corrected the conditional date screen for the related beam-monitor grant: the nominal December 25, 2027 fee date falls on a Saturday/Christmas holiday, so the USPTO's next-business-day rule moves the last payment day to December 27, 2027; the nominal June 25, 2028 grace-period anniversary falls on Sunday, moving that deadline to June 26, 2028. The first payment window still does not open until June 25, 2027. This remains calendar arithmetic based on an indexed grant date, not an official current-status finding. Source: https://www.uspto.gov/web/offices/pac/mpep/s2504.html
+
+### 2026-10-27 — production-data and energy-ledger gate
+
+A fresh primary-source check found no exact-energy differential production amplitude for the selected Kerr source state. The modeled center-of-mass energy is 2.916620 GeV, above the highest tabulated reviewed ANKE exclusive diproton-plus-neutral-pion point at 2.83 GeV. The source paper reports a peak near 2.65 GeV and nontrivial angular behavior, so a simple line-shape extrapolation is not used as a production rate. Source: https://doi.org/10.1103/PhysRevC.107.015202
+
+The existing idealized whole-event energy ledger was normalized: the reversible target-lowering work plus escaping photon is 41.9038% of the two-proton rest-energy input; the black hole gains 58.0962%. This selected event is not a net-positive external source before real apparatus costs. CAL-00 remains unvalidated, and official patent-family status remains unresolved across the four categories. No experiment, FTL result, working engine, patent clearance, or freedom-to-operate conclusion is established.
