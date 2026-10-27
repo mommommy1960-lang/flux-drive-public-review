@@ -2945,3 +2945,14 @@ The patent-family review found that an indexed abandoned beam-monitor applicatio
 Our contribution was to perform and archive a reproducible kinematic screen, clarify the next falsification gates, and update the family-level patent leads. External Kerr-geodesic theory and metrology methods remain credited to their authors. Detailed unpublished calculations remain in the private research record. No physical experiment, FTL, working extraction engine, independent replication, or patent clearance is claimed.
 
 Sources: Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; Ogasawara & Igata (2021), https://doi.org/10.1103/PhysRevD.103.044029 ; NIST SP 1065, https://doi.org/10.6028/NIST.SP.1065 ; USPTO Patent Public Search Basic, https://ppubs.uspto.gov/basic/ . Detailed patent publication and family links are in the private report.
+
+
+## 2026-10-26 — FLUX-KERR-42 (disclosure-safe summary)
+
+The research run extended an existing Kerr test-particle model to several incoming angular-momentum states, enforced local and asymptotic energy/momentum accounting, and compared conditional photon-escape calculations at two numerical grid resolutions. The model remains conditional and does not establish a production rate or useful net energy source; the complete event ledger still shows net energy entering the black hole.
+
+A separate weak-field scale calculation for an illustrative rotating mass shows that the predicted laboratory frame-dragging rate remains far below the stated hypothetical measurement-noise threshold. CAL-00 remains blocked pending real calibration, noise characterization, controls, and independent reaction closure.
+
+Historical patent term arithmetic was reproduced using USPTO term guidance. Case-specific status for the newer published-application leads remains unverified; indexed abandonment labels are not patent clearance. No physical experiment, FTL, working extraction engine, or freedom-to-operate conclusion is claimed.
+
+Private technical report and reproducible calculation are retained in the private repository as FLUX-KERR-42. Sources include Carter (1968), Ogasawara & Igata (2021), Blandford & Znajek (1977), NIST SP 1065, and USPTO MPEP §2701.
