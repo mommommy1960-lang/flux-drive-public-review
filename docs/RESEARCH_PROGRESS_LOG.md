@@ -3085,3 +3085,14 @@ A new private calculation shows that the finite measured production-angle cone t
 A colored-noise calibration study found a tradeoff between variance reduction and cyclic-lag artifact rejection. The mathematical estimator remains unvalidated by hardware; CAL-00 remains NO-GO pending measured noise, calibration, independent references, and blind/injected-signal controls.
 
 Patent mining identified additional related grant members in a family whose published parent application is indexed abandoned. Official family/legal-status review remains open. The detailed private report and reproducer are retained in research/FLUX-KERR-57-production-cone-angular-boost-coloured-noise-patent-correction-2026-10-27-0655-PDT.md and research/scripts/flux_kerr_57_production_cone_gls_patent_2026_10_27.py. No physical experiment, FTL, working engine, legal clearance, purchase, or protected-branch merge is claimed.
+
+
+## 2026-10-27 — KERR-58 finite-cone and validation update
+
+A higher-resolution, independently repeated Kerr geodesic screen now includes the measured production-angle cone rather than treating every pion as exactly radial. This narrows a prior numerical blocker, but the result remains conditional on the modeled source state and decay assumptions. No reaction rate or net-positive external source is established; the energy ledger remains below the two-proton rest-energy normalization before support and apparatus costs.
+
+A practical rotating-sphere estimate and a colored-noise estimator review reinforce that the current bench is not close to a demonstrated measurement. The calibration gate remains NO-GO pending measured noise stability, traceable calibration, independent references, and blinded/injected-signal controls. No rotor was built or operated.
+
+Patent claim-scope screening now distinguishes conventional rotating-habitat, radiation-monitor, proposed gravitation-wave-imaging, and magnetic-bearing disclosures. Related grants exist in the radiation-monitor family even though its parent application is indexed abandoned. Official USPTO family histories and foreign-register status remain unresolved, and no patent clearance or freedom-to-operate conclusion is claimed.
+
+Detailed unpublished parameter calculations and the reproducer remain in the private research repository. No physical experiment, FTL result, working extraction engine, measured Flux capability, purchase, external commitment, or protected-branch merge occurred.
