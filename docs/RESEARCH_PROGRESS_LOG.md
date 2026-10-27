@@ -3056,3 +3056,14 @@ A new private calculation changed the selected final proton-pair excitation to m
 
 Private technical record: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-54-epp-matched-source-geodesic-decay-calibration-patent-gate-2026-10-27-0403-PDT.md
 Source: Tsirkov et al., Phys. Rev. C 107, 015202 (2023), https://doi.org/10.1103/PhysRevC.107.015202
+
+
+## 2026-10-27 — FLUX-KERR-55 evidence-boundary update
+
+A conditional full-solid-angle screen was added for a specified Kerr photon-splitting source state. The selected ray is an energy-optimal direction, not a representative outcome; the angular fraction is conditional on that source state and does not establish a reaction rate or practical extraction. The whole-event energy ledger remains negative for the outside system.
+
+A separate calibration-alias check shows that a periodic reversal estimator can pass source-correlated artifacts at full gain, including a delay equal to one full pattern period. Independent reference/sham controls and measured calibration evidence remain necessary; CAL-00 remains NO-GO.
+
+The four patent categories remain research leads only. USPTO public guidance confirms an access route for published abandoned application files, but case-specific official transaction histories were not obtained in this run. No patent clearance or freedom-to-operate conclusion is claimed.
+
+Detailed unpublished parameter calculations and the reproducer remain in the private research repository. No experiment, FTL result, working extraction engine, measured Flux capability, purchase, external commitment, or protected-branch merge occurred.
