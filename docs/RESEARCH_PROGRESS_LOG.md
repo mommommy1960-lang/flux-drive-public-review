@@ -3001,3 +3001,14 @@ The measurement note distinguishes the weak-field ZAMO angular rate from the geo
 Project contribution: reproducible numerical checks, conservation-ledger validation, metrology falsification requirements, and a dated access-policy correction. External Kerr theory and metrology methods are credited to their authors. This was theoretical calculation and source review only; no physical experiment, FTL, measured frame-dragging signal, working extraction engine, or patent clearance is claimed.
 
 Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-49-companion-photon-turning-point-mino-time-rotor-observable-usp-to-access-correction-2026-10-27-0003-PDT.md
+
+
+## 2026-10-27 — FLUX-KERR-50 (disclosure-safe summary)
+
+A bounded calculation compared a standard astrophysical electromagnetic black-hole energy-extraction model using dimensionless parameters. The result is conditional on magnetic flux, geometry, plasma/current closure, and load; no absolute power estimate or Flux propulsion claim is justified. A separate sensitivity screen found that moving the illustrative rotating-mass sensor to the formal far-field threshold would leave the approximation's valid regime, so that shortcut cannot support a measurement claim. Idealized longer averaging remains infeasible under the stated white-noise assumptions.
+
+Published claim scope was reviewed for four patent leads spanning rotating habitats, radiation monitoring, gravitational-wave imaging, and magnetic rotor bearings. Official case-specific legal status remains unresolved; no patent clearance or freedom-to-operate conclusion is made.
+
+Our contribution was a reproducible dimensionless calculation, a negative metrology result, and a claim-scope/status audit with explicit limitations. External Kerr/BZ theory and metrology methods remain credited to their authors. No physical experiment, FTL, working extraction engine, measured Flux sensor capability, or patent clearance is claimed.
+
+Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-50-bz-normalized-efficiency-spin-reservoir-rotor-nearfield-patent-claim-crosswalk-2026-10-27-0103-PDT.md
