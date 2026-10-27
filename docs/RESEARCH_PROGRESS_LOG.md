@@ -3132,3 +3132,16 @@ A separate ideal solid-disk strength screen found that a conservative illustrati
 Patent research continues across gravitation/rotating masses, particle-beam instrumentation, precision measurement/gravimetry, and materials/rotors/power systems. Official case-specific histories remain unresolved; the USPTO says Patent Public Search sign-in begins 2026-11-07. No legal clearance is claimed.
 
 Sources: Carter https://doi.org/10.1103/PhysRev.174.1559 ; Compère et al. https://doi.org/10.1103/PhysRevD.105.024075 ; NIST SP 1065 https://doi.org/10.6028/NIST.SP.1065 ; USPTO https://www.uspto.gov/patents/search/patent-public-search . Detailed unpublished model parameters remain private. No physical experiment, FTL, working drive, purchase, external commitment, or protected-branch merge is claimed.
+
+
+## 2026-10-27 — Flux Drive: counter-streaming energy-accounting gate
+
+The private research program extended a previously modeled high-energy proton collision through an explicitly conserved final-state example. A negative-energy captured photon is mathematically possible in that selected model, but the complete event still increases the black hole's energy and fails the net-external-energy test. An analytical upper bound also excludes net-positive photon-only output across a narrowly defined final-state family, while leaving other collision channels and established extraction mechanisms open for separate study. This is conditional mathematical research, not a demonstrated reaction rate, engine, or faster-than-light transport.
+
+A timestamp-aware estimator was shown to cancel an assumed polynomial drift when the timestamps are known exactly. This does not establish practical sensor sensitivity, since real timing uncertainty, noise spectra, reference channels and blinded calibration data are absent. The practical rotating-mass measurement gate remains NO-GO.
+
+The four-category patent review still lacks authenticated official case-specific prosecution and family-status records. No patent clearance or freedom-to-operate conclusion was made. Confidential model parameters, unpublished equations, scripts and design details remain in the private research repository.
+
+Sources: Carter https://doi.org/10.1103/PhysRev.174.1559 ; Compère, Liu and Long https://doi.org/10.1103/PhysRevD.105.024075 ; Tsirkov et al. https://doi.org/10.1103/PhysRevC.107.015202 ; NIST SP 1065 https://doi.org/10.6028/NIST.SP.1065 ; USPTO https://www.uspto.gov/patents/maintain .
+
+No physical experiment, FTL, working propulsion engine, measured Flux sensor capability, patent clearance, hardware purchase, external commitment, or protected-branch merge occurred.
