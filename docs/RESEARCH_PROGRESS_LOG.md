@@ -2987,3 +2987,6 @@ A bounded calculation established a conservative photon-energy ceiling for one p
 ## 2026-10-26 — FLUX-KERR-47 (high-level summary)
 
 A bounded literature audit corrected the highest tabulated energy in a nearby exclusive proton-pair/neutral-pion production study. The closest data do not establish a production rate for the modeled source because the exact collision energy and quantum partial-wave state remain unmatched. A separate idealized rotor stress/energy calculation and covariance-aware calibration screen still leave the measurement proposal far below the hypothetical sensitivity requirement. Official patent-family status remains unresolved across all four categories. These are calculations and literature review only; no physical experiment, propulsion, FTL, measured frame-dragging signal, or patent clearance is claimed.
+
+## 2026-10-26 — FLUX-KERR-48
+A bounded mathematical review added a conservative Kerr geodesic capture bound for two selected proton-pair excitation states and compared an illustrative laboratory frame-dragging scale with NASA's published Gravity Probe B result. This is theoretical calculation and literature review only; no physical experiment or propulsion demonstration occurred. Patent-family legal status remains unverified.
