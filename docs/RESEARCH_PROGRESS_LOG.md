@@ -3025,3 +3025,8 @@ Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main
 **Patent review:** four category leads were rechecked. A related beam-monitor grant's indexed date places its first ordinary maintenance-fee window in 2027 under USPTO rules, but official case-specific histories for the four leads remain inaccessible in this retrieval run. A 2003 measurement paper is a Category 3 literature lead; its date alone does not resolve prior-art status for a patent family with an earlier claimed priority chain. No patent clearance or freedom-to-operate conclusion is made.
 
 **Next evidence gate:** obtain real sensor calibration/noise/control data and official patent-family records. No faster-than-light result, working Flux engine, or physical frame-dragging measurement is established.
+
+
+### 2026-10-27 — maintenance-fee calendar correction
+
+A calendar check corrected the conditional date screen for the related beam-monitor grant: the nominal December 25, 2027 fee date falls on a Saturday/Christmas holiday, so the USPTO's next-business-day rule moves the last payment day to December 27, 2027; the nominal June 25, 2028 grace-period anniversary falls on Sunday, moving that deadline to June 26, 2028. The first payment window still does not open until June 25, 2027. This remains calendar arithmetic based on an indexed grant date, not an official current-status finding. Source: https://www.uspto.gov/web/offices/pac/mpep/s2504.html
