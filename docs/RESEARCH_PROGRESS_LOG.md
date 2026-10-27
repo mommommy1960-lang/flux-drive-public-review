@@ -2956,3 +2956,14 @@ A separate weak-field scale calculation for an illustrative rotating mass shows 
 Historical patent term arithmetic was reproduced using USPTO term guidance. Case-specific status for the newer published-application leads remains unverified; indexed abandonment labels are not patent clearance. No physical experiment, FTL, working extraction engine, or freedom-to-operate conclusion is claimed.
 
 Private technical report and reproducible calculation are retained in the private repository as FLUX-KERR-42. Sources include Carter (1968), Ogasawara & Igata (2021), Blandford & Znajek (1977), NIST SP 1065, and USPTO MPEP §2701.
+
+
+## 2026-10-26 — FLUX-KERR-43 source-direction and measurement-sensitivity review
+
+The research varied a modeled final proton-pair invariant mass and pion direction while enforcing local four-momentum closure. A separate photon-fate calculation reproduced the prior radial-out baseline within 0.0046 percentage points and showed that conditional escape acceptance is sensitive to the selected pion direction. The accepted whole-event energy ledger still sends net energy into the black hole; no production rate or useful extraction cycle is established.
+
+A separate weak-field calculation found that the illustrative laboratory frame-dragging signal would require extremely strong rejection of Earth's rotation under the stated hypothetical noise assumptions. CAL-00 remains blocked pending measured calibration, noise characterization, reversal/sham controls, and independent reaction closure.
+
+Patent work did not retrieve case-specific official transaction histories. Indexed abandonment labels remain unverified leads; no patent clearance or freedom-to-operate conclusion is made.
+
+Our contribution was to perform and archive reproducible conditional calculations, report null results and limitations, and specify falsification gates. External Kerr-geodesic and metrology methods remain credited to their authors. Detailed unpublished calculations remain private. No physical experiment, FTL, working extraction engine, or patent clearance is claimed.
