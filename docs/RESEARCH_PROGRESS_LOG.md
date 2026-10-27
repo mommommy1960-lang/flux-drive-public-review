@@ -3076,3 +3076,12 @@ A bounded calculation moved the modeled source to a Kerr radius that matches a p
 A separate mathematical calibration review found an eight-sample reversal-estimator candidate that rejects quartic polynomial drift at a modest white-noise variance penalty. It remains analysis only: no rotor or sensor was built or measured, and randomized/blind reversal controls, injected-signal recovery, independent references, and measured noise stability remain required.
 
 The four patent categories remain unverified research leads because case-specific official transaction histories were not obtained. No legal clearance or freedom-to-operate conclusion is made. Detailed unpublished calculations and the reproducer remain in the private repository. No experiment, FTL result, working extraction engine, purchase, external commitment, or protected-branch merge occurred.
+
+
+## 2026-10-27 — KERR-57 production-angle and calibration gate
+
+A new private calculation shows that the finite measured production-angle cone transforms to a non-radial local pion distribution. The previous radial-parent decay acceptance cannot be treated as a cone-weighted yield. A coarse 3D screen did not meet convergence criteria, so no revised acceptance or reaction rate is claimed.
+
+A colored-noise calibration study found a tradeoff between variance reduction and cyclic-lag artifact rejection. The mathematical estimator remains unvalidated by hardware; CAL-00 remains NO-GO pending measured noise, calibration, independent references, and blind/injected-signal controls.
+
+Patent mining identified additional related grant members in a family whose published parent application is indexed abandoned. Official family/legal-status review remains open. The detailed private report and reproducer are retained in research/FLUX-KERR-57-production-cone-angular-boost-coloured-noise-patent-correction-2026-10-27-0655-PDT.md and research/scripts/flux_kerr_57_production_cone_gls_patent_2026_10_27.py. No physical experiment, FTL, working engine, legal clearance, purchase, or protected-branch merge is claimed.
