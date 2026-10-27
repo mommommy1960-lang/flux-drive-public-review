@@ -3156,3 +3156,14 @@ A separate hypothetical timing-uncertainty calculation shows that correcting rec
 Public references: https://doi.org/10.1103/PhysRev.174.1559 ; https://doi.org/10.6028/NIST.SP.1065 ; https://www.uspto.gov/patents/apply/checking-application-status/check-filing-status-your-patent-application .
 
 Detailed unpublished calculations and implementation stay in the private research repository pending appropriate IP review. No physical experiment, FTL, working engine, patent clearance, hardware purchase, external commitment or protected-branch merge occurred.
+
+
+## 2026-10-27 — conditional Kerr capture no-go and metrology evidence gate
+
+**Completed work:** The project independently checked a previously unresolved final-particle escape question in one fixed, idealized Kerr collision model. A conservative numerical interval calculation rules out the proposed two-proton escape route **within the stated source and free-geodesic assumptions**. This supports a negative energy-accounting conclusion for that particular modeled reaction, not a general prohibition on established black-hole energy-extraction processes. Full mathematical implementation and model-specific parameters are retained in the private research repository pending independent review.
+
+**Measurement and patent boundaries:** An additional hypothetical instrument cross-talk budget was quantified, but no rotor was built or measured, no sensor sensitivity was demonstrated, and no anomalous force was observed. Patent prior-art categories were reviewed against general USPTO rules; official case-specific family status and freedom to operate remain unverified. No patent clearance is claimed.
+
+**Sources and attribution:** Kerr separability from B. Carter (1968), https://doi.org/10.1103/PhysRev.174.1559 ; radial-root classification from Compère, Liu & Long (2022), https://doi.org/10.1103/PhysRevD.105.024075 ; measurement-stability methods from NIST SP 1065, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO patent-term and maintenance-fee guidance, https://www.uspto.gov/web/offices/pac/mpep/s2701.html and https://www.uspto.gov/web/offices/pac/mpep/s2504.html . The project contributed the conditional numerical audit, not the underlying published physics or instruments.
+
+**Next evidence gate:** independent high-precision reproduction, then physically distinct source trajectories; actual metrology and official patent records are still missing. No physical experiment, FTL, working engine, patent clearance, purchase or external commitment.
