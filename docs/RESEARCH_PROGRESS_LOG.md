@@ -2975,3 +2975,8 @@ A new private research entry independently integrated two selected Kerr photon t
 
 Public summary only; controlled calibration details remain in the private research record. Report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-44-independent-3d-geodesic-turning-point-check-rotor-observable-abba-patent-status-2026-10-26-1859-PDT.md
 
+
+
+## 2026-10-26 — FLUX-KERR-45 (high-level summary)
+
+A bounded calculation established a conservative photon-energy ceiling for one previously specified Kerr collision model; even this deliberately loose bound remains below that model's total incoming energy. A calibration-design review found that a four-reading reversal sequence cannot distinguish the signal from arbitrary quadratic drift. A longer, polynomial-rejecting estimator was derived on paper, but no instrument data or physical test exists. Official patent-status retrieval remains incomplete across the four documented categories. This is simulation/analysis only; no propulsion, FTL, measured frame-dragging signal, or patent clearance is claimed.
