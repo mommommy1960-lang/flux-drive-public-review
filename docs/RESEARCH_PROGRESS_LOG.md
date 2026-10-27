@@ -3067,3 +3067,12 @@ A separate calibration-alias check shows that a periodic reversal estimator can 
 The four patent categories remain research leads only. USPTO public guidance confirms an access route for published abandoned application files, but case-specific official transaction histories were not obtained in this run. No patent clearance or freedom-to-operate conclusion is claimed.
 
 Detailed unpublished parameter calculations and the reproducer remain in the private research repository. No experiment, FTL result, working extraction engine, measured Flux capability, purchase, external commitment, or protected-branch merge occurred.
+
+
+## 2026-10-27 — FLUX-KERR-56 (disclosure-safe summary)
+
+A bounded calculation moved the modeled source to a Kerr radius that matches a published proton-proton neutral-pion production measurement's highest tabulated invariant energy. The published differential-cross-section benchmark narrows the source-data gap, but no event rate is established because local luminosity, target density, finite source volume, and support/replenishment data remain missing. A conditional photon-trajectory screen still yields an outside-energy-negative full-cycle ledger.
+
+A separate mathematical calibration review found an eight-sample reversal-estimator candidate that rejects quartic polynomial drift at a modest white-noise variance penalty. It remains analysis only: no rotor or sensor was built or measured, and randomized/blind reversal controls, injected-signal recovery, independent references, and measured noise stability remain required.
+
+The four patent categories remain unverified research leads because case-specific official transaction histories were not obtained. No legal clearance or freedom-to-operate conclusion is made. Detailed unpublished calculations and the reproducer remain in the private repository. No experiment, FTL result, working extraction engine, purchase, external commitment, or protected-branch merge occurred.
