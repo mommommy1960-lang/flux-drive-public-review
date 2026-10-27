@@ -2990,3 +2990,14 @@ A bounded literature audit corrected the highest tabulated energy in a nearby ex
 
 ## 2026-10-26 — FLUX-KERR-48
 A bounded mathematical review added a conservative Kerr geodesic capture bound for two selected proton-pair excitation states and compared an illustrative laboratory frame-dragging scale with NASA's published Gravity Probe B result. This is theoretical calculation and literature review only; no physical experiment or propulsion demonstration occurred. Patent-family legal status remains unverified.
+
+
+## 2026-10-27 — FLUX-KERR-49
+
+A new private calculation independently checked a selected Kerr photon pair's radial fate and normalized geodesic quadrature. The negative-energy companion has a positive future-horizon condition and an outward turning point before falling inward; the escaping photon has no outer radial barrier. The modeled event conserves Killing energy and still transfers net energy to the black hole, so it does not establish a net-positive propulsion source.
+
+The measurement note distinguishes the weak-field ZAMO angular rate from the geometry-dependent torque-free gyroscope precession. The calibration estimator rejects polynomial drift through cubic order but remains vulnerable to quartic drift and reversal-synchronous artifacts. USPTO's current access policy was corrected against official notices; case-specific legal status for the four patent categories remains unverified.
+
+Project contribution: reproducible numerical checks, conservation-ledger validation, metrology falsification requirements, and a dated access-policy correction. External Kerr theory and metrology methods are credited to their authors. This was theoretical calculation and source review only; no physical experiment, FTL, measured frame-dragging signal, working extraction engine, or patent clearance is claimed.
+
+Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-49-companion-photon-turning-point-mino-time-rotor-observable-usp-to-access-correction-2026-10-27-0003-PDT.md
