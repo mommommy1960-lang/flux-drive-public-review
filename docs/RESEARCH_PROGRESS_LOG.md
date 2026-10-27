@@ -3048,3 +3048,11 @@ Our contribution was a reproducible conservation/sensitivity calculation and cla
 
 Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-53-energy-attribution-white-noise-detection-time-patent-claim-scope-2026-10-27-0303-PDT.md
 Sources: https://doi.org/10.1103/PhysRevD.89.024041 ; https://doi.org/10.1103/PhysRev.174.1559 ; https://doi.org/10.6028/NIST.SP.1065 ; https://www.uspto.gov/patents/search/patent-public-search
+
+
+## 2026-10-27 04:03 PDT — FLUX-KERR-54 source-state correction and calibration gate
+
+A new private calculation changed the selected final proton-pair excitation to match the E_pp<3 MeV selection in the published ANKE reaction study. The selected photon geodesics and event energy ledger still close numerically, but the exact source invariant remains above the highest tabulated measurement; no production rate is inferred. A prior neutral-pion mean-path arithmetic error was corrected by restoring the beta factor. The measurement-bench result remains a hypothetical sensitivity requirement only, with no physical measurement. All four patent categories remain under review; official case-specific status records were not retrieved. No experiment, FTL, working drive, measured Flux capability, or patent clearance is claimed.
+
+Private technical record: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-54-epp-matched-source-geodesic-decay-calibration-patent-gate-2026-10-27-0403-PDT.md
+Source: Tsirkov et al., Phys. Rev. C 107, 015202 (2023), https://doi.org/10.1103/PhysRevC.107.015202
