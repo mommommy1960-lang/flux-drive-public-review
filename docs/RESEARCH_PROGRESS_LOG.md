@@ -3012,3 +3012,16 @@ Published claim scope was reviewed for four patent leads spanning rotating habit
 Our contribution was a reproducible dimensionless calculation, a negative metrology result, and a claim-scope/status audit with explicit limitations. External Kerr/BZ theory and metrology methods remain credited to their authors. No physical experiment, FTL, working extraction engine, measured Flux sensor capability, or patent clearance is claimed.
 
 Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-50-bz-normalized-efficiency-spin-reservoir-rotor-nearfield-patent-claim-crosswalk-2026-10-27-0103-PDT.md
+
+
+## 2026-10-27 — finite-rotor sensitivity and published frame-dragging benchmark
+
+**Completed work:** a bounded finite-geometry calculation replaced an invalid far-field extrapolation near an illustrative rotating source. The model still falls millions of times short of the assumed detection threshold, so moving the sensor closer does not rescue this particular setup. No rotor was built or measured.
+
+**Published context:** Stedman, Schreiber, and Bilger's 2003 ring-laser study already examined laboratory rotating masses and described a much larger example with an enormous stored-energy requirement and a remaining sensitivity barrier. This project reproduced the scale for comparison; the authors' work remains theirs. Source: https://doi.org/10.1088/0264-9381/20/13/305
+
+**Energy-extraction boundary:** the Kerr/Blandford–Znajek model was checked against load dependence and the finite rotational-energy reservoir. A conditional efficiency above 100% is not a perpetual source and does not establish a laboratory analogue. Source: https://arxiv.org/abs/1108.0412
+
+**Patent review:** four category leads were rechecked. A related beam-monitor grant's indexed date places its first ordinary maintenance-fee window in 2027 under USPTO rules, but official case-specific histories for the four leads remain inaccessible in this retrieval run. A 2003 measurement paper is a Category 3 literature lead; its date alone does not resolve prior-art status for a patent family with an earlier claimed priority chain. No patent clearance or freedom-to-operate conclusion is made.
+
+**Next evidence gate:** obtain real sensor calibration/noise/control data and official patent-family records. No faster-than-light result, working Flux engine, or physical frame-dragging measurement is established.
