@@ -3036,3 +3036,15 @@ A calendar check corrected the conditional date screen for the related beam-moni
 A fresh primary-source check found no exact-energy differential production amplitude for the selected Kerr source state. The modeled center-of-mass energy is 2.916620 GeV, above the highest tabulated reviewed ANKE exclusive diproton-plus-neutral-pion point at 2.83 GeV. The source paper reports a peak near 2.65 GeV and nontrivial angular behavior, so a simple line-shape extrapolation is not used as a production rate. Source: https://doi.org/10.1103/PhysRevC.107.015202
 
 The existing idealized whole-event energy ledger was normalized: the reversible target-lowering work plus escaping photon is 41.9038% of the two-proton rest-energy input; the black hole gains 58.0962%. This selected event is not a net-positive external source before real apparatus costs. CAL-00 remains unvalidated, and official patent-family status remains unresolved across the four categories. No experiment, FTL result, working engine, patent clearance, or freedom-to-operate conclusion is established.
+
+
+### 2026-10-27 — energy attribution and metrology null bound (FLUX-KERR-53)
+
+A bounded re-analysis separated the selected Kerr event's rotational-energy contribution from energy already carried by the parent particle and from reversible target-lowering work. The selected photon uplift is only a fraction of its outgoing energy; the complete idealized ledger remains energy-conserving and is not a net-positive drive. A conditional white-noise sensitivity calculation shows that simple averaging cannot close the modeled laboratory frame-dragging gap on any practical timescale, and real calibration/control evidence is still absent.
+
+The four patent publications were compared by claim scope: rotating artificial-gravity habitat with propulsion; ionizing-beam monitoring instrumentation; an asserted gravitational-wave imaging arrangement; and magnetic rotor bearings. Official case-specific legal status and family continuity were not retrieved, so no patent clearance or freedom-to-operate conclusion is made. The published documents are cited as literature leads, not proof of physical claims.
+
+Our contribution was a reproducible conservation/sensitivity calculation and claim-scope/status screen. External Kerr theory, published patent disclosures, and NIST metrology guidance remain credited to their sources. No physical experiment, FTL result, working extraction engine, or measured Flux sensor capability is claimed.
+
+Private report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-53-energy-attribution-white-noise-detection-time-patent-claim-scope-2026-10-27-0303-PDT.md
+Sources: https://doi.org/10.1103/PhysRevD.89.024041 ; https://doi.org/10.1103/PhysRev.174.1559 ; https://doi.org/10.6028/NIST.SP.1065 ; https://www.uspto.gov/patents/search/patent-public-search
