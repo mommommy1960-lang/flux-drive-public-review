@@ -3096,3 +3096,12 @@ A practical rotating-sphere estimate and a colored-noise estimator review reinfo
 Patent claim-scope screening now distinguishes conventional rotating-habitat, radiation-monitor, proposed gravitation-wave-imaging, and magnetic-bearing disclosures. Related grants exist in the radiation-monitor family even though its parent application is indexed abandoned. Official USPTO family histories and foreign-register status remain unresolved, and no patent clearance or freedom-to-operate conclusion is claimed.
 
 Detailed unpublished parameter calculations and the reproducer remain in the private research repository. No physical experiment, FTL result, working extraction engine, measured Flux capability, purchase, external commitment, or protected-branch merge occurred.
+
+## 2026-10-27 — bounded Kerr geodesic and patent-methodology update
+
+A new **mathematical** interval analysis tested whether both final-state protons in a selected published collision channel can reach a rotating black-hole horizon throughout the experimental angular and excitation-energy selection. Within a declared idealized free-geodesic model, the capture conditions pass; a conservative whole-event energy bound still rejects a net-positive external energy source for that modeled channel. This is not an experiment, working engine, reaction-rate prediction, or FTL demonstration. Strong/electromagnetic interactions, source luminosity, support work and collection losses remain unresolved. The detailed technical reproducer stays in the private research repository pending appropriate review.
+
+Measurement-bench readiness remains NO-GO without actual calibrated noise, reference and blinded reversal data. USPTO maintenance-fee guidance was used to correct an earlier historical-patent screening assumption: U.S. utility patents based on applications filed before 1980-12-12 are outside the ordinary post-1980 maintenance-fee regime. Modern patent-family legal status remains unverified; no patent clearance or freedom-to-operate conclusion.
+
+Sources: Carter 1968 https://doi.org/10.1103/PhysRev.174.1559 ; Tsirkov et al. 2023 https://doi.org/10.1103/PhysRevC.107.015202 ; USPTO MPEP 2504 https://www.uspto.gov/web/offices/pac/mpep/s2504.html .
+No physical experiment, purchase, external commitment, protected-branch merge, or unattended between-run research claimed.
