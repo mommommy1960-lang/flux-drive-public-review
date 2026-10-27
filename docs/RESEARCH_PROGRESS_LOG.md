@@ -3105,3 +3105,14 @@ Measurement-bench readiness remains NO-GO without actual calibrated noise, refer
 
 Sources: Carter 1968 https://doi.org/10.1103/PhysRev.174.1559 ; Tsirkov et al. 2023 https://doi.org/10.1103/PhysRevC.107.015202 ; USPTO MPEP 2504 https://www.uspto.gov/web/offices/pac/mpep/s2504.html .
 No physical experiment, purchase, external commitment, protected-branch merge, or unattended between-run research claimed.
+
+
+## 2026-10-27 — independent calculation and patent-screen update
+
+An independent implementation reproduced the latest conditional Kerr capture bounds, and a deterministic numerical screen found no contradictions. The modeled collision channel still delivers net Killing energy to the black hole; this is not a net-positive external energy source or a physical propulsion result.
+
+A direct numerical integral independently matched the finite-cylinder frame-dragging formula. Under the declared geometry and hypothetical noise assumptions, increasing rotation alone does not provide a valid route to the target sensitivity within the model; CAL-00 remains blocked pending real calibration, noise, reference-channel, and blinded-control evidence.
+
+Patent claim-scope review distinguishes conventional rotating-habitat/propulsion, radiation-monitoring, proposed gravitational-wave imaging, and magnetic-bearing rotor support. One indexed abandoned application remains connected to separate U.S. and foreign family records. Official case-specific status records were not readable in this review, so no patent clearance or freedom-to-operate conclusion is made.
+
+Sources: Carter (1968) https://doi.org/10.1103/PhysRev.174.1559 ; Tsirkov et al. (2023) https://doi.org/10.1103/PhysRevC.107.015202 ; Stedman et al. (2003) https://doi.org/10.1088/0264-9381/20/13/305 ; USPTO MPEP §§2504/2701 https://www.uspto.gov/web/offices/pac/mpep/s2504.html and https://www.uspto.gov/web/offices/pac/mpep/s2701.html . Detailed unpublished calculations remain in the private kernel repository. No physical experiment, FTL, working drive, purchase, external commitment, or protected-branch merge is claimed.
