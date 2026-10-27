@@ -3145,3 +3145,14 @@ The four-category patent review still lacks authenticated official case-specific
 Sources: Carter https://doi.org/10.1103/PhysRev.174.1559 ; Compère, Liu and Long https://doi.org/10.1103/PhysRevD.105.024075 ; Tsirkov et al. https://doi.org/10.1103/PhysRevC.107.015202 ; NIST SP 1065 https://doi.org/10.6028/NIST.SP.1065 ; USPTO https://www.uspto.gov/patents/maintain .
 
 No physical experiment, FTL, working propulsion engine, measured Flux sensor capability, patent clearance, hardware purchase, external commitment, or protected-branch merge occurred.
+
+
+## 2026-10-27 — Conditional Kerr energy-accounting research update
+
+A new mathematical screening result narrows the conditions under which an idealized rotating-black-hole particle-collision model could transfer net energy to escaping products. For the studied restricted reaction, a net-extracting event would require both outgoing protons to escape; their eventual escape remains unverified. The work is theoretical and does not establish a physical reaction rate, usable energy source, or propulsion system.
+
+A separate hypothetical timing-uncertainty calculation shows that correcting recorded sample times does not eliminate errors in the time measurements themselves. The laboratory measurement concept remains NO-GO pending measured noise and independent calibration controls. Four patent-research categories remain open; no official case-specific patent-family legal status or freedom-to-operate determination has been obtained.
+
+Public references: https://doi.org/10.1103/PhysRev.174.1559 ; https://doi.org/10.6028/NIST.SP.1065 ; https://www.uspto.gov/patents/apply/checking-application-status/check-filing-status-your-patent-application .
+
+Detailed unpublished calculations and implementation stay in the private research repository pending appropriate IP review. No physical experiment, FTL, working engine, patent clearance, hardware purchase, external commitment or protected-branch merge occurred.
