@@ -2967,3 +2967,11 @@ A separate weak-field calculation found that the illustrative laboratory frame-d
 Patent work did not retrieve case-specific official transaction histories. Indexed abandonment labels remain unverified leads; no patent clearance or freedom-to-operate conclusion is made.
 
 Our contribution was to perform and archive reproducible conditional calculations, report null results and limitations, and specify falsification gates. External Kerr-geodesic and metrology methods remain credited to their authors. Detailed unpublished calculations remain private. No physical experiment, FTL, working extraction engine, or patent clearance is claimed.
+
+
+## 2026-10-26 — Flux Drive numerical-validation update
+
+A new private research entry independently integrated two selected Kerr photon trajectories and cross-checked their radial turning points and polar motion. The result supports only those selected mathematical trajectories; it does not establish a physical event rate or useful net energy source. The frame-dragging note now distinguishes observable geometry, and the calibration analysis records that ABBA rejection of constant and linear drift does not remove quadratic drift. CAL-00 remains unvalidated. Official case-specific patent histories were not obtained, so no legal-status or freedom-to-operate conclusion is made.
+
+Public summary only; controlled calibration details remain in the private research record. Report: https://github.com/mommommy1960-lang/flux-drive-kernel/blob/main/research/FLUX-KERR-44-independent-3d-geodesic-turning-point-check-rotor-observable-abba-patent-status-2026-10-26-1859-PDT.md
+
