@@ -2980,3 +2980,10 @@ Public summary only; controlled calibration details remain in the private resear
 ## 2026-10-26 — FLUX-KERR-45 (high-level summary)
 
 A bounded calculation established a conservative photon-energy ceiling for one previously specified Kerr collision model; even this deliberately loose bound remains below that model's total incoming energy. A calibration-design review found that a four-reading reversal sequence cannot distinguish the signal from arbitrary quadratic drift. A longer, polynomial-rejecting estimator was derived on paper, but no instrument data or physical test exists. Official patent-status retrieval remains incomplete across the four documented categories. This is simulation/analysis only; no propulsion, FTL, measured frame-dragging signal, or patent clearance is claimed.
+
+
+
+
+## 2026-10-26 — FLUX-KERR-47 (high-level summary)
+
+A bounded literature audit corrected the highest tabulated energy in a nearby exclusive proton-pair/neutral-pion production study. The closest data do not establish a production rate for the modeled source because the exact collision energy and quantum partial-wave state remain unmatched. A separate idealized rotor stress/energy calculation and covariance-aware calibration screen still leave the measurement proposal far below the hypothetical sensitivity requirement. Official patent-family status remains unresolved across all four categories. These are calculations and literature review only; no physical experiment, propulsion, FTL, measured frame-dragging signal, or patent clearance is claimed.
