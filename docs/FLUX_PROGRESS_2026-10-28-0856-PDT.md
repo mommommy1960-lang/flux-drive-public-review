@@ -1,0 +1,8 @@
+# Flux Drive public research checkpoint | 2026-10-28 08:56 PDT
+
+A new bounded mathematical audit of a Kerr black-hole particle-interaction model found that a hypothetical collision can match the **energy range** of published proton-pion measurements while still falling outside the **measured angular and final-state acceptance**. Consequently, the published cross sections do not establish a production rate for the modeled interaction. Conditional geodesic and conservation checks still show an **externally energy-negative** event, not a net-positive propulsion or extraction device.
+
+The rotating-mass measurement-bench gate remains **NO-GO** because no real calibrated sensor noise, systematic-transfer, blinded injection or sham data exist. Existing drift-rejection mathematics was checked without claiming a new calibration invention. Four historical patent-research categories remain open; current individual official application histories and family-wide legal status were not authenticated. No patent clearance or freedom-to-operate finding.
+
+Sources: Carter, https://doi.org/10.1103/PhysRev.174.1559 ; Tsirkov et al., https://doi.org/10.1103/PhysRevC.107.015202 ; NIST, https://www.nist.gov/publications/handbook-frequency-stability-analysis ; USPTO, https://www.uspto.gov/patents/search .
+Detailed unpublished model parameters and calculations remain in the private research repository pending IP review. No physical experiment, FTL demonstration, working engine, measured detector capability, patent clearance, hardware purchase, external commitment, protected-branch merge or between-run activity.
