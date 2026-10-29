@@ -3269,3 +3269,8 @@ A new conditional angular-momentum audit excludes net black-hole spin-angular-mo
 ## 2026-10-28 16:55 PDT — Kerr trajectory audit correction
 
 A mathematical recheck identified an exterior radial turning point in an earlier conditional particle trajectory. The prior short-lifetime examples remain valid at the stated stellar-mass scale, but horizon capture of the parent particle is not supported by that geodesic. No usable net energy extraction, FTL, experiment, or working drive was demonstrated. Laboratory rotating-mass measurement remains NO-GO without calibration; four patent categories remain legally unverified. Public-safe note: `docs/FLUX_PROGRESS_2026-10-28-1655-PDT.md` on this unmerged research branch. Primary references: https://doi.org/10.1103/PhysRev.174.1559 and https://pdgweb.lbl.gov/2025/tables/rpp2025-tab-mesons-light.pdf .
+
+
+## 2026-10-28 18:00 PDT | KERR-93 angular orientation screen
+
+Completed a conditional neutral-pion decay angular calculation separating negative conserved photon energy from the more restrictive initial inward/outward radial orientations. Independently checked numerically. This is not a full geodesic capture/escape probability, physical production rate, net-positive energy extraction, FTL, or an experiment. Rotating-mass bench remains uncalibrated (CAL-00 NO-GO), and four patent categories have no authenticated case/family clearance. Details remain private pending IP review. See `docs/FLUX_PROGRESS_2026-10-28-1800-PDT.md`. Sources: https://doi.org/10.1103/PhysRev.174.1559 ; https://pdg.lbl.gov/2025/listings/rpp2025-list-pi-zero.pdf ; https://doi.org/10.1103/PhysRevC.107.015202 .
